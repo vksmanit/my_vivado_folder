@@ -1,0 +1,1093 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+1	./../html/multiplication_c.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/multiplication_h.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/multiplication_initialize_c.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/multiplication_initialize_h.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/multiplication_terminate_c.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/multiplication_terminate_h.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/multiplication_types_h.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/rtGetInf_c.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/rtGetInf_h.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/rtGetNaN_c.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/rtGetNaN_h.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/rt_nonfinite_c.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/rt_nonfinite_h.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+1	./../html/rtwtypes_h.html	/^<a name="1"><font color="#888888 "><i>    1   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+10	./../html/multiplication_c.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/multiplication_h.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/multiplication_initialize_c.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/multiplication_initialize_h.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/multiplication_terminate_c.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/multiplication_terminate_h.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/multiplication_types_h.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/rtGetInf_c.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/rtGetInf_h.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/rtGetNaN_c.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/rtGetNaN_h.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/rt_nonfinite_c.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/rt_nonfinite_h.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+10	./../html/rtwtypes_h.html	/^<a name="10"><font color="#888888 "><i>   10   <\/i><\/font><\/a>$/;"	a
+100	./../html/rtGetInf_c.html	/^<a name="100"><font color="#888888 "><i>  100   <\/i><\/font><\/a>          <a href="rt_nonfinite_h.html#type_LittleEndianIEEEDouble" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_LittleEndianIEEEDouble');" target="_self"><font color="#1122aa">LittleEndianIEEEDouble<\/font><\/a> bitVal;$/;"	a
+100	./../html/rtGetNaN_c.html	/^<a name="100"><font color="#888888 "><i>  100   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+100	./../html/rt_nonfinite_c.html	/^<a name="100"><font color="#888888 "><i>  100   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for rt_nonfinite.c<\/i><\/font>$/;"	a
+100	./../html/rtwtypes_h.html	/^<a name="100"><font color="#888888 "><i>  100   <\/i><\/font><\/a>  <a href="#type_int32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int32_T');" target="_self"><font color="#1122aa">int32_T<\/font><\/a> im;$/;"	a
+101	./../html/rtGetInf_c.html	/^<a name="101"><font color="#888888 "><i>  101   <\/i><\/font><\/a>          <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> fltVal;$/;"	a
+101	./../html/rtGetNaN_c.html	/^<a name="101"><font color="#888888 "><i>  101   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+101	./../html/rt_nonfinite_c.html	/^<a name="101"><font color="#888888 "><i>  101   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+101	./../html/rtwtypes_h.html	/^<a name="101"><font color="#888888 "><i>  101   <\/i><\/font><\/a><b>}<\/b> <a name="type_cint32_T">cint32_T<\/a>;$/;"	a
+102	./../html/rtGetInf_c.html	/^<a name="102"><font color="#888888 "><i>  102   <\/i><\/font><\/a>        <b>}<\/b> tmpVal;$/;"	a
+102	./../html/rtGetNaN_c.html	/^<a name="102"><font color="#888888 "><i>  102   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+102	./../html/rt_nonfinite_c.html	/^<a name="102"><font color="#888888 "><i>  102   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+102	./../html/rtwtypes_h.html	/^<a name="102"><font color="#888888 "><i>  102   <\/i><\/font><\/a>$/;"	a
+103	./../html/rtGetInf_c.html	/^<a name="103"><font color="#888888 "><i>  103   <\/i><\/font><\/a>$/;"	a
+103	./../html/rtGetNaN_c.html	/^<a name="103"><font color="#888888 "><i>  103   <\/i><\/font><\/a><\/pre>$/;"	a
+103	./../html/rt_nonfinite_c.html	/^<a name="103"><font color="#888888 "><i>  103   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+103	./../html/rtwtypes_h.html	/^<a name="103"><font color="#888888 "><i>  103   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+104	./../html/rtGetInf_c.html	/^<a name="104"><font color="#888888 "><i>  104   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordH = 0xFFF00000U;$/;"	a
+104	./../html/rt_nonfinite_c.html	/^<a name="104"><font color="#888888 "><i>  104   <\/i><\/font><\/a><\/pre>$/;"	a
+104	./../html/rtwtypes_h.html	/^<a name="104"><font color="#888888 "><i>  104   <\/i><\/font><\/a>  <a href="#type_uint32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint32_T');" target="_self"><font color="#1122aa">uint32_T<\/font><\/a> re;$/;"	a
+105	./../html/rtGetInf_c.html	/^<a name="105"><font color="#888888 "><i>  105   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordL = 0x00000000U;$/;"	a
+105	./../html/rtwtypes_h.html	/^<a name="105"><font color="#888888 "><i>  105   <\/i><\/font><\/a>  <a href="#type_uint32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint32_T');" target="_self"><font color="#1122aa">uint32_T<\/font><\/a> im;$/;"	a
+106	./../html/rtGetInf_c.html	/^<a name="106"><font color="#888888 "><i>  106   <\/i><\/font><\/a>        minf = tmpVal.fltVal;$/;"	a
+106	./../html/rtwtypes_h.html	/^<a name="106"><font color="#888888 "><i>  106   <\/i><\/font><\/a><b>}<\/b> <a name="type_cuint32_T">cuint32_T<\/a>;$/;"	a
+107	./../html/rtGetInf_c.html	/^<a name="107"><font color="#888888 "><i>  107   <\/i><\/font><\/a>        <font color="#112266"><b>break<\/b><\/font>;$/;"	a
+107	./../html/rtwtypes_h.html	/^<a name="107"><font color="#888888 "><i>  107   <\/i><\/font><\/a>$/;"	a
+108	./../html/rtGetInf_c.html	/^<a name="108"><font color="#888888 "><i>  108   <\/i><\/font><\/a>      <b>}<\/b>$/;"	a
+108	./../html/rtwtypes_h.html	/^<a name="108"><font color="#888888 "><i>  108   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+109	./../html/rtGetInf_c.html	/^<a name="109"><font color="#888888 "><i>  109   <\/i><\/font><\/a>$/;"	a
+109	./../html/rtwtypes_h.html	/^<a name="109"><font color="#888888 "><i>  109   <\/i><\/font><\/a>  <a href="#type_int64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int64_T');" target="_self"><font color="#1122aa">int64_T<\/font><\/a> re;$/;"	a
+11	./../html/multiplication_c.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#117755"><i>\/* Include Files *\/<\/i><\/font>$/;"	a
+11	./../html/multiplication_h.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>ifndef<\/b><\/font> __MULTIPLICATION_H__$/;"	a
+11	./../html/multiplication_initialize_c.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#117755"><i>\/* Include Files *\/<\/i><\/font>$/;"	a
+11	./../html/multiplication_initialize_h.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>ifndef<\/b><\/font> __MULTIPLICATION_INITIALIZE_H__$/;"	a
+11	./../html/multiplication_terminate_c.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#117755"><i>\/* Include Files *\/<\/i><\/font>$/;"	a
+11	./../html/multiplication_terminate_h.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>ifndef<\/b><\/font> __MULTIPLICATION_TERMINATE_H__$/;"	a
+11	./../html/multiplication_types_h.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>ifndef<\/b><\/font> __MULTIPLICATION_TYPES_H__$/;"	a
+11	./../html/rtGetInf_c.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+11	./../html/rtGetInf_h.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>ifndef<\/b><\/font> __RTGETINF_H__$/;"	a
+11	./../html/rtGetNaN_c.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+11	./../html/rtGetNaN_h.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>ifndef<\/b><\/font> __RTGETNAN_H__$/;"	a
+11	./../html/rt_nonfinite_c.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+11	./../html/rt_nonfinite_h.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>ifndef<\/b><\/font> __RT_NONFINITE_H__$/;"	a
+11	./../html/rtwtypes_h.html	/^<a name="11"><font color="#888888 "><i>   11   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>ifndef<\/b><\/font> __RTWTYPES_H__$/;"	a
+110	./../html/rtGetInf_c.html	/^<a name="110"><font color="#888888 "><i>  110   <\/i><\/font><\/a>     <font color="#112266"><b>case<\/b><\/font> BigEndian:$/;"	a
+110	./../html/rtwtypes_h.html	/^<a name="110"><font color="#888888 "><i>  110   <\/i><\/font><\/a>  <a href="#type_int64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int64_T');" target="_self"><font color="#1122aa">int64_T<\/font><\/a> im;$/;"	a
+111	./../html/rtGetInf_c.html	/^<a name="111"><font color="#888888 "><i>  111   <\/i><\/font><\/a>      <b>{<\/b>$/;"	a
+111	./../html/rtwtypes_h.html	/^<a name="111"><font color="#888888 "><i>  111   <\/i><\/font><\/a><b>}<\/b> <a name="type_cint64_T">cint64_T<\/a>;$/;"	a
+112	./../html/rtGetInf_c.html	/^<a name="112"><font color="#888888 "><i>  112   <\/i><\/font><\/a>        <font color="#112266"><b>union<\/b><\/font> <b>{<\/b>$/;"	a
+112	./../html/rtwtypes_h.html	/^<a name="112"><font color="#888888 "><i>  112   <\/i><\/font><\/a>$/;"	a
+113	./../html/rtGetInf_c.html	/^<a name="113"><font color="#888888 "><i>  113   <\/i><\/font><\/a>          <a href="rt_nonfinite_h.html#type_BigEndianIEEEDouble" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_BigEndianIEEEDouble');" target="_self"><font color="#1122aa">BigEndianIEEEDouble<\/font><\/a> bitVal;$/;"	a
+113	./../html/rtwtypes_h.html	/^<a name="113"><font color="#888888 "><i>  113   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+114	./../html/rtGetInf_c.html	/^<a name="114"><font color="#888888 "><i>  114   <\/i><\/font><\/a>          <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> fltVal;$/;"	a
+114	./../html/rtwtypes_h.html	/^<a name="114"><font color="#888888 "><i>  114   <\/i><\/font><\/a>  <a href="#type_uint64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint64_T');" target="_self"><font color="#1122aa">uint64_T<\/font><\/a> re;$/;"	a
+115	./../html/rtGetInf_c.html	/^<a name="115"><font color="#888888 "><i>  115   <\/i><\/font><\/a>        <b>}<\/b> tmpVal;$/;"	a
+115	./../html/rtwtypes_h.html	/^<a name="115"><font color="#888888 "><i>  115   <\/i><\/font><\/a>  <a href="#type_uint64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint64_T');" target="_self"><font color="#1122aa">uint64_T<\/font><\/a> im;$/;"	a
+116	./../html/rtGetInf_c.html	/^<a name="116"><font color="#888888 "><i>  116   <\/i><\/font><\/a>$/;"	a
+116	./../html/rtwtypes_h.html	/^<a name="116"><font color="#888888 "><i>  116   <\/i><\/font><\/a><b>}<\/b> <a name="type_cuint64_T">cuint64_T<\/a>;$/;"	a
+117	./../html/rtGetInf_c.html	/^<a name="117"><font color="#888888 "><i>  117   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordH = 0xFFF00000U;$/;"	a
+117	./../html/rtwtypes_h.html	/^<a name="117"><font color="#888888 "><i>  117   <\/i><\/font><\/a>$/;"	a
+118	./../html/rtGetInf_c.html	/^<a name="118"><font color="#888888 "><i>  118   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordL = 0x00000000U;$/;"	a
+118	./../html/rtwtypes_h.html	/^<a name="118"><font color="#888888 "><i>  118   <\/i><\/font><\/a><font color="#117755"><i>\/*=======================================================================*<\/i><\/font>$/;"	a
+119	./../html/rtGetInf_c.html	/^<a name="119"><font color="#888888 "><i>  119   <\/i><\/font><\/a>        minf = tmpVal.fltVal;$/;"	a
+119	./../html/rtwtypes_h.html	/^<a name="119"><font color="#888888 "><i>  119   <\/i><\/font><\/a><font color="#117755"><I> * Min and Max:                                                          *<\/i><\/font>$/;"	a
+12	./../html/multiplication_c.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rt_nonfinite.h&quot;<\/font>$/;"	a
+12	./../html/multiplication_h.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> __MULTIPLICATION_H__$/;"	a
+12	./../html/multiplication_initialize_c.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rt_nonfinite.h&quot;<\/font>$/;"	a
+12	./../html/multiplication_initialize_h.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> __MULTIPLICATION_INITIALIZE_H__$/;"	a
+12	./../html/multiplication_terminate_c.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rt_nonfinite.h&quot;<\/font>$/;"	a
+12	./../html/multiplication_terminate_h.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> __MULTIPLICATION_TERMINATE_H__$/;"	a
+12	./../html/multiplication_types_h.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> __MULTIPLICATION_TYPES_H__$/;"	a
+12	./../html/rtGetInf_c.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+12	./../html/rtGetInf_h.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> __RTGETINF_H__$/;"	a
+12	./../html/rtGetNaN_c.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+12	./../html/rtGetNaN_h.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> __RTGETNAN_H__$/;"	a
+12	./../html/rt_nonfinite_c.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+12	./../html/rt_nonfinite_h.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> __RT_NONFINITE_H__$/;"	a
+12	./../html/rtwtypes_h.html	/^<a name="12"><font color="#888888 "><i>   12   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> __RTWTYPES_H__$/;"	a
+120	./../html/rtGetInf_c.html	/^<a name="120"><font color="#888888 "><i>  120   <\/i><\/font><\/a>        <font color="#112266"><b>break<\/b><\/font>;$/;"	a
+120	./../html/rtwtypes_h.html	/^<a name="120"><font color="#888888 "><i>  120   <\/i><\/font><\/a><font color="#117755"><I> *   int8_T, int16_T, int32_T     - signed 8, 16, or 32 bit integers     *<\/i><\/font>$/;"	a
+121	./../html/rtGetInf_c.html	/^<a name="121"><font color="#888888 "><i>  121   <\/i><\/font><\/a>      <b>}<\/b>$/;"	a
+121	./../html/rtwtypes_h.html	/^<a name="121"><font color="#888888 "><i>  121   <\/i><\/font><\/a><font color="#117755"><I> *   uint8_T, uint16_T, uint32_T  - unsigned 8, 16, or 32 bit integers   *<\/i><\/font>$/;"	a
+122	./../html/rtGetInf_c.html	/^<a name="122"><font color="#888888 "><i>  122   <\/i><\/font><\/a>    <b>}<\/b>$/;"	a
+122	./../html/rtwtypes_h.html	/^<a name="122"><font color="#888888 "><i>  122   <\/i><\/font><\/a><font color="#117755"><I> *=======================================================================*\/<\/i><\/font>$/;"	a
+123	./../html/rtGetInf_c.html	/^<a name="123"><font color="#888888 "><i>  123   <\/i><\/font><\/a>  <b>}<\/b>$/;"	a
+123	./../html/rtwtypes_h.html	/^<a name="123"><font color="#888888 "><i>  123   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MAX_int8_T                     ((<a href="#type_int8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int8_T');" target="_self"><font color="#1122aa">int8_T<\/font><\/a>)(127))$/;"	a
+124	./../html/rtGetInf_c.html	/^<a name="124"><font color="#888888 "><i>  124   <\/i><\/font><\/a>$/;"	a
+124	./../html/rtwtypes_h.html	/^<a name="124"><font color="#888888 "><i>  124   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MIN_int8_T                     ((<a href="#type_int8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int8_T');" target="_self"><font color="#1122aa">int8_T<\/font><\/a>)(-128))$/;"	a
+125	./../html/rtGetInf_c.html	/^<a name="125"><font color="#888888 "><i>  125   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> minf;$/;"	a
+125	./../html/rtwtypes_h.html	/^<a name="125"><font color="#888888 "><i>  125   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MAX_uint8_T                    ((<a href="#type_uint8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint8_T');" target="_self"><font color="#1122aa">uint8_T<\/font><\/a>)(255))$/;"	a
+126	./../html/rtGetInf_c.html	/^<a name="126"><font color="#888888 "><i>  126   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+126	./../html/rtwtypes_h.html	/^<a name="126"><font color="#888888 "><i>  126   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MIN_uint8_T                    ((<a href="#type_uint8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint8_T');" target="_self"><font color="#1122aa">uint8_T<\/font><\/a>)(0))$/;"	a
+127	./../html/rtGetInf_c.html	/^<a name="127"><font color="#888888 "><i>  127   <\/i><\/font><\/a>$/;"	a
+127	./../html/rtwtypes_h.html	/^<a name="127"><font color="#888888 "><i>  127   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MAX_int16_T                    ((<a href="#type_int16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int16_T');" target="_self"><font color="#1122aa">int16_T<\/font><\/a>)(32767))$/;"	a
+128	./../html/rtGetInf_c.html	/^<a name="128"><font color="#888888 "><i>  128   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtGetMinusInfF ==================================================<\/i><\/font>$/;"	a
+128	./../html/rtwtypes_h.html	/^<a name="128"><font color="#888888 "><i>  128   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MIN_int16_T                    ((<a href="#type_int16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int16_T');" target="_self"><font color="#1122aa">int16_T<\/font><\/a>)(-32768))$/;"	a
+129	./../html/rtGetInf_c.html	/^<a name="129"><font color="#888888 "><i>  129   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+129	./../html/rtwtypes_h.html	/^<a name="129"><font color="#888888 "><i>  129   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MAX_uint16_T                   ((<a href="#type_uint16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint16_T');" target="_self"><font color="#1122aa">uint16_T<\/font><\/a>)(65535))$/;"	a
+13	./../html/multiplication_c.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;multiplication.h&quot;<\/font>$/;"	a
+13	./../html/multiplication_h.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a>$/;"	a
+13	./../html/multiplication_initialize_c.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;multiplication.h&quot;<\/font>$/;"	a
+13	./../html/multiplication_initialize_h.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a>$/;"	a
+13	./../html/multiplication_terminate_c.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;multiplication.h&quot;<\/font>$/;"	a
+13	./../html/multiplication_terminate_h.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a>$/;"	a
+13	./../html/multiplication_types_h.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a>$/;"	a
+13	./../html/rtGetInf_c.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#117755"><I> *       MATLAB for code generation function to initialize non-finite, Inf and MinusInf<\/i><\/font>$/;"	a
+13	./../html/rtGetInf_h.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;stddef.h&gt;<\/font>$/;"	a
+13	./../html/rtGetNaN_c.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#117755"><I> *       MATLAB for code generation function to initialize non-finite, NaN<\/i><\/font>$/;"	a
+13	./../html/rtGetNaN_h.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;stddef.h&gt;<\/font>$/;"	a
+13	./../html/rt_nonfinite_c.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#117755"><I> *      MATLAB for code generation function to initialize non-finites,<\/i><\/font>$/;"	a
+13	./../html/rt_nonfinite_h.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>if<\/b><\/font> <font color="#992211"><b>defined<\/b><\/font>(_MSC_VER) &amp;&amp; (_MSC_VER &lt;= 1200)$/;"	a
+13	./../html/rtwtypes_h.html	/^<a name="13"><font color="#888888 "><i>   13   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>ifndef<\/b><\/font> __TMWTYPES__$/;"	a
+130	./../html/rtGetInf_c.html	/^<a name="130"><font color="#888888 "><i>  130   <\/i><\/font><\/a><font color="#117755"><I> * Initialize rtMinusInfF needed by the generated code.<\/i><\/font>$/;"	a
+130	./../html/rtwtypes_h.html	/^<a name="130"><font color="#888888 "><i>  130   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MIN_uint16_T                   ((<a href="#type_uint16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint16_T');" target="_self"><font color="#1122aa">uint16_T<\/font><\/a>)(0))$/;"	a
+131	./../html/rtGetInf_c.html	/^<a name="131"><font color="#888888 "><i>  131   <\/i><\/font><\/a><font color="#117755"><I> * Inf is initialized as non-signaling. Assumes IEEE.<\/i><\/font>$/;"	a
+131	./../html/rtwtypes_h.html	/^<a name="131"><font color="#888888 "><i>  131   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MAX_int32_T                    ((<a href="#type_int32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int32_T');" target="_self"><font color="#1122aa">int32_T<\/font><\/a>)(2147483647))$/;"	a
+132	./../html/rtGetInf_c.html	/^<a name="132"><font color="#888888 "><i>  132   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+132	./../html/rtwtypes_h.html	/^<a name="132"><font color="#888888 "><i>  132   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MIN_int32_T                    ((<a href="#type_int32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int32_T');" target="_self"><font color="#1122aa">int32_T<\/font><\/a>)(-2147483647-1))$/;"	a
+133	./../html/rtGetInf_c.html	/^<a name="133"><font color="#888888 "><i>  133   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a name="fcn_rtGetMinusInfF">rtGetMinusInfF<\/a>(<font color="#112266"><b>void<\/b><\/font>)$/;"	a
+133	./../html/rtwtypes_h.html	/^<a name="133"><font color="#888888 "><i>  133   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MAX_uint32_T                   ((<a href="#type_uint32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint32_T');" target="_self"><font color="#1122aa">uint32_T<\/font><\/a>)(0xFFFFFFFFU))$/;"	a
+134	./../html/rtGetInf_c.html	/^<a name="134"><font color="#888888 "><i>  134   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+134	./../html/rtwtypes_h.html	/^<a name="134"><font color="#888888 "><i>  134   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MIN_uint32_T                   ((<a href="#type_uint32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint32_T');" target="_self"><font color="#1122aa">uint32_T<\/font><\/a>)(0))$/;"	a
+135	./../html/rtGetInf_c.html	/^<a name="135"><font color="#888888 "><i>  135   <\/i><\/font><\/a>  <a href="rt_nonfinite_h.html#type_IEEESingle" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_IEEESingle');" target="_self"><font color="#1122aa">IEEESingle<\/font><\/a> minfF;$/;"	a
+135	./../html/rtwtypes_h.html	/^<a name="135"><font color="#888888 "><i>  135   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MAX_int64_T                    ((<a href="#type_int64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int64_T');" target="_self"><font color="#1122aa">int64_T<\/font><\/a>)(9223372036854775807L))$/;"	a
+136	./../html/rtGetInf_c.html	/^<a name="136"><font color="#888888 "><i>  136   <\/i><\/font><\/a>  minfF.wordL.wordLuint = 0xFF800000U;$/;"	a
+136	./../html/rtwtypes_h.html	/^<a name="136"><font color="#888888 "><i>  136   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MIN_int64_T                    ((<a href="#type_int64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int64_T');" target="_self"><font color="#1122aa">int64_T<\/font><\/a>)(-9223372036854775807L-1L))$/;"	a
+137	./../html/rtGetInf_c.html	/^<a name="137"><font color="#888888 "><i>  137   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> minfF.wordL.wordLreal;$/;"	a
+137	./../html/rtwtypes_h.html	/^<a name="137"><font color="#888888 "><i>  137   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MAX_uint64_T                   ((<a href="#type_uint64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint64_T');" target="_self"><font color="#1122aa">uint64_T<\/font><\/a>)(0xFFFFFFFFFFFFFFFFUL))$/;"	a
+138	./../html/rtGetInf_c.html	/^<a name="138"><font color="#888888 "><i>  138   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+138	./../html/rtwtypes_h.html	/^<a name="138"><font color="#888888 "><i>  138   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> MIN_uint64_T                   ((<a href="#type_uint64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint64_T');" target="_self"><font color="#1122aa">uint64_T<\/font><\/a>)(0UL))$/;"	a
+139	./../html/rtGetInf_c.html	/^<a name="139"><font color="#888888 "><i>  139   <\/i><\/font><\/a>$/;"	a
+139	./../html/rtwtypes_h.html	/^<a name="139"><font color="#888888 "><i>  139   <\/i><\/font><\/a>$/;"	a
+14	./../html/multiplication_c.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a>$/;"	a
+14	./../html/multiplication_h.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#117755"><i>\/* Include Files *\/<\/i><\/font>$/;"	a
+14	./../html/multiplication_initialize_c.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;multiplication_initialize.h&quot;<\/font>$/;"	a
+14	./../html/multiplication_initialize_h.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#117755"><i>\/* Include Files *\/<\/i><\/font>$/;"	a
+14	./../html/multiplication_terminate_c.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;multiplication_terminate.h&quot;<\/font>$/;"	a
+14	./../html/multiplication_terminate_h.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#117755"><i>\/* Include Files *\/<\/i><\/font>$/;"	a
+14	./../html/multiplication_types_h.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#117755"><i>\/* Include Files *\/<\/i><\/font>$/;"	a
+14	./../html/rtGetInf_c.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+14	./../html/rtGetInf_h.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtwtypes.h&quot;<\/font>$/;"	a
+14	./../html/rtGetNaN_c.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+14	./../html/rtGetNaN_h.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtwtypes.h&quot;<\/font>$/;"	a
+14	./../html/rt_nonfinite_c.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#117755"><I> *      (Inf, NaN and -Inf).<\/i><\/font>$/;"	a
+14	./../html/rt_nonfinite_h.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;float.h&gt;<\/font>$/;"	a
+14	./../html/rtwtypes_h.html	/^<a name="14"><font color="#888888 "><i>   14   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> __TMWTYPES__$/;"	a
+140	./../html/rtGetInf_c.html	/^<a name="140"><font color="#888888 "><i>  140   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+140	./../html/rtwtypes_h.html	/^<a name="140"><font color="#888888 "><i>  140   <\/i><\/font><\/a><font color="#117755"><i>\/* Logical type definitions *\/<\/i><\/font>$/;"	a
+141	./../html/rtGetInf_c.html	/^<a name="141"><font color="#888888 "><i>  141   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for rtGetInf.c<\/i><\/font>$/;"	a
+141	./../html/rtwtypes_h.html	/^<a name="141"><font color="#888888 "><i>  141   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>if<\/b><\/font> !<font color="#992211"><b>defined<\/b><\/font>(__cplusplus) &amp;&amp; !<font color="#992211"><b>defined<\/b><\/font>(__true_false_are_keywords)$/;"	a
+142	./../html/rtGetInf_c.html	/^<a name="142"><font color="#888888 "><i>  142   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+142	./../html/rtwtypes_h.html	/^<a name="142"><font color="#888888 "><i>  142   <\/i><\/font><\/a><font color="#992211">#<\/font>  <font color="#992211"><b>ifndef<\/b><\/font> false$/;"	a
+143	./../html/rtGetInf_c.html	/^<a name="143"><font color="#888888 "><i>  143   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+143	./../html/rtwtypes_h.html	/^<a name="143"><font color="#888888 "><i>  143   <\/i><\/font><\/a><font color="#992211">#<\/font>   <font color="#992211"><b>define<\/b><\/font> false                       (0U)$/;"	a
+144	./../html/rtGetInf_c.html	/^<a name="144"><font color="#888888 "><i>  144   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+144	./../html/rtwtypes_h.html	/^<a name="144"><font color="#888888 "><i>  144   <\/i><\/font><\/a><font color="#992211">#<\/font>  <font color="#992211"><b>endif<\/b><\/font>$/;"	a
+145	./../html/rtGetInf_c.html	/^<a name="145"><font color="#888888 "><i>  145   <\/i><\/font><\/a><\/pre>$/;"	a
+145	./../html/rtwtypes_h.html	/^<a name="145"><font color="#888888 "><i>  145   <\/i><\/font><\/a>$/;"	a
+146	./../html/rtwtypes_h.html	/^<a name="146"><font color="#888888 "><i>  146   <\/i><\/font><\/a><font color="#992211">#<\/font>  <font color="#992211"><b>ifndef<\/b><\/font> true$/;"	a
+147	./../html/rtwtypes_h.html	/^<a name="147"><font color="#888888 "><i>  147   <\/i><\/font><\/a><font color="#992211">#<\/font>   <font color="#992211"><b>define<\/b><\/font> true                        (1U)$/;"	a
+148	./../html/rtwtypes_h.html	/^<a name="148"><font color="#888888 "><i>  148   <\/i><\/font><\/a><font color="#992211">#<\/font>  <font color="#992211"><b>endif<\/b><\/font>$/;"	a
+149	./../html/rtwtypes_h.html	/^<a name="149"><font color="#888888 "><i>  149   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+15	./../html/multiplication_c.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#117755"><i>\/* Function Definitions *\/<\/i><\/font>$/;"	a
+15	./../html/multiplication_h.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;stddef.h&gt;<\/font>$/;"	a
+15	./../html/multiplication_initialize_c.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a>$/;"	a
+15	./../html/multiplication_initialize_h.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;stddef.h&gt;<\/font>$/;"	a
+15	./../html/multiplication_terminate_c.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a>$/;"	a
+15	./../html/multiplication_terminate_h.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;stddef.h&gt;<\/font>$/;"	a
+15	./../html/multiplication_types_h.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtwtypes.h&quot;<\/font>$/;"	a
+15	./../html/rtGetInf_c.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtGetInf.h&quot;<\/font>$/;"	a
+15	./../html/rtGetInf_h.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rt_nonfinite.h&quot;<\/font>$/;"	a
+15	./../html/rtGetNaN_c.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtGetNaN.h&quot;<\/font>$/;"	a
+15	./../html/rtGetNaN_h.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rt_nonfinite.h&quot;<\/font>$/;"	a
+15	./../html/rt_nonfinite_c.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+15	./../html/rt_nonfinite_h.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+15	./../html/rtwtypes_h.html	/^<a name="15"><font color="#888888 "><i>   15   <\/i><\/font><\/a>$/;"	a
+150	./../html/rtwtypes_h.html	/^<a name="150"><font color="#888888 "><i>  150   <\/i><\/font><\/a>$/;"	a
+151	./../html/rtwtypes_h.html	/^<a name="151"><font color="#888888 "><i>  151   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+152	./../html/rtwtypes_h.html	/^<a name="152"><font color="#888888 "><i>  152   <\/i><\/font><\/a><font color="#117755"><I> * Maximum length of a MATLAB identifier (function\/variable)<\/i><\/font>$/;"	a
+153	./../html/rtwtypes_h.html	/^<a name="153"><font color="#888888 "><i>  153   <\/i><\/font><\/a><font color="#117755"><I> * including the null-termination character. Referenced by<\/i><\/font>$/;"	a
+154	./../html/rtwtypes_h.html	/^<a name="154"><font color="#888888 "><i>  154   <\/i><\/font><\/a><font color="#117755"><I> * rt_logging.c and rt_matrx.c.<\/i><\/font>$/;"	a
+155	./../html/rtwtypes_h.html	/^<a name="155"><font color="#888888 "><i>  155   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+156	./../html/rtwtypes_h.html	/^<a name="156"><font color="#888888 "><i>  156   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> TMW_NAME_LENGTH_MAX            64$/;"	a
+157	./../html/rtwtypes_h.html	/^<a name="157"><font color="#888888 "><i>  157   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+158	./../html/rtwtypes_h.html	/^<a name="158"><font color="#888888 "><i>  158   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+159	./../html/rtwtypes_h.html	/^<a name="159"><font color="#888888 "><i>  159   <\/i><\/font><\/a>$/;"	a
+16	./../html/multiplication_c.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a>$/;"	a
+16	./../html/multiplication_h.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;stdlib.h&gt;<\/font>$/;"	a
+16	./../html/multiplication_initialize_c.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#117755"><i>\/* Function Definitions *\/<\/i><\/font>$/;"	a
+16	./../html/multiplication_initialize_h.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;stdlib.h&gt;<\/font>$/;"	a
+16	./../html/multiplication_terminate_c.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#117755"><i>\/* Function Definitions *\/<\/i><\/font>$/;"	a
+16	./../html/multiplication_terminate_h.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;stdlib.h&gt;<\/font>$/;"	a
+16	./../html/multiplication_types_h.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+16	./../html/rtGetInf_c.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> NumBitsPerChar                 8U$/;"	a
+16	./../html/rtGetInf_h.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a>$/;"	a
+16	./../html/rtGetNaN_c.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> NumBitsPerChar                 8U$/;"	a
+16	./../html/rtGetNaN_h.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a>$/;"	a
+16	./../html/rt_nonfinite_c.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rt_nonfinite.h&quot;<\/font>$/;"	a
+16	./../html/rt_nonfinite_h.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a>$/;"	a
+16	./../html/rtwtypes_h.html	/^<a name="16"><font color="#888888 "><i>   16   <\/i><\/font><\/a><font color="#117755"><i>\/*=======================================================================*<\/i><\/font>$/;"	a
+160	./../html/rtwtypes_h.html	/^<a name="160"><font color="#888888 "><i>  160   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+161	./../html/rtwtypes_h.html	/^<a name="161"><font color="#888888 "><i>  161   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for rtwtypes.h<\/i><\/font>$/;"	a
+162	./../html/rtwtypes_h.html	/^<a name="162"><font color="#888888 "><i>  162   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+163	./../html/rtwtypes_h.html	/^<a name="163"><font color="#888888 "><i>  163   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+164	./../html/rtwtypes_h.html	/^<a name="164"><font color="#888888 "><i>  164   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+165	./../html/rtwtypes_h.html	/^<a name="165"><font color="#888888 "><i>  165   <\/i><\/font><\/a><\/pre>$/;"	a
+17	./../html/multiplication_c.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+17	./../html/multiplication_h.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtwtypes.h&quot;<\/font>$/;"	a
+17	./../html/multiplication_initialize_c.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a>$/;"	a
+17	./../html/multiplication_initialize_h.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtwtypes.h&quot;<\/font>$/;"	a
+17	./../html/multiplication_terminate_c.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a>$/;"	a
+17	./../html/multiplication_terminate_h.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtwtypes.h&quot;<\/font>$/;"	a
+17	./../html/multiplication_types_h.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a>$/;"	a
+17	./../html/rtGetInf_c.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a>$/;"	a
+17	./../html/rtGetInf_h.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a href="rtGetInf_c.html#fcn_rtGetInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetInf');" target="_self"><font color="#1122aa">rtGetInf<\/font><\/a>(<font color="#112266"><b>void<\/b><\/font>);$/;"	a
+17	./../html/rtGetNaN_c.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a>$/;"	a
+17	./../html/rtGetNaN_h.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a href="rtGetNaN_c.html#fcn_rtGetNaN" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetNaN');" target="_self"><font color="#1122aa">rtGetNaN<\/font><\/a>(<font color="#112266"><b>void<\/b><\/font>);$/;"	a
+17	./../html/rt_nonfinite_c.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtGetNaN.h&quot;<\/font>$/;"	a
+17	./../html/rt_nonfinite_h.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&lt;stddef.h&gt;<\/font>$/;"	a
+17	./../html/rtwtypes_h.html	/^<a name="17"><font color="#888888 "><i>   17   <\/i><\/font><\/a><font color="#117755"><I> * Target hardware information<\/i><\/font>$/;"	a
+18	./../html/multiplication_c.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#117755"><I> * Arguments    : int a<\/i><\/font>$/;"	a
+18	./../html/multiplication_h.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;multiplication_types.h&quot;<\/font>$/;"	a
+18	./../html/multiplication_initialize_c.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+18	./../html/multiplication_initialize_h.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;multiplication_types.h&quot;<\/font>$/;"	a
+18	./../html/multiplication_terminate_c.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+18	./../html/multiplication_terminate_h.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;multiplication_types.h&quot;<\/font>$/;"	a
+18	./../html/multiplication_types_h.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+18	./../html/rtGetInf_c.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtGetInf ==================================================<\/i><\/font>$/;"	a
+18	./../html/rtGetInf_h.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a href="rtGetInf_c.html#fcn_rtGetInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetInfF');" target="_self"><font color="#1122aa">rtGetInfF<\/font><\/a>(<font color="#112266"><b>void<\/b><\/font>);$/;"	a
+18	./../html/rtGetNaN_c.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtGetNaN ==================================================<\/i><\/font>$/;"	a
+18	./../html/rtGetNaN_h.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a href="rtGetNaN_c.html#fcn_rtGetNaNF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetNaNF');" target="_self"><font color="#1122aa">rtGetNaNF<\/font><\/a>(<font color="#112266"><b>void<\/b><\/font>);$/;"	a
+18	./../html/rt_nonfinite_c.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtGetInf.h&quot;<\/font>$/;"	a
+18	./../html/rt_nonfinite_h.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>include<\/b><\/font> <font color="#992211">&quot;rtwtypes.h&quot;<\/font>$/;"	a
+18	./../html/rtwtypes_h.html	/^<a name="18"><font color="#888888 "><i>   18   <\/i><\/font><\/a><font color="#117755"><I> *   Device type: Generic-&gt;MATLAB Host Computer<\/i><\/font>$/;"	a
+19	./../html/multiplication_c.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a><font color="#117755"><I> *                int b<\/i><\/font>$/;"	a
+19	./../html/multiplication_h.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a>$/;"	a
+19	./../html/multiplication_initialize_c.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a><font color="#117755"><I> * Arguments    : void<\/i><\/font>$/;"	a
+19	./../html/multiplication_initialize_h.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a>$/;"	a
+19	./../html/multiplication_terminate_c.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a><font color="#117755"><I> * Arguments    : void<\/i><\/font>$/;"	a
+19	./../html/multiplication_terminate_h.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a>$/;"	a
+19	./../html/multiplication_types_h.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for multiplication_types.h<\/i><\/font>$/;"	a
+19	./../html/rtGetInf_c.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+19	./../html/rtGetInf_h.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a href="rtGetInf_c.html#fcn_rtGetMinusInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetMinusInf');" target="_self"><font color="#1122aa">rtGetMinusInf<\/font><\/a>(<font color="#112266"><b>void<\/b><\/font>);$/;"	a
+19	./../html/rtGetNaN_c.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+19	./../html/rtGetNaN_h.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a>$/;"	a
+19	./../html/rt_nonfinite_c.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a>$/;"	a
+19	./../html/rt_nonfinite_h.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a>$/;"	a
+19	./../html/rtwtypes_h.html	/^<a name="19"><font color="#888888 "><i>   19   <\/i><\/font><\/a><font color="#117755"><I> *   Number of bits:     char:   8    short:   16    int:  32<\/i><\/font>$/;"	a
+2	./../html/multiplication_c.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/multiplication_h.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/multiplication_initialize_c.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/multiplication_initialize_h.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/multiplication_terminate_c.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/multiplication_terminate_h.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/multiplication_types_h.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/rtGetInf_c.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/rtGetInf_h.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/rtGetNaN_c.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/rtGetNaN_h.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/rt_nonfinite_c.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/rt_nonfinite_h.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+2	./../html/rtwtypes_h.html	/^<a name="2"><font color="#888888 "><i>    2   <\/i><\/font><\/a><font color="#117755"><I> * Academic License - for use in teaching, academic research, and meeting<\/i><\/font>$/;"	a
+20	./../html/multiplication_c.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><I> * Return Type  : int<\/i><\/font>$/;"	a
+20	./../html/multiplication_h.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><i>\/* Function Declarations *\/<\/i><\/font>$/;"	a
+20	./../html/multiplication_initialize_c.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><I> * Return Type  : void<\/i><\/font>$/;"	a
+20	./../html/multiplication_initialize_h.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><i>\/* Function Declarations *\/<\/i><\/font>$/;"	a
+20	./../html/multiplication_terminate_c.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><I> * Return Type  : void<\/i><\/font>$/;"	a
+20	./../html/multiplication_terminate_h.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><i>\/* Function Declarations *\/<\/i><\/font>$/;"	a
+20	./../html/multiplication_types_h.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+20	./../html/rtGetInf_c.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><I> * Initialize rtInf needed by the generated code.<\/i><\/font>$/;"	a
+20	./../html/rtGetInf_h.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a href="rtGetInf_c.html#fcn_rtGetMinusInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetMinusInfF');" target="_self"><font color="#1122aa">rtGetMinusInfF<\/font><\/a>(<font color="#112266"><b>void<\/b><\/font>);$/;"	a
+20	./../html/rtGetNaN_c.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><I> * Initialize rtNaN needed by the generated code.<\/i><\/font>$/;"	a
+20	./../html/rtGetNaN_h.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+20	./../html/rt_nonfinite_c.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a name="var_rtInf">rtInf<\/a>;$/;"	a
+20	./../html/rt_nonfinite_h.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a href="rt_nonfinite_c.html#var_rtInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtInf');" target="_self"><font color="#1122aa">rtInf<\/font><\/a>;$/;"	a
+20	./../html/rtwtypes_h.html	/^<a name="20"><font color="#888888 "><i>   20   <\/i><\/font><\/a><font color="#117755"><I> *                       long:  64    long long:  64<\/i><\/font>$/;"	a
+21	./../html/multiplication_c.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+21	./../html/multiplication_h.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <font color="#112266"><b>int<\/b><\/font> <a href="multiplication_c.html#fcn_multiplication" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_multiplication');" target="_self"><font color="#1122aa">multiplication<\/font><\/a>(<font color="#112266"><b>int<\/b><\/font> a, <font color="#112266"><b>int<\/b><\/font> b);$/;"	a
+21	./../html/multiplication_initialize_c.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+21	./../html/multiplication_initialize_h.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <font color="#112266"><b>void<\/b><\/font> <a href="multiplication_initialize_c.html#fcn_multiplication_initialize" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_multiplication_initialize');" target="_self"><font color="#1122aa">multiplication_initialize<\/font><\/a>(<font color="#112266"><b>void<\/b><\/font>);$/;"	a
+21	./../html/multiplication_terminate_c.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+21	./../html/multiplication_terminate_h.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <font color="#112266"><b>void<\/b><\/font> <a href="multiplication_terminate_c.html#fcn_multiplication_terminate" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_multiplication_terminate');" target="_self"><font color="#1122aa">multiplication_terminate<\/font><\/a>(<font color="#112266"><b>void<\/b><\/font>);$/;"	a
+21	./../html/multiplication_types_h.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+21	./../html/rtGetInf_c.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#117755"><I> * Inf is initialized as non-signaling. Assumes IEEE.<\/i><\/font>$/;"	a
+21	./../html/rtGetInf_h.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a>$/;"	a
+21	./../html/rtGetNaN_c.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#117755"><I> * NaN is initialized as non-signaling. Assumes IEEE.<\/i><\/font>$/;"	a
+21	./../html/rtGetNaN_h.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a>$/;"	a
+21	./../html/rt_nonfinite_c.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a name="var_rtMinusInf">rtMinusInf<\/a>;$/;"	a
+21	./../html/rt_nonfinite_h.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a href="rt_nonfinite_c.html#var_rtMinusInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtMinusInf');" target="_self"><font color="#1122aa">rtMinusInf<\/font><\/a>;$/;"	a
+21	./../html/rtwtypes_h.html	/^<a name="21"><font color="#888888 "><i>   21   <\/i><\/font><\/a><font color="#117755"><I> *                       native word size:  64<\/i><\/font>$/;"	a
+22	./../html/multiplication_c.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#112266"><b>int<\/b><\/font> <a name="fcn_multiplication">multiplication<\/a>(<font color="#112266"><b>int<\/b><\/font> a, <font color="#112266"><b>int<\/b><\/font> b)$/;"	a
+22	./../html/multiplication_h.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a>$/;"	a
+22	./../html/multiplication_initialize_c.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#112266"><b>void<\/b><\/font> <a name="fcn_multiplication_initialize">multiplication_initialize<\/a>(<font color="#112266"><b>void<\/b><\/font>)$/;"	a
+22	./../html/multiplication_initialize_h.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a>$/;"	a
+22	./../html/multiplication_terminate_c.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#112266"><b>void<\/b><\/font> <a name="fcn_multiplication_terminate">multiplication_terminate<\/a>(<font color="#112266"><b>void<\/b><\/font>)$/;"	a
+22	./../html/multiplication_terminate_h.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a>$/;"	a
+22	./../html/multiplication_types_h.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+22	./../html/rtGetInf_c.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+22	./../html/rtGetInf_h.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+22	./../html/rtGetNaN_c.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+22	./../html/rtGetNaN_h.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+22	./../html/rt_nonfinite_c.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a name="var_rtNaN">rtNaN<\/a>;$/;"	a
+22	./../html/rt_nonfinite_h.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a href="rt_nonfinite_c.html#var_rtNaN" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtNaN');" target="_self"><font color="#1122aa">rtNaN<\/font><\/a>;$/;"	a
+22	./../html/rtwtypes_h.html	/^<a name="22"><font color="#888888 "><i>   22   <\/i><\/font><\/a><font color="#117755"><I> *   Byte ordering: LittleEndian<\/i><\/font>$/;"	a
+23	./../html/multiplication_c.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+23	./../html/multiplication_h.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+23	./../html/multiplication_initialize_c.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+23	./../html/multiplication_initialize_h.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+23	./../html/multiplication_terminate_c.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+23	./../html/multiplication_terminate_h.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+23	./../html/multiplication_types_h.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><\/pre>$/;"	a
+23	./../html/rtGetInf_c.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a name="fcn_rtGetInf">rtGetInf<\/a>(<font color="#112266"><b>void<\/b><\/font>)$/;"	a
+23	./../html/rtGetInf_h.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a>$/;"	a
+23	./../html/rtGetNaN_c.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a name="fcn_rtGetNaN">rtGetNaN<\/a>(<font color="#112266"><b>void<\/b><\/font>)$/;"	a
+23	./../html/rtGetNaN_h.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for rtGetNaN.h<\/i><\/font>$/;"	a
+23	./../html/rt_nonfinite_c.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a name="var_rtInfF">rtInfF<\/a>;$/;"	a
+23	./../html/rt_nonfinite_h.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a href="rt_nonfinite_c.html#var_rtInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtInfF');" target="_self"><font color="#1122aa">rtInfF<\/font><\/a>;$/;"	a
+23	./../html/rtwtypes_h.html	/^<a name="23"><font color="#888888 "><i>   23   <\/i><\/font><\/a><font color="#117755"><I> *   Signed integer division rounds to: Zero<\/i><\/font>$/;"	a
+24	./../html/multiplication_c.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a>  <font color="#112266"><b>long<\/b><\/font> i0;$/;"	a
+24	./../html/multiplication_h.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a>$/;"	a
+24	./../html/multiplication_initialize_c.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a>  <a href="rt_nonfinite_c.html#fcn_rt_InitInfAndNaN" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rt_InitInfAndNaN');" target="_self"><font color="#1122aa">rt_InitInfAndNaN<\/font><\/a>(8U);$/;"	a
+24	./../html/multiplication_initialize_h.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a>$/;"	a
+24	./../html/multiplication_terminate_c.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a>  <font color="#117755"><i>\/* (no terminate code required) *\/<\/i><\/font>$/;"	a
+24	./../html/multiplication_terminate_h.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a>$/;"	a
+24	./../html/rtGetInf_c.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+24	./../html/rtGetInf_h.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+24	./../html/rtGetNaN_c.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+24	./../html/rtGetNaN_h.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+24	./../html/rt_nonfinite_c.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a name="var_rtMinusInfF">rtMinusInfF<\/a>;$/;"	a
+24	./../html/rt_nonfinite_h.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a href="rt_nonfinite_c.html#var_rtMinusInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtMinusInfF');" target="_self"><font color="#1122aa">rtMinusInfF<\/font><\/a>;$/;"	a
+24	./../html/rtwtypes_h.html	/^<a name="24"><font color="#888888 "><i>   24   <\/i><\/font><\/a><font color="#117755"><I> *   Shift right on a signed integer as arithmetic shift: on<\/i><\/font>$/;"	a
+25	./../html/multiplication_c.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a>  i0 = (<font color="#112266"><b>long<\/b><\/font>)a * b;$/;"	a
+25	./../html/multiplication_h.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+25	./../html/multiplication_initialize_c.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+25	./../html/multiplication_initialize_h.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+25	./../html/multiplication_terminate_c.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+25	./../html/multiplication_terminate_h.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+25	./../html/rtGetInf_c.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a>  size_t bitsPerReal = <font color="#112266"><b>sizeof<\/b><\/font>(<a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a>) * (NumBitsPerChar);$/;"	a
+25	./../html/rtGetInf_h.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for rtGetInf.h<\/i><\/font>$/;"	a
+25	./../html/rtGetNaN_c.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a>  size_t bitsPerReal = <font color="#112266"><b>sizeof<\/b><\/font>(<a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a>) * (NumBitsPerChar);$/;"	a
+25	./../html/rtGetNaN_h.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+25	./../html/rt_nonfinite_c.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a name="var_rtNaNF">rtNaNF<\/a>;$/;"	a
+25	./../html/rt_nonfinite_h.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a href="rt_nonfinite_c.html#var_rtNaNF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtNaNF');" target="_self"><font color="#1122aa">rtNaNF<\/font><\/a>;$/;"	a
+25	./../html/rtwtypes_h.html	/^<a name="25"><font color="#888888 "><i>   25   <\/i><\/font><\/a><font color="#117755"><I> *=======================================================================*\/<\/i><\/font>$/;"	a
+26	./../html/multiplication_c.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a>  <font color="#112266"><b>if<\/b><\/font> (i0 &gt; 2147483647L) <b>{<\/b>$/;"	a
+26	./../html/multiplication_h.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for multiplication.h<\/i><\/font>$/;"	a
+26	./../html/multiplication_initialize_c.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a>$/;"	a
+26	./../html/multiplication_initialize_h.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for multiplication_initialize.h<\/i><\/font>$/;"	a
+26	./../html/multiplication_terminate_c.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a>$/;"	a
+26	./../html/multiplication_terminate_h.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for multiplication_terminate.h<\/i><\/font>$/;"	a
+26	./../html/rtGetInf_c.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a>  <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> inf = 0.0;$/;"	a
+26	./../html/rtGetInf_h.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+26	./../html/rtGetNaN_c.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a>  <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> nan = 0.0;$/;"	a
+26	./../html/rtGetNaN_h.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+26	./../html/rt_nonfinite_c.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a>$/;"	a
+26	./../html/rt_nonfinite_h.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <font color="#112266"><b>void<\/b><\/font> <a href="rt_nonfinite_c.html#fcn_rt_InitInfAndNaN" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rt_InitInfAndNaN');" target="_self"><font color="#1122aa">rt_InitInfAndNaN<\/font><\/a>(size_t realSize);$/;"	a
+26	./../html/rtwtypes_h.html	/^<a name="26"><font color="#888888 "><i>   26   <\/i><\/font><\/a>$/;"	a
+27	./../html/multiplication_c.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a>    i0 = 2147483647L;$/;"	a
+27	./../html/multiplication_h.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+27	./../html/multiplication_initialize_c.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+27	./../html/multiplication_initialize_h.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+27	./../html/multiplication_terminate_c.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+27	./../html/multiplication_terminate_h.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+27	./../html/rtGetInf_c.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a>  <font color="#112266"><b>if<\/b><\/font> (bitsPerReal == 32U) <b>{<\/b>$/;"	a
+27	./../html/rtGetInf_h.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+27	./../html/rtGetNaN_c.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a>  <font color="#112266"><b>if<\/b><\/font> (bitsPerReal == 32U) <b>{<\/b>$/;"	a
+27	./../html/rtGetNaN_h.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><\/pre>$/;"	a
+27	./../html/rt_nonfinite_c.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rt_InitInfAndNaN ==================================================<\/i><\/font>$/;"	a
+27	./../html/rt_nonfinite_h.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_boolean_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_boolean_T');" target="_self"><font color="#1122aa">boolean_T<\/font><\/a> <a href="rt_nonfinite_c.html#fcn_rtIsInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtIsInf');" target="_self"><font color="#1122aa">rtIsInf<\/font><\/a>(<a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> value);$/;"	a
+27	./../html/rtwtypes_h.html	/^<a name="27"><font color="#888888 "><i>   27   <\/i><\/font><\/a><font color="#117755"><i>\/*=======================================================================*<\/i><\/font>$/;"	a
+28	./../html/multiplication_c.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a>  <b>}<\/b> <font color="#112266"><b>else<\/b><\/font> <b>{<\/b>$/;"	a
+28	./../html/multiplication_h.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+28	./../html/multiplication_initialize_c.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for multiplication_initialize.c<\/i><\/font>$/;"	a
+28	./../html/multiplication_initialize_h.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+28	./../html/multiplication_terminate_c.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for multiplication_terminate.c<\/i><\/font>$/;"	a
+28	./../html/multiplication_terminate_h.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+28	./../html/rtGetInf_c.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a>    inf = <a href="#fcn_rtGetInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetInfF');" target="_self"><font color="#1122aa">rtGetInfF<\/font><\/a>();$/;"	a
+28	./../html/rtGetInf_h.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+28	./../html/rtGetNaN_c.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a>    nan = <a href="#fcn_rtGetNaNF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetNaNF');" target="_self"><font color="#1122aa">rtGetNaNF<\/font><\/a>();$/;"	a
+28	./../html/rt_nonfinite_c.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+28	./../html/rt_nonfinite_h.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_boolean_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_boolean_T');" target="_self"><font color="#1122aa">boolean_T<\/font><\/a> <a href="rt_nonfinite_c.html#fcn_rtIsInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtIsInfF');" target="_self"><font color="#1122aa">rtIsInfF<\/font><\/a>(<a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> value);$/;"	a
+28	./../html/rtwtypes_h.html	/^<a name="28"><font color="#888888 "><i>   28   <\/i><\/font><\/a><font color="#117755"><I> * Fixed width word size data types:                                     *<\/i><\/font>$/;"	a
+29	./../html/multiplication_c.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a>    <font color="#112266"><b>if<\/b><\/font> (i0 &lt; -2147483648L) <b>{<\/b>$/;"	a
+29	./../html/multiplication_h.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+29	./../html/multiplication_initialize_c.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+29	./../html/multiplication_initialize_h.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+29	./../html/multiplication_terminate_c.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+29	./../html/multiplication_terminate_h.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+29	./../html/rtGetInf_c.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a>  <b>}<\/b> <font color="#112266"><b>else<\/b><\/font> <b>{<\/b>$/;"	a
+29	./../html/rtGetInf_h.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a><\/pre>$/;"	a
+29	./../html/rtGetNaN_c.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a>  <b>}<\/b> <font color="#112266"><b>else<\/b><\/font> <b>{<\/b>$/;"	a
+29	./../html/rt_nonfinite_c.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a><font color="#117755"><I> * Initialize the rtInf, rtMinusInf, and rtNaN needed by the<\/i><\/font>$/;"	a
+29	./../html/rt_nonfinite_h.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_boolean_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_boolean_T');" target="_self"><font color="#1122aa">boolean_T<\/font><\/a> <a href="rt_nonfinite_c.html#fcn_rtIsNaN" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtIsNaN');" target="_self"><font color="#1122aa">rtIsNaN<\/font><\/a>(<a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> value);$/;"	a
+29	./../html/rtwtypes_h.html	/^<a name="29"><font color="#888888 "><i>   29   <\/i><\/font><\/a><font color="#117755"><I> *   int8_T, int16_T, int32_T     - signed 8, 16, or 32 bit integers     *<\/i><\/font>$/;"	a
+3	./../html/multiplication_c.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/multiplication_h.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/multiplication_initialize_c.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/multiplication_initialize_h.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/multiplication_terminate_c.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/multiplication_terminate_h.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/multiplication_types_h.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/rtGetInf_c.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/rtGetInf_h.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/rtGetNaN_c.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/rtGetNaN_h.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/rt_nonfinite_c.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/rt_nonfinite_h.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+3	./../html/rtwtypes_h.html	/^<a name="3"><font color="#888888 "><i>    3   <\/i><\/font><\/a><font color="#117755"><I> * course requirements at degree granting institutions only.  Not for<\/i><\/font>$/;"	a
+30	./../html/multiplication_c.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a>      i0 = -2147483648L;$/;"	a
+30	./../html/multiplication_h.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a><\/pre>$/;"	a
+30	./../html/multiplication_initialize_c.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+30	./../html/multiplication_initialize_h.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a><\/pre>$/;"	a
+30	./../html/multiplication_terminate_c.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+30	./../html/multiplication_terminate_h.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a><\/pre>$/;"	a
+30	./../html/rtGetInf_c.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a>    <a href="rtwtypes_h.html#type_uint16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint16_T');" target="_self"><font color="#1122aa">uint16_T<\/font><\/a> one = 1U;$/;"	a
+30	./../html/rtGetNaN_c.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a>    <a href="rtwtypes_h.html#type_uint16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint16_T');" target="_self"><font color="#1122aa">uint16_T<\/font><\/a> one = 1U;$/;"	a
+30	./../html/rt_nonfinite_c.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a><font color="#117755"><I> * generated code. NaN is initialized as non-signaling. Assumes IEEE.<\/i><\/font>$/;"	a
+30	./../html/rt_nonfinite_h.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a><font color="#112266"><b>extern<\/b><\/font> <a href="rtwtypes_h.html#type_boolean_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_boolean_T');" target="_self"><font color="#1122aa">boolean_T<\/font><\/a> <a href="rt_nonfinite_c.html#fcn_rtIsNaNF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtIsNaNF');" target="_self"><font color="#1122aa">rtIsNaNF<\/font><\/a>(<a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> value);$/;"	a
+30	./../html/rtwtypes_h.html	/^<a name="30"><font color="#888888 "><i>   30   <\/i><\/font><\/a><font color="#117755"><I> *   uint8_T, uint16_T, uint32_T  - unsigned 8, 16, or 32 bit integers   *<\/i><\/font>$/;"	a
+31	./../html/multiplication_c.html	/^<a name="31"><font color="#888888 "><i>   31   <\/i><\/font><\/a>    <b>}<\/b>$/;"	a
+31	./../html/multiplication_initialize_c.html	/^<a name="31"><font color="#888888 "><i>   31   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+31	./../html/multiplication_terminate_c.html	/^<a name="31"><font color="#888888 "><i>   31   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+31	./../html/rtGetInf_c.html	/^<a name="31"><font color="#888888 "><i>   31   <\/i><\/font><\/a>    <font color="#112266"><b>enum<\/b><\/font> <b>{<\/b>$/;"	a
+31	./../html/rtGetNaN_c.html	/^<a name="31"><font color="#888888 "><i>   31   <\/i><\/font><\/a>    <font color="#112266"><b>enum<\/b><\/font> <b>{<\/b>$/;"	a
+31	./../html/rt_nonfinite_c.html	/^<a name="31"><font color="#888888 "><i>   31   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+31	./../html/rt_nonfinite_h.html	/^<a name="31"><font color="#888888 "><i>   31   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+31	./../html/rtwtypes_h.html	/^<a name="31"><font color="#888888 "><i>   31   <\/i><\/font><\/a><font color="#117755"><I> *   real32_T, real64_T           - 32 and 64 bit floating point numbers *<\/i><\/font>$/;"	a
+32	./../html/multiplication_c.html	/^<a name="32"><font color="#888888 "><i>   32   <\/i><\/font><\/a>  <b>}<\/b>$/;"	a
+32	./../html/multiplication_initialize_c.html	/^<a name="32"><font color="#888888 "><i>   32   <\/i><\/font><\/a><\/pre>$/;"	a
+32	./../html/multiplication_terminate_c.html	/^<a name="32"><font color="#888888 "><i>   32   <\/i><\/font><\/a><\/pre>$/;"	a
+32	./../html/rtGetInf_c.html	/^<a name="32"><font color="#888888 "><i>   32   <\/i><\/font><\/a>      LittleEndian,$/;"	a
+32	./../html/rtGetNaN_c.html	/^<a name="32"><font color="#888888 "><i>   32   <\/i><\/font><\/a>      LittleEndian,$/;"	a
+32	./../html/rt_nonfinite_c.html	/^<a name="32"><font color="#888888 "><i>   32   <\/i><\/font><\/a><font color="#112266"><b>void<\/b><\/font> <a name="fcn_rt_InitInfAndNaN">rt_InitInfAndNaN<\/a>(size_t realSize)$/;"	a
+32	./../html/rt_nonfinite_h.html	/^<a name="32"><font color="#888888 "><i>   32   <\/i><\/font><\/a>  <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+32	./../html/rtwtypes_h.html	/^<a name="32"><font color="#888888 "><i>   32   <\/i><\/font><\/a><font color="#117755"><I> *=======================================================================*\/<\/i><\/font>$/;"	a
+33	./../html/multiplication_c.html	/^<a name="33"><font color="#888888 "><i>   33   <\/i><\/font><\/a>$/;"	a
+33	./../html/rtGetInf_c.html	/^<a name="33"><font color="#888888 "><i>   33   <\/i><\/font><\/a>      BigEndian$/;"	a
+33	./../html/rtGetNaN_c.html	/^<a name="33"><font color="#888888 "><i>   33   <\/i><\/font><\/a>      BigEndian$/;"	a
+33	./../html/rt_nonfinite_c.html	/^<a name="33"><font color="#888888 "><i>   33   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+33	./../html/rt_nonfinite_h.html	/^<a name="33"><font color="#888888 "><i>   33   <\/i><\/font><\/a>    <a href="rtwtypes_h.html#type_uint32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint32_T');" target="_self"><font color="#1122aa">uint32_T<\/font><\/a> wordH;$/;"	a
+33	./../html/rtwtypes_h.html	/^<a name="33"><font color="#888888 "><i>   33   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>signed<\/b><\/font> <font color="#112266"><b>char<\/b><\/font> <a name="type_int8_T">int8_T<\/a>;$/;"	a
+34	./../html/multiplication_c.html	/^<a name="34"><font color="#888888 "><i>   34   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> (<font color="#112266"><b>int<\/b><\/font>)i0;$/;"	a
+34	./../html/rtGetInf_c.html	/^<a name="34"><font color="#888888 "><i>   34   <\/i><\/font><\/a>    <b>}<\/b> machByteOrder = (*((<a href="rtwtypes_h.html#type_uint8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint8_T');" target="_self"><font color="#1122aa">uint8_T<\/font><\/a> *) &amp;one) == 1U) ? LittleEndian : BigEndian;$/;"	a
+34	./../html/rtGetNaN_c.html	/^<a name="34"><font color="#888888 "><i>   34   <\/i><\/font><\/a>    <b>}<\/b> machByteOrder = (*((<a href="rtwtypes_h.html#type_uint8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint8_T');" target="_self"><font color="#1122aa">uint8_T<\/font><\/a> *) &amp;one) == 1U) ? LittleEndian : BigEndian;$/;"	a
+34	./../html/rt_nonfinite_c.html	/^<a name="34"><font color="#888888 "><i>   34   <\/i><\/font><\/a>  (<font color="#112266"><b>void<\/b><\/font>) (realSize);$/;"	a
+34	./../html/rt_nonfinite_h.html	/^<a name="34"><font color="#888888 "><i>   34   <\/i><\/font><\/a>    <a href="rtwtypes_h.html#type_uint32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint32_T');" target="_self"><font color="#1122aa">uint32_T<\/font><\/a> wordL;$/;"	a
+34	./../html/rtwtypes_h.html	/^<a name="34"><font color="#888888 "><i>   34   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>unsigned<\/b><\/font> <font color="#112266"><b>char<\/b><\/font> <a name="type_uint8_T">uint8_T<\/a>;$/;"	a
+35	./../html/multiplication_c.html	/^<a name="35"><font color="#888888 "><i>   35   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+35	./../html/rtGetInf_c.html	/^<a name="35"><font color="#888888 "><i>   35   <\/i><\/font><\/a>    <font color="#112266"><b>switch<\/b><\/font> (machByteOrder) <b>{<\/b>$/;"	a
+35	./../html/rtGetNaN_c.html	/^<a name="35"><font color="#888888 "><i>   35   <\/i><\/font><\/a>    <font color="#112266"><b>switch<\/b><\/font> (machByteOrder) <b>{<\/b>$/;"	a
+35	./../html/rt_nonfinite_c.html	/^<a name="35"><font color="#888888 "><i>   35   <\/i><\/font><\/a>  <a href="#var_rtNaN" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtNaN');" target="_self"><font color="#1122aa">rtNaN<\/font><\/a> = <a href="rtGetNaN_c.html#fcn_rtGetNaN" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetNaN');" target="_self"><font color="#1122aa">rtGetNaN<\/font><\/a>();$/;"	a
+35	./../html/rt_nonfinite_h.html	/^<a name="35"><font color="#888888 "><i>   35   <\/i><\/font><\/a>  <b>}<\/b> words;$/;"	a
+35	./../html/rtwtypes_h.html	/^<a name="35"><font color="#888888 "><i>   35   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>short<\/b><\/font> <a name="type_int16_T">int16_T<\/a>;$/;"	a
+36	./../html/multiplication_c.html	/^<a name="36"><font color="#888888 "><i>   36   <\/i><\/font><\/a>$/;"	a
+36	./../html/rtGetInf_c.html	/^<a name="36"><font color="#888888 "><i>   36   <\/i><\/font><\/a>     <font color="#112266"><b>case<\/b><\/font> LittleEndian:$/;"	a
+36	./../html/rtGetNaN_c.html	/^<a name="36"><font color="#888888 "><i>   36   <\/i><\/font><\/a>     <font color="#112266"><b>case<\/b><\/font> LittleEndian:$/;"	a
+36	./../html/rt_nonfinite_c.html	/^<a name="36"><font color="#888888 "><i>   36   <\/i><\/font><\/a>  <a href="#var_rtNaNF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtNaNF');" target="_self"><font color="#1122aa">rtNaNF<\/font><\/a> = <a href="rtGetNaN_c.html#fcn_rtGetNaNF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetNaNF');" target="_self"><font color="#1122aa">rtGetNaNF<\/font><\/a>();$/;"	a
+36	./../html/rt_nonfinite_h.html	/^<a name="36"><font color="#888888 "><i>   36   <\/i><\/font><\/a><b>}<\/b> <a name="type_BigEndianIEEEDouble">BigEndianIEEEDouble<\/a>;$/;"	a
+36	./../html/rtwtypes_h.html	/^<a name="36"><font color="#888888 "><i>   36   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>unsigned<\/b><\/font> <font color="#112266"><b>short<\/b><\/font> <a name="type_uint16_T">uint16_T<\/a>;$/;"	a
+37	./../html/multiplication_c.html	/^<a name="37"><font color="#888888 "><i>   37   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+37	./../html/rtGetInf_c.html	/^<a name="37"><font color="#888888 "><i>   37   <\/i><\/font><\/a>      <b>{<\/b>$/;"	a
+37	./../html/rtGetNaN_c.html	/^<a name="37"><font color="#888888 "><i>   37   <\/i><\/font><\/a>      <b>{<\/b>$/;"	a
+37	./../html/rt_nonfinite_c.html	/^<a name="37"><font color="#888888 "><i>   37   <\/i><\/font><\/a>  <a href="#var_rtInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtInf');" target="_self"><font color="#1122aa">rtInf<\/font><\/a> = <a href="rtGetInf_c.html#fcn_rtGetInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetInf');" target="_self"><font color="#1122aa">rtGetInf<\/font><\/a>();$/;"	a
+37	./../html/rt_nonfinite_h.html	/^<a name="37"><font color="#888888 "><i>   37   <\/i><\/font><\/a>$/;"	a
+37	./../html/rtwtypes_h.html	/^<a name="37"><font color="#888888 "><i>   37   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>int<\/b><\/font> <a name="type_int32_T">int32_T<\/a>;$/;"	a
+38	./../html/multiplication_c.html	/^<a name="38"><font color="#888888 "><i>   38   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for multiplication.c<\/i><\/font>$/;"	a
+38	./../html/rtGetInf_c.html	/^<a name="38"><font color="#888888 "><i>   38   <\/i><\/font><\/a>        <font color="#112266"><b>union<\/b><\/font> <b>{<\/b>$/;"	a
+38	./../html/rtGetNaN_c.html	/^<a name="38"><font color="#888888 "><i>   38   <\/i><\/font><\/a>        <font color="#112266"><b>union<\/b><\/font> <b>{<\/b>$/;"	a
+38	./../html/rt_nonfinite_c.html	/^<a name="38"><font color="#888888 "><i>   38   <\/i><\/font><\/a>  <a href="#var_rtInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtInfF');" target="_self"><font color="#1122aa">rtInfF<\/font><\/a> = <a href="rtGetInf_c.html#fcn_rtGetInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetInfF');" target="_self"><font color="#1122aa">rtGetInfF<\/font><\/a>();$/;"	a
+38	./../html/rt_nonfinite_h.html	/^<a name="38"><font color="#888888 "><i>   38   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+38	./../html/rtwtypes_h.html	/^<a name="38"><font color="#888888 "><i>   38   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>unsigned<\/b><\/font> <font color="#112266"><b>int<\/b><\/font> <a name="type_uint32_T">uint32_T<\/a>;$/;"	a
+39	./../html/multiplication_c.html	/^<a name="39"><font color="#888888 "><i>   39   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+39	./../html/rtGetInf_c.html	/^<a name="39"><font color="#888888 "><i>   39   <\/i><\/font><\/a>          <a href="rt_nonfinite_h.html#type_LittleEndianIEEEDouble" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_LittleEndianIEEEDouble');" target="_self"><font color="#1122aa">LittleEndianIEEEDouble<\/font><\/a> bitVal;$/;"	a
+39	./../html/rtGetNaN_c.html	/^<a name="39"><font color="#888888 "><i>   39   <\/i><\/font><\/a>          <a href="rt_nonfinite_h.html#type_LittleEndianIEEEDouble" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_LittleEndianIEEEDouble');" target="_self"><font color="#1122aa">LittleEndianIEEEDouble<\/font><\/a> bitVal;$/;"	a
+39	./../html/rt_nonfinite_c.html	/^<a name="39"><font color="#888888 "><i>   39   <\/i><\/font><\/a>  <a href="#var_rtMinusInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtMinusInf');" target="_self"><font color="#1122aa">rtMinusInf<\/font><\/a> = <a href="rtGetInf_c.html#fcn_rtGetMinusInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetMinusInf');" target="_self"><font color="#1122aa">rtGetMinusInf<\/font><\/a>();$/;"	a
+39	./../html/rt_nonfinite_h.html	/^<a name="39"><font color="#888888 "><i>   39   <\/i><\/font><\/a>  <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+39	./../html/rtwtypes_h.html	/^<a name="39"><font color="#888888 "><i>   39   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>long<\/b><\/font> <a name="type_int64_T">int64_T<\/a>;$/;"	a
+4	./../html/multiplication_c.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/multiplication_h.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/multiplication_initialize_c.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/multiplication_initialize_h.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/multiplication_terminate_c.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/multiplication_terminate_h.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/multiplication_types_h.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/rtGetInf_c.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/rtGetInf_h.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/rtGetNaN_c.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/rtGetNaN_h.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/rt_nonfinite_c.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/rt_nonfinite_h.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+4	./../html/rtwtypes_h.html	/^<a name="4"><font color="#888888 "><i>    4   <\/i><\/font><\/a><font color="#117755"><I> * government, commercial, or other organizational use.<\/i><\/font>$/;"	a
+40	./../html/multiplication_c.html	/^<a name="40"><font color="#888888 "><i>   40   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+40	./../html/rtGetInf_c.html	/^<a name="40"><font color="#888888 "><i>   40   <\/i><\/font><\/a>          <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> fltVal;$/;"	a
+40	./../html/rtGetNaN_c.html	/^<a name="40"><font color="#888888 "><i>   40   <\/i><\/font><\/a>          <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> fltVal;$/;"	a
+40	./../html/rt_nonfinite_c.html	/^<a name="40"><font color="#888888 "><i>   40   <\/i><\/font><\/a>  <a href="#var_rtMinusInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtMinusInfF');" target="_self"><font color="#1122aa">rtMinusInfF<\/font><\/a> = <a href="rtGetInf_c.html#fcn_rtGetMinusInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetMinusInfF');" target="_self"><font color="#1122aa">rtGetMinusInfF<\/font><\/a>();$/;"	a
+40	./../html/rt_nonfinite_h.html	/^<a name="40"><font color="#888888 "><i>   40   <\/i><\/font><\/a>    <a href="rtwtypes_h.html#type_uint32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint32_T');" target="_self"><font color="#1122aa">uint32_T<\/font><\/a> wordL;$/;"	a
+40	./../html/rtwtypes_h.html	/^<a name="40"><font color="#888888 "><i>   40   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>unsigned<\/b><\/font> <font color="#112266"><b>long<\/b><\/font> <a name="type_uint64_T">uint64_T<\/a>;$/;"	a
+41	./../html/multiplication_c.html	/^<a name="41"><font color="#888888 "><i>   41   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+41	./../html/rtGetInf_c.html	/^<a name="41"><font color="#888888 "><i>   41   <\/i><\/font><\/a>        <b>}<\/b> tmpVal;$/;"	a
+41	./../html/rtGetNaN_c.html	/^<a name="41"><font color="#888888 "><i>   41   <\/i><\/font><\/a>        <b>}<\/b> tmpVal;$/;"	a
+41	./../html/rt_nonfinite_c.html	/^<a name="41"><font color="#888888 "><i>   41   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+41	./../html/rt_nonfinite_h.html	/^<a name="41"><font color="#888888 "><i>   41   <\/i><\/font><\/a>    <a href="rtwtypes_h.html#type_uint32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint32_T');" target="_self"><font color="#1122aa">uint32_T<\/font><\/a> wordH;$/;"	a
+41	./../html/rtwtypes_h.html	/^<a name="41"><font color="#888888 "><i>   41   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>float<\/b><\/font> <a name="type_real32_T">real32_T<\/a>;$/;"	a
+42	./../html/multiplication_c.html	/^<a name="42"><font color="#888888 "><i>   42   <\/i><\/font><\/a><\/pre>$/;"	a
+42	./../html/rtGetInf_c.html	/^<a name="42"><font color="#888888 "><i>   42   <\/i><\/font><\/a>$/;"	a
+42	./../html/rtGetNaN_c.html	/^<a name="42"><font color="#888888 "><i>   42   <\/i><\/font><\/a>$/;"	a
+42	./../html/rt_nonfinite_c.html	/^<a name="42"><font color="#888888 "><i>   42   <\/i><\/font><\/a>$/;"	a
+42	./../html/rt_nonfinite_h.html	/^<a name="42"><font color="#888888 "><i>   42   <\/i><\/font><\/a>  <b>}<\/b> words;$/;"	a
+42	./../html/rtwtypes_h.html	/^<a name="42"><font color="#888888 "><i>   42   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>double<\/b><\/font> <a name="type_real64_T">real64_T<\/a>;$/;"	a
+43	./../html/rtGetInf_c.html	/^<a name="43"><font color="#888888 "><i>   43   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordH = 0x7FF00000U;$/;"	a
+43	./../html/rtGetNaN_c.html	/^<a name="43"><font color="#888888 "><i>   43   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordH = 0xFFF80000U;$/;"	a
+43	./../html/rt_nonfinite_c.html	/^<a name="43"><font color="#888888 "><i>   43   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtIsInf ==================================================<\/i><\/font>$/;"	a
+43	./../html/rt_nonfinite_h.html	/^<a name="43"><font color="#888888 "><i>   43   <\/i><\/font><\/a><b>}<\/b> <a name="type_LittleEndianIEEEDouble">LittleEndianIEEEDouble<\/a>;$/;"	a
+43	./../html/rtwtypes_h.html	/^<a name="43"><font color="#888888 "><i>   43   <\/i><\/font><\/a>$/;"	a
+44	./../html/rtGetInf_c.html	/^<a name="44"><font color="#888888 "><i>   44   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordL = 0x00000000U;$/;"	a
+44	./../html/rtGetNaN_c.html	/^<a name="44"><font color="#888888 "><i>   44   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordL = 0x00000000U;$/;"	a
+44	./../html/rt_nonfinite_c.html	/^<a name="44"><font color="#888888 "><i>   44   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+44	./../html/rt_nonfinite_h.html	/^<a name="44"><font color="#888888 "><i>   44   <\/i><\/font><\/a>$/;"	a
+44	./../html/rtwtypes_h.html	/^<a name="44"><font color="#888888 "><i>   44   <\/i><\/font><\/a><font color="#117755"><i>\/*===========================================================================*<\/i><\/font>$/;"	a
+45	./../html/rtGetInf_c.html	/^<a name="45"><font color="#888888 "><i>   45   <\/i><\/font><\/a>        inf = tmpVal.fltVal;$/;"	a
+45	./../html/rtGetNaN_c.html	/^<a name="45"><font color="#888888 "><i>   45   <\/i><\/font><\/a>        nan = tmpVal.fltVal;$/;"	a
+45	./../html/rt_nonfinite_c.html	/^<a name="45"><font color="#888888 "><i>   45   <\/i><\/font><\/a><font color="#117755"><I> * Test if value is infinite<\/i><\/font>$/;"	a
+45	./../html/rt_nonfinite_h.html	/^<a name="45"><font color="#888888 "><i>   45   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+45	./../html/rtwtypes_h.html	/^<a name="45"><font color="#888888 "><i>   45   <\/i><\/font><\/a><font color="#117755"><I> * Generic type definitions: real_T, time_T, boolean_T, int_T, uint_T,       *<\/i><\/font>$/;"	a
+46	./../html/rtGetInf_c.html	/^<a name="46"><font color="#888888 "><i>   46   <\/i><\/font><\/a>        <font color="#112266"><b>break<\/b><\/font>;$/;"	a
+46	./../html/rtGetNaN_c.html	/^<a name="46"><font color="#888888 "><i>   46   <\/i><\/font><\/a>        <font color="#112266"><b>break<\/b><\/font>;$/;"	a
+46	./../html/rt_nonfinite_c.html	/^<a name="46"><font color="#888888 "><i>   46   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+46	./../html/rt_nonfinite_h.html	/^<a name="46"><font color="#888888 "><i>   46   <\/i><\/font><\/a>  <font color="#112266"><b>union<\/b><\/font> <b>{<\/b>$/;"	a
+46	./../html/rtwtypes_h.html	/^<a name="46"><font color="#888888 "><i>   46   <\/i><\/font><\/a><font color="#117755"><I> *                           ulong_T, ulonglong_T, char_T and byte_T.        *<\/i><\/font>$/;"	a
+47	./../html/rtGetInf_c.html	/^<a name="47"><font color="#888888 "><i>   47   <\/i><\/font><\/a>      <b>}<\/b>$/;"	a
+47	./../html/rtGetNaN_c.html	/^<a name="47"><font color="#888888 "><i>   47   <\/i><\/font><\/a>      <b>}<\/b>$/;"	a
+47	./../html/rt_nonfinite_c.html	/^<a name="47"><font color="#888888 "><i>   47   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_boolean_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_boolean_T');" target="_self"><font color="#1122aa">boolean_T<\/font><\/a> <a name="fcn_rtIsInf">rtIsInf<\/a>(<a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> value)$/;"	a
+47	./../html/rt_nonfinite_h.html	/^<a name="47"><font color="#888888 "><i>   47   <\/i><\/font><\/a>    <a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> wordLreal;$/;"	a
+47	./../html/rtwtypes_h.html	/^<a name="47"><font color="#888888 "><i>   47   <\/i><\/font><\/a><font color="#117755"><I> *===========================================================================*\/<\/i><\/font>$/;"	a
+48	./../html/rtGetInf_c.html	/^<a name="48"><font color="#888888 "><i>   48   <\/i><\/font><\/a>$/;"	a
+48	./../html/rtGetNaN_c.html	/^<a name="48"><font color="#888888 "><i>   48   <\/i><\/font><\/a>$/;"	a
+48	./../html/rt_nonfinite_c.html	/^<a name="48"><font color="#888888 "><i>   48   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+48	./../html/rt_nonfinite_h.html	/^<a name="48"><font color="#888888 "><i>   48   <\/i><\/font><\/a>    <a href="rtwtypes_h.html#type_uint32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint32_T');" target="_self"><font color="#1122aa">uint32_T<\/font><\/a> wordLuint;$/;"	a
+48	./../html/rtwtypes_h.html	/^<a name="48"><font color="#888888 "><i>   48   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>double<\/b><\/font> <a name="type_real_T">real_T<\/a>;$/;"	a
+49	./../html/rtGetInf_c.html	/^<a name="49"><font color="#888888 "><i>   49   <\/i><\/font><\/a>     <font color="#112266"><b>case<\/b><\/font> BigEndian:$/;"	a
+49	./../html/rtGetNaN_c.html	/^<a name="49"><font color="#888888 "><i>   49   <\/i><\/font><\/a>     <font color="#112266"><b>case<\/b><\/font> BigEndian:$/;"	a
+49	./../html/rt_nonfinite_c.html	/^<a name="49"><font color="#888888 "><i>   49   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> ((value==<a href="#var_rtInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtInf');" target="_self"><font color="#1122aa">rtInf<\/font><\/a> || value==<a href="#var_rtMinusInf" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtMinusInf');" target="_self"><font color="#1122aa">rtMinusInf<\/font><\/a>) ? 1U : 0U);$/;"	a
+49	./../html/rt_nonfinite_h.html	/^<a name="49"><font color="#888888 "><i>   49   <\/i><\/font><\/a>  <b>}<\/b> wordL;$/;"	a
+49	./../html/rtwtypes_h.html	/^<a name="49"><font color="#888888 "><i>   49   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>double<\/b><\/font> <a name="type_time_T">time_T<\/a>;$/;"	a
+5	./../html/multiplication_c.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: multiplication.c<\/i><\/font>$/;"	a
+5	./../html/multiplication_h.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: multiplication.h<\/i><\/font>$/;"	a
+5	./../html/multiplication_initialize_c.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: multiplication_initialize.c<\/i><\/font>$/;"	a
+5	./../html/multiplication_initialize_h.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: multiplication_initialize.h<\/i><\/font>$/;"	a
+5	./../html/multiplication_terminate_c.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: multiplication_terminate.c<\/i><\/font>$/;"	a
+5	./../html/multiplication_terminate_h.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: multiplication_terminate.h<\/i><\/font>$/;"	a
+5	./../html/multiplication_types_h.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: multiplication_types.h<\/i><\/font>$/;"	a
+5	./../html/rtGetInf_c.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: rtGetInf.c<\/i><\/font>$/;"	a
+5	./../html/rtGetInf_h.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: rtGetInf.h<\/i><\/font>$/;"	a
+5	./../html/rtGetNaN_c.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: rtGetNaN.c<\/i><\/font>$/;"	a
+5	./../html/rtGetNaN_h.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: rtGetNaN.h<\/i><\/font>$/;"	a
+5	./../html/rt_nonfinite_c.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: rt_nonfinite.c<\/i><\/font>$/;"	a
+5	./../html/rt_nonfinite_h.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: rt_nonfinite.h<\/i><\/font>$/;"	a
+5	./../html/rtwtypes_h.html	/^<a name="5"><font color="#888888 "><i>    5   <\/i><\/font><\/a><font color="#117755"><I> * File: rtwtypes.h<\/i><\/font>$/;"	a
+50	./../html/rtGetInf_c.html	/^<a name="50"><font color="#888888 "><i>   50   <\/i><\/font><\/a>      <b>{<\/b>$/;"	a
+50	./../html/rtGetNaN_c.html	/^<a name="50"><font color="#888888 "><i>   50   <\/i><\/font><\/a>      <b>{<\/b>$/;"	a
+50	./../html/rt_nonfinite_c.html	/^<a name="50"><font color="#888888 "><i>   50   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+50	./../html/rt_nonfinite_h.html	/^<a name="50"><font color="#888888 "><i>   50   <\/i><\/font><\/a><b>}<\/b> <a name="type_IEEESingle">IEEESingle<\/a>;$/;"	a
+50	./../html/rtwtypes_h.html	/^<a name="50"><font color="#888888 "><i>   50   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>unsigned<\/b><\/font> <font color="#112266"><b>char<\/b><\/font> <a name="type_boolean_T">boolean_T<\/a>;$/;"	a
+51	./../html/rtGetInf_c.html	/^<a name="51"><font color="#888888 "><i>   51   <\/i><\/font><\/a>        <font color="#112266"><b>union<\/b><\/font> <b>{<\/b>$/;"	a
+51	./../html/rtGetNaN_c.html	/^<a name="51"><font color="#888888 "><i>   51   <\/i><\/font><\/a>        <font color="#112266"><b>union<\/b><\/font> <b>{<\/b>$/;"	a
+51	./../html/rt_nonfinite_c.html	/^<a name="51"><font color="#888888 "><i>   51   <\/i><\/font><\/a>$/;"	a
+51	./../html/rt_nonfinite_h.html	/^<a name="51"><font color="#888888 "><i>   51   <\/i><\/font><\/a>$/;"	a
+51	./../html/rtwtypes_h.html	/^<a name="51"><font color="#888888 "><i>   51   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>int<\/b><\/font> <a name="type_int_T">int_T<\/a>;$/;"	a
+52	./../html/rtGetInf_c.html	/^<a name="52"><font color="#888888 "><i>   52   <\/i><\/font><\/a>          <a href="rt_nonfinite_h.html#type_BigEndianIEEEDouble" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_BigEndianIEEEDouble');" target="_self"><font color="#1122aa">BigEndianIEEEDouble<\/font><\/a> bitVal;$/;"	a
+52	./../html/rtGetNaN_c.html	/^<a name="52"><font color="#888888 "><i>   52   <\/i><\/font><\/a>          <a href="rt_nonfinite_h.html#type_BigEndianIEEEDouble" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_BigEndianIEEEDouble');" target="_self"><font color="#1122aa">BigEndianIEEEDouble<\/font><\/a> bitVal;$/;"	a
+52	./../html/rt_nonfinite_c.html	/^<a name="52"><font color="#888888 "><i>   52   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtIsInfF =================================================<\/i><\/font>$/;"	a
+52	./../html/rt_nonfinite_h.html	/^<a name="52"><font color="#888888 "><i>   52   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+52	./../html/rtwtypes_h.html	/^<a name="52"><font color="#888888 "><i>   52   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>unsigned<\/b><\/font> <font color="#112266"><b>int<\/b><\/font> <a name="type_uint_T">uint_T<\/a>;$/;"	a
+53	./../html/rtGetInf_c.html	/^<a name="53"><font color="#888888 "><i>   53   <\/i><\/font><\/a>          <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> fltVal;$/;"	a
+53	./../html/rtGetNaN_c.html	/^<a name="53"><font color="#888888 "><i>   53   <\/i><\/font><\/a>          <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> fltVal;$/;"	a
+53	./../html/rt_nonfinite_c.html	/^<a name="53"><font color="#888888 "><i>   53   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+53	./../html/rt_nonfinite_h.html	/^<a name="53"><font color="#888888 "><i>   53   <\/i><\/font><\/a>$/;"	a
+53	./../html/rtwtypes_h.html	/^<a name="53"><font color="#888888 "><i>   53   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>unsigned<\/b><\/font> <font color="#112266"><b>long<\/b><\/font> <a name="type_ulong_T">ulong_T<\/a>;$/;"	a
+54	./../html/rtGetInf_c.html	/^<a name="54"><font color="#888888 "><i>   54   <\/i><\/font><\/a>        <b>}<\/b> tmpVal;$/;"	a
+54	./../html/rtGetNaN_c.html	/^<a name="54"><font color="#888888 "><i>   54   <\/i><\/font><\/a>        <b>}<\/b> tmpVal;$/;"	a
+54	./../html/rt_nonfinite_c.html	/^<a name="54"><font color="#888888 "><i>   54   <\/i><\/font><\/a><font color="#117755"><I> * Test if single-precision value is infinite<\/i><\/font>$/;"	a
+54	./../html/rt_nonfinite_h.html	/^<a name="54"><font color="#888888 "><i>   54   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+54	./../html/rtwtypes_h.html	/^<a name="54"><font color="#888888 "><i>   54   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>unsigned<\/b><\/font> <font color="#112266"><b>long<\/b><\/font> <font color="#112266"><b>long<\/b><\/font> <a name="type_ulonglong_T">ulonglong_T<\/a>;$/;"	a
+55	./../html/rtGetInf_c.html	/^<a name="55"><font color="#888888 "><i>   55   <\/i><\/font><\/a>$/;"	a
+55	./../html/rtGetNaN_c.html	/^<a name="55"><font color="#888888 "><i>   55   <\/i><\/font><\/a>$/;"	a
+55	./../html/rt_nonfinite_c.html	/^<a name="55"><font color="#888888 "><i>   55   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+55	./../html/rt_nonfinite_h.html	/^<a name="55"><font color="#888888 "><i>   55   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for rt_nonfinite.h<\/i><\/font>$/;"	a
+55	./../html/rtwtypes_h.html	/^<a name="55"><font color="#888888 "><i>   55   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>char<\/b><\/font> <a name="type_char_T">char_T<\/a>;$/;"	a
+56	./../html/rtGetInf_c.html	/^<a name="56"><font color="#888888 "><i>   56   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordH = 0x7FF00000U;$/;"	a
+56	./../html/rtGetNaN_c.html	/^<a name="56"><font color="#888888 "><i>   56   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordH = 0x7FFFFFFFU;$/;"	a
+56	./../html/rt_nonfinite_c.html	/^<a name="56"><font color="#888888 "><i>   56   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_boolean_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_boolean_T');" target="_self"><font color="#1122aa">boolean_T<\/font><\/a> <a name="fcn_rtIsInfF">rtIsInfF<\/a>(<a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> value)$/;"	a
+56	./../html/rt_nonfinite_h.html	/^<a name="56"><font color="#888888 "><i>   56   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+56	./../html/rtwtypes_h.html	/^<a name="56"><font color="#888888 "><i>   56   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <a href="#type_char_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_char_T');" target="_self"><font color="#1122aa">char_T<\/font><\/a> <a name="type_byte_T">byte_T<\/a>;$/;"	a
+57	./../html/rtGetInf_c.html	/^<a name="57"><font color="#888888 "><i>   57   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordL = 0x00000000U;$/;"	a
+57	./../html/rtGetNaN_c.html	/^<a name="57"><font color="#888888 "><i>   57   <\/i><\/font><\/a>        tmpVal.bitVal.words.wordL = 0xFFFFFFFFU;$/;"	a
+57	./../html/rt_nonfinite_c.html	/^<a name="57"><font color="#888888 "><i>   57   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+57	./../html/rt_nonfinite_h.html	/^<a name="57"><font color="#888888 "><i>   57   <\/i><\/font><\/a><font color="#117755"><I> * [EOF]<\/i><\/font>$/;"	a
+57	./../html/rtwtypes_h.html	/^<a name="57"><font color="#888888 "><i>   57   <\/i><\/font><\/a>$/;"	a
+58	./../html/rtGetInf_c.html	/^<a name="58"><font color="#888888 "><i>   58   <\/i><\/font><\/a>        inf = tmpVal.fltVal;$/;"	a
+58	./../html/rtGetNaN_c.html	/^<a name="58"><font color="#888888 "><i>   58   <\/i><\/font><\/a>        nan = tmpVal.fltVal;$/;"	a
+58	./../html/rt_nonfinite_c.html	/^<a name="58"><font color="#888888 "><i>   58   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font>(((value)==<a href="#var_rtInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtInfF');" target="_self"><font color="#1122aa">rtInfF<\/font><\/a> || (value)==<a href="#var_rtMinusInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'var_rtMinusInfF');" target="_self"><font color="#1122aa">rtMinusInfF<\/font><\/a>) ? 1U : 0U);$/;"	a
+58	./../html/rt_nonfinite_h.html	/^<a name="58"><font color="#888888 "><i>   58   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+58	./../html/rtwtypes_h.html	/^<a name="58"><font color="#888888 "><i>   58   <\/i><\/font><\/a><font color="#117755"><i>\/*===========================================================================*<\/i><\/font>$/;"	a
+59	./../html/rtGetInf_c.html	/^<a name="59"><font color="#888888 "><i>   59   <\/i><\/font><\/a>        <font color="#112266"><b>break<\/b><\/font>;$/;"	a
+59	./../html/rtGetNaN_c.html	/^<a name="59"><font color="#888888 "><i>   59   <\/i><\/font><\/a>        <font color="#112266"><b>break<\/b><\/font>;$/;"	a
+59	./../html/rt_nonfinite_c.html	/^<a name="59"><font color="#888888 "><i>   59   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+59	./../html/rt_nonfinite_h.html	/^<a name="59"><font color="#888888 "><i>   59   <\/i><\/font><\/a><\/pre>$/;"	a
+59	./../html/rtwtypes_h.html	/^<a name="59"><font color="#888888 "><i>   59   <\/i><\/font><\/a><font color="#117755"><I> * Complex number type definitions                                           *<\/i><\/font>$/;"	a
+6	./../html/multiplication_c.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/multiplication_h.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/multiplication_initialize_c.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/multiplication_initialize_h.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/multiplication_terminate_c.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/multiplication_terminate_h.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/multiplication_types_h.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/rtGetInf_c.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/rtGetInf_h.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/rtGetNaN_c.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/rtGetNaN_h.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/rt_nonfinite_c.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/rt_nonfinite_h.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+6	./../html/rtwtypes_h.html	/^<a name="6"><font color="#888888 "><i>    6   <\/i><\/font><\/a><font color="#117755"><I> *<\/i><\/font>$/;"	a
+60	./../html/rtGetInf_c.html	/^<a name="60"><font color="#888888 "><i>   60   <\/i><\/font><\/a>      <b>}<\/b>$/;"	a
+60	./../html/rtGetNaN_c.html	/^<a name="60"><font color="#888888 "><i>   60   <\/i><\/font><\/a>      <b>}<\/b>$/;"	a
+60	./../html/rt_nonfinite_c.html	/^<a name="60"><font color="#888888 "><i>   60   <\/i><\/font><\/a>$/;"	a
+60	./../html/rtwtypes_h.html	/^<a name="60"><font color="#888888 "><i>   60   <\/i><\/font><\/a><font color="#117755"><I> *===========================================================================*\/<\/i><\/font>$/;"	a
+61	./../html/rtGetInf_c.html	/^<a name="61"><font color="#888888 "><i>   61   <\/i><\/font><\/a>    <b>}<\/b>$/;"	a
+61	./../html/rtGetNaN_c.html	/^<a name="61"><font color="#888888 "><i>   61   <\/i><\/font><\/a>    <b>}<\/b>$/;"	a
+61	./../html/rt_nonfinite_c.html	/^<a name="61"><font color="#888888 "><i>   61   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtIsNaN ==================================================<\/i><\/font>$/;"	a
+61	./../html/rtwtypes_h.html	/^<a name="61"><font color="#888888 "><i>   61   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>define<\/b><\/font> CREAL_T$/;"	a
+62	./../html/rtGetInf_c.html	/^<a name="62"><font color="#888888 "><i>   62   <\/i><\/font><\/a>  <b>}<\/b>$/;"	a
+62	./../html/rtGetNaN_c.html	/^<a name="62"><font color="#888888 "><i>   62   <\/i><\/font><\/a>  <b>}<\/b>$/;"	a
+62	./../html/rt_nonfinite_c.html	/^<a name="62"><font color="#888888 "><i>   62   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+62	./../html/rtwtypes_h.html	/^<a name="62"><font color="#888888 "><i>   62   <\/i><\/font><\/a>$/;"	a
+63	./../html/rtGetInf_c.html	/^<a name="63"><font color="#888888 "><i>   63   <\/i><\/font><\/a>$/;"	a
+63	./../html/rtGetNaN_c.html	/^<a name="63"><font color="#888888 "><i>   63   <\/i><\/font><\/a>$/;"	a
+63	./../html/rt_nonfinite_c.html	/^<a name="63"><font color="#888888 "><i>   63   <\/i><\/font><\/a><font color="#117755"><I> * Test if value is not a number<\/i><\/font>$/;"	a
+63	./../html/rtwtypes_h.html	/^<a name="63"><font color="#888888 "><i>   63   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+64	./../html/rtGetInf_c.html	/^<a name="64"><font color="#888888 "><i>   64   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> inf;$/;"	a
+64	./../html/rtGetNaN_c.html	/^<a name="64"><font color="#888888 "><i>   64   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> nan;$/;"	a
+64	./../html/rt_nonfinite_c.html	/^<a name="64"><font color="#888888 "><i>   64   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+64	./../html/rtwtypes_h.html	/^<a name="64"><font color="#888888 "><i>   64   <\/i><\/font><\/a>  <a href="#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> re;$/;"	a
+65	./../html/rtGetInf_c.html	/^<a name="65"><font color="#888888 "><i>   65   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+65	./../html/rtGetNaN_c.html	/^<a name="65"><font color="#888888 "><i>   65   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+65	./../html/rt_nonfinite_c.html	/^<a name="65"><font color="#888888 "><i>   65   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_boolean_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_boolean_T');" target="_self"><font color="#1122aa">boolean_T<\/font><\/a> <a name="fcn_rtIsNaN">rtIsNaN<\/a>(<a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> value)$/;"	a
+65	./../html/rtwtypes_h.html	/^<a name="65"><font color="#888888 "><i>   65   <\/i><\/font><\/a>  <a href="#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> im;$/;"	a
+66	./../html/rtGetInf_c.html	/^<a name="66"><font color="#888888 "><i>   66   <\/i><\/font><\/a>$/;"	a
+66	./../html/rtGetNaN_c.html	/^<a name="66"><font color="#888888 "><i>   66   <\/i><\/font><\/a>$/;"	a
+66	./../html/rt_nonfinite_c.html	/^<a name="66"><font color="#888888 "><i>   66   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+66	./../html/rtwtypes_h.html	/^<a name="66"><font color="#888888 "><i>   66   <\/i><\/font><\/a><b>}<\/b> <a name="type_creal32_T">creal32_T<\/a>;$/;"	a
+67	./../html/rtGetInf_c.html	/^<a name="67"><font color="#888888 "><i>   67   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtGetInfF ==================================================<\/i><\/font>$/;"	a
+67	./../html/rtGetNaN_c.html	/^<a name="67"><font color="#888888 "><i>   67   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtGetNaNF ==================================================<\/i><\/font>$/;"	a
+67	./../html/rt_nonfinite_c.html	/^<a name="67"><font color="#888888 "><i>   67   <\/i><\/font><\/a>$/;"	a
+67	./../html/rtwtypes_h.html	/^<a name="67"><font color="#888888 "><i>   67   <\/i><\/font><\/a>$/;"	a
+68	./../html/rtGetInf_c.html	/^<a name="68"><font color="#888888 "><i>   68   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+68	./../html/rtGetNaN_c.html	/^<a name="68"><font color="#888888 "><i>   68   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+68	./../html/rt_nonfinite_c.html	/^<a name="68"><font color="#888888 "><i>   68   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>if<\/b><\/font> <font color="#992211"><b>defined<\/b><\/font>(_MSC_VER) &amp;&amp; (_MSC_VER &lt;= 1200)$/;"	a
+68	./../html/rtwtypes_h.html	/^<a name="68"><font color="#888888 "><i>   68   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+69	./../html/rtGetInf_c.html	/^<a name="69"><font color="#888888 "><i>   69   <\/i><\/font><\/a><font color="#117755"><I> * Initialize rtInfF needed by the generated code.<\/i><\/font>$/;"	a
+69	./../html/rtGetNaN_c.html	/^<a name="69"><font color="#888888 "><i>   69   <\/i><\/font><\/a><font color="#117755"><I> * Initialize rtNaNF needed by the generated code.<\/i><\/font>$/;"	a
+69	./../html/rt_nonfinite_c.html	/^<a name="69"><font color="#888888 "><i>   69   <\/i><\/font><\/a>$/;"	a
+69	./../html/rtwtypes_h.html	/^<a name="69"><font color="#888888 "><i>   69   <\/i><\/font><\/a>  <a href="#type_real64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real64_T');" target="_self"><font color="#1122aa">real64_T<\/font><\/a> re;$/;"	a
+7	./../html/multiplication_c.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/multiplication_h.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/multiplication_initialize_c.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/multiplication_initialize_h.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/multiplication_terminate_c.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/multiplication_terminate_h.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/multiplication_types_h.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/rtGetInf_c.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/rtGetInf_h.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/rtGetNaN_c.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/rtGetNaN_h.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/rt_nonfinite_c.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/rt_nonfinite_h.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+7	./../html/rtwtypes_h.html	/^<a name="7"><font color="#888888 "><i>    7   <\/i><\/font><\/a><font color="#117755"><I> * MATLAB Coder version            : 3.0<\/i><\/font>$/;"	a
+70	./../html/rtGetInf_c.html	/^<a name="70"><font color="#888888 "><i>   70   <\/i><\/font><\/a><font color="#117755"><I> * Inf is initialized as non-signaling. Assumes IEEE.<\/i><\/font>$/;"	a
+70	./../html/rtGetNaN_c.html	/^<a name="70"><font color="#888888 "><i>   70   <\/i><\/font><\/a><font color="#117755"><I> * NaN is initialized as non-signaling. Assumes IEEE.<\/i><\/font>$/;"	a
+70	./../html/rt_nonfinite_c.html	/^<a name="70"><font color="#888888 "><i>   70   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> _isnan(value)? TRUE:FALSE;$/;"	a
+70	./../html/rtwtypes_h.html	/^<a name="70"><font color="#888888 "><i>   70   <\/i><\/font><\/a>  <a href="#type_real64_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real64_T');" target="_self"><font color="#1122aa">real64_T<\/font><\/a> im;$/;"	a
+71	./../html/rtGetInf_c.html	/^<a name="71"><font color="#888888 "><i>   71   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+71	./../html/rtGetNaN_c.html	/^<a name="71"><font color="#888888 "><i>   71   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+71	./../html/rt_nonfinite_c.html	/^<a name="71"><font color="#888888 "><i>   71   <\/i><\/font><\/a>$/;"	a
+71	./../html/rtwtypes_h.html	/^<a name="71"><font color="#888888 "><i>   71   <\/i><\/font><\/a><b>}<\/b> <a name="type_creal64_T">creal64_T<\/a>;$/;"	a
+72	./../html/rtGetInf_c.html	/^<a name="72"><font color="#888888 "><i>   72   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a name="fcn_rtGetInfF">rtGetInfF<\/a>(<font color="#112266"><b>void<\/b><\/font>)$/;"	a
+72	./../html/rtGetNaN_c.html	/^<a name="72"><font color="#888888 "><i>   72   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> <a name="fcn_rtGetNaNF">rtGetNaNF<\/a>(<font color="#112266"><b>void<\/b><\/font>)$/;"	a
+72	./../html/rt_nonfinite_c.html	/^<a name="72"><font color="#888888 "><i>   72   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>else<\/b><\/font>$/;"	a
+72	./../html/rtwtypes_h.html	/^<a name="72"><font color="#888888 "><i>   72   <\/i><\/font><\/a>$/;"	a
+73	./../html/rtGetInf_c.html	/^<a name="73"><font color="#888888 "><i>   73   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+73	./../html/rtGetNaN_c.html	/^<a name="73"><font color="#888888 "><i>   73   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+73	./../html/rt_nonfinite_c.html	/^<a name="73"><font color="#888888 "><i>   73   <\/i><\/font><\/a>$/;"	a
+73	./../html/rtwtypes_h.html	/^<a name="73"><font color="#888888 "><i>   73   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+74	./../html/rtGetInf_c.html	/^<a name="74"><font color="#888888 "><i>   74   <\/i><\/font><\/a>  <a href="rt_nonfinite_h.html#type_IEEESingle" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_IEEESingle');" target="_self"><font color="#1122aa">IEEESingle<\/font><\/a> infF;$/;"	a
+74	./../html/rtGetNaN_c.html	/^<a name="74"><font color="#888888 "><i>   74   <\/i><\/font><\/a>  <a href="rt_nonfinite_h.html#type_IEEESingle" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_IEEESingle');" target="_self"><font color="#1122aa">IEEESingle<\/font><\/a> nanF = <b>{<\/b> <b>{<\/b> 0 <b>}<\/b> <b>}<\/b>;$/;"	a
+74	./../html/rt_nonfinite_c.html	/^<a name="74"><font color="#888888 "><i>   74   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> (value!=value)? 1U:0U;$/;"	a
+74	./../html/rtwtypes_h.html	/^<a name="74"><font color="#888888 "><i>   74   <\/i><\/font><\/a>  <a href="#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> re;$/;"	a
+75	./../html/rtGetInf_c.html	/^<a name="75"><font color="#888888 "><i>   75   <\/i><\/font><\/a>  infF.wordL.wordLuint = 0x7F800000U;$/;"	a
+75	./../html/rtGetNaN_c.html	/^<a name="75"><font color="#888888 "><i>   75   <\/i><\/font><\/a>$/;"	a
+75	./../html/rt_nonfinite_c.html	/^<a name="75"><font color="#888888 "><i>   75   <\/i><\/font><\/a>$/;"	a
+75	./../html/rtwtypes_h.html	/^<a name="75"><font color="#888888 "><i>   75   <\/i><\/font><\/a>  <a href="#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> im;$/;"	a
+76	./../html/rtGetInf_c.html	/^<a name="76"><font color="#888888 "><i>   76   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> infF.wordL.wordLreal;$/;"	a
+76	./../html/rtGetNaN_c.html	/^<a name="76"><font color="#888888 "><i>   76   <\/i><\/font><\/a>  <a href="rtwtypes_h.html#type_uint16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint16_T');" target="_self"><font color="#1122aa">uint16_T<\/font><\/a> one = 1U;$/;"	a
+76	./../html/rt_nonfinite_c.html	/^<a name="76"><font color="#888888 "><i>   76   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+76	./../html/rtwtypes_h.html	/^<a name="76"><font color="#888888 "><i>   76   <\/i><\/font><\/a><b>}<\/b> <a name="type_creal_T">creal_T<\/a>;$/;"	a
+77	./../html/rtGetInf_c.html	/^<a name="77"><font color="#888888 "><i>   77   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+77	./../html/rtGetNaN_c.html	/^<a name="77"><font color="#888888 "><i>   77   <\/i><\/font><\/a>  <font color="#112266"><b>enum<\/b><\/font> <b>{<\/b>$/;"	a
+77	./../html/rt_nonfinite_c.html	/^<a name="77"><font color="#888888 "><i>   77   <\/i><\/font><\/a>$/;"	a
+77	./../html/rtwtypes_h.html	/^<a name="77"><font color="#888888 "><i>   77   <\/i><\/font><\/a>$/;"	a
+78	./../html/rtGetInf_c.html	/^<a name="78"><font color="#888888 "><i>   78   <\/i><\/font><\/a>$/;"	a
+78	./../html/rtGetNaN_c.html	/^<a name="78"><font color="#888888 "><i>   78   <\/i><\/font><\/a>    LittleEndian,$/;"	a
+78	./../html/rt_nonfinite_c.html	/^<a name="78"><font color="#888888 "><i>   78   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+78	./../html/rtwtypes_h.html	/^<a name="78"><font color="#888888 "><i>   78   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+79	./../html/rtGetInf_c.html	/^<a name="79"><font color="#888888 "><i>   79   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtGetMinusInf ==================================================<\/i><\/font>$/;"	a
+79	./../html/rtGetNaN_c.html	/^<a name="79"><font color="#888888 "><i>   79   <\/i><\/font><\/a>    BigEndian$/;"	a
+79	./../html/rt_nonfinite_c.html	/^<a name="79"><font color="#888888 "><i>   79   <\/i><\/font><\/a>$/;"	a
+79	./../html/rtwtypes_h.html	/^<a name="79"><font color="#888888 "><i>   79   <\/i><\/font><\/a>  <a href="#type_int8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int8_T');" target="_self"><font color="#1122aa">int8_T<\/font><\/a> re;$/;"	a
+8	./../html/multiplication_c.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/multiplication_h.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/multiplication_initialize_c.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/multiplication_initialize_h.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/multiplication_terminate_c.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/multiplication_terminate_h.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/multiplication_types_h.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/rtGetInf_c.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/rtGetInf_h.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/rtGetNaN_c.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/rtGetNaN_h.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/rt_nonfinite_c.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/rt_nonfinite_h.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+8	./../html/rtwtypes_h.html	/^<a name="8"><font color="#888888 "><i>    8   <\/i><\/font><\/a><font color="#117755"><I> * C\/C++ source code generated on  : 13-Feb-2018 14:45:26<\/i><\/font>$/;"	a
+80	./../html/rtGetInf_c.html	/^<a name="80"><font color="#888888 "><i>   80   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+80	./../html/rtGetNaN_c.html	/^<a name="80"><font color="#888888 "><i>   80   <\/i><\/font><\/a>  <b>}<\/b> machByteOrder = (*((<a href="rtwtypes_h.html#type_uint8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint8_T');" target="_self"><font color="#1122aa">uint8_T<\/font><\/a> *) &amp;one) == 1U) ? LittleEndian : BigEndian;$/;"	a
+80	./../html/rt_nonfinite_c.html	/^<a name="80"><font color="#888888 "><i>   80   <\/i><\/font><\/a><font color="#117755"><i>\/* Function: rtIsNaNF =================================================<\/i><\/font>$/;"	a
+80	./../html/rtwtypes_h.html	/^<a name="80"><font color="#888888 "><i>   80   <\/i><\/font><\/a>  <a href="#type_int8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int8_T');" target="_self"><font color="#1122aa">int8_T<\/font><\/a> im;$/;"	a
+81	./../html/rtGetInf_c.html	/^<a name="81"><font color="#888888 "><i>   81   <\/i><\/font><\/a><font color="#117755"><I> * Initialize rtMinusInf needed by the generated code.<\/i><\/font>$/;"	a
+81	./../html/rtGetNaN_c.html	/^<a name="81"><font color="#888888 "><i>   81   <\/i><\/font><\/a>  <font color="#112266"><b>switch<\/b><\/font> (machByteOrder) <b>{<\/b>$/;"	a
+81	./../html/rt_nonfinite_c.html	/^<a name="81"><font color="#888888 "><i>   81   <\/i><\/font><\/a><font color="#117755"><I> * Abstract:<\/i><\/font>$/;"	a
+81	./../html/rtwtypes_h.html	/^<a name="81"><font color="#888888 "><i>   81   <\/i><\/font><\/a><b>}<\/b> <a name="type_cint8_T">cint8_T<\/a>;$/;"	a
+82	./../html/rtGetInf_c.html	/^<a name="82"><font color="#888888 "><i>   82   <\/i><\/font><\/a><font color="#117755"><I> * Inf is initialized as non-signaling. Assumes IEEE.<\/i><\/font>$/;"	a
+82	./../html/rtGetNaN_c.html	/^<a name="82"><font color="#888888 "><i>   82   <\/i><\/font><\/a>   <font color="#112266"><b>case<\/b><\/font> LittleEndian:$/;"	a
+82	./../html/rt_nonfinite_c.html	/^<a name="82"><font color="#888888 "><i>   82   <\/i><\/font><\/a><font color="#117755"><I> * Test if single-precision value is not a number<\/i><\/font>$/;"	a
+82	./../html/rtwtypes_h.html	/^<a name="82"><font color="#888888 "><i>   82   <\/i><\/font><\/a>$/;"	a
+83	./../html/rtGetInf_c.html	/^<a name="83"><font color="#888888 "><i>   83   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+83	./../html/rtGetNaN_c.html	/^<a name="83"><font color="#888888 "><i>   83   <\/i><\/font><\/a>    <b>{<\/b>$/;"	a
+83	./../html/rt_nonfinite_c.html	/^<a name="83"><font color="#888888 "><i>   83   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+83	./../html/rtwtypes_h.html	/^<a name="83"><font color="#888888 "><i>   83   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+84	./../html/rtGetInf_c.html	/^<a name="84"><font color="#888888 "><i>   84   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> <a name="fcn_rtGetMinusInf">rtGetMinusInf<\/a>(<font color="#112266"><b>void<\/b><\/font>)$/;"	a
+84	./../html/rtGetNaN_c.html	/^<a name="84"><font color="#888888 "><i>   84   <\/i><\/font><\/a>      nanF.wordL.wordLuint = 0xFFC00000U;$/;"	a
+84	./../html/rt_nonfinite_c.html	/^<a name="84"><font color="#888888 "><i>   84   <\/i><\/font><\/a><a href="rtwtypes_h.html#type_boolean_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_boolean_T');" target="_self"><font color="#1122aa">boolean_T<\/font><\/a> <a name="fcn_rtIsNaNF">rtIsNaNF<\/a>(<a href="rtwtypes_h.html#type_real32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real32_T');" target="_self"><font color="#1122aa">real32_T<\/font><\/a> value)$/;"	a
+84	./../html/rtwtypes_h.html	/^<a name="84"><font color="#888888 "><i>   84   <\/i><\/font><\/a>  <a href="#type_uint8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint8_T');" target="_self"><font color="#1122aa">uint8_T<\/font><\/a> re;$/;"	a
+85	./../html/rtGetInf_c.html	/^<a name="85"><font color="#888888 "><i>   85   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+85	./../html/rtGetNaN_c.html	/^<a name="85"><font color="#888888 "><i>   85   <\/i><\/font><\/a>      <font color="#112266"><b>break<\/b><\/font>;$/;"	a
+85	./../html/rt_nonfinite_c.html	/^<a name="85"><font color="#888888 "><i>   85   <\/i><\/font><\/a><b>{<\/b>$/;"	a
+85	./../html/rtwtypes_h.html	/^<a name="85"><font color="#888888 "><i>   85   <\/i><\/font><\/a>  <a href="#type_uint8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint8_T');" target="_self"><font color="#1122aa">uint8_T<\/font><\/a> im;$/;"	a
+86	./../html/rtGetInf_c.html	/^<a name="86"><font color="#888888 "><i>   86   <\/i><\/font><\/a>  size_t bitsPerReal = <font color="#112266"><b>sizeof<\/b><\/font>(<a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a>) * (NumBitsPerChar);$/;"	a
+86	./../html/rtGetNaN_c.html	/^<a name="86"><font color="#888888 "><i>   86   <\/i><\/font><\/a>    <b>}<\/b>$/;"	a
+86	./../html/rt_nonfinite_c.html	/^<a name="86"><font color="#888888 "><i>   86   <\/i><\/font><\/a>$/;"	a
+86	./../html/rtwtypes_h.html	/^<a name="86"><font color="#888888 "><i>   86   <\/i><\/font><\/a><b>}<\/b> <a name="type_cuint8_T">cuint8_T<\/a>;$/;"	a
+87	./../html/rtGetInf_c.html	/^<a name="87"><font color="#888888 "><i>   87   <\/i><\/font><\/a>  <a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a> minf = 0.0;$/;"	a
+87	./../html/rtGetNaN_c.html	/^<a name="87"><font color="#888888 "><i>   87   <\/i><\/font><\/a>$/;"	a
+87	./../html/rt_nonfinite_c.html	/^<a name="87"><font color="#888888 "><i>   87   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>if<\/b><\/font> <font color="#992211"><b>defined<\/b><\/font>(_MSC_VER) &amp;&amp; (_MSC_VER &lt;= 1200)$/;"	a
+87	./../html/rtwtypes_h.html	/^<a name="87"><font color="#888888 "><i>   87   <\/i><\/font><\/a>$/;"	a
+88	./../html/rtGetInf_c.html	/^<a name="88"><font color="#888888 "><i>   88   <\/i><\/font><\/a>  <font color="#112266"><b>if<\/b><\/font> (bitsPerReal == 32U) <b>{<\/b>$/;"	a
+88	./../html/rtGetNaN_c.html	/^<a name="88"><font color="#888888 "><i>   88   <\/i><\/font><\/a>   <font color="#112266"><b>case<\/b><\/font> BigEndian:$/;"	a
+88	./../html/rt_nonfinite_c.html	/^<a name="88"><font color="#888888 "><i>   88   <\/i><\/font><\/a>$/;"	a
+88	./../html/rtwtypes_h.html	/^<a name="88"><font color="#888888 "><i>   88   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+89	./../html/rtGetInf_c.html	/^<a name="89"><font color="#888888 "><i>   89   <\/i><\/font><\/a>    minf = <a href="#fcn_rtGetMinusInfF" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'fcn_rtGetMinusInfF');" target="_self"><font color="#1122aa">rtGetMinusInfF<\/font><\/a>();$/;"	a
+89	./../html/rtGetNaN_c.html	/^<a name="89"><font color="#888888 "><i>   89   <\/i><\/font><\/a>    <b>{<\/b>$/;"	a
+89	./../html/rt_nonfinite_c.html	/^<a name="89"><font color="#888888 "><i>   89   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> _isnan((<a href="rtwtypes_h.html#type_real_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_real_T');" target="_self"><font color="#1122aa">real_T<\/font><\/a>)value)? true:false;$/;"	a
+89	./../html/rtwtypes_h.html	/^<a name="89"><font color="#888888 "><i>   89   <\/i><\/font><\/a>  <a href="#type_int16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int16_T');" target="_self"><font color="#1122aa">int16_T<\/font><\/a> re;$/;"	a
+9	./../html/multiplication_c.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/multiplication_h.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/multiplication_initialize_c.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/multiplication_initialize_h.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/multiplication_terminate_c.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/multiplication_terminate_h.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/multiplication_types_h.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/rtGetInf_c.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/rtGetInf_h.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/rtGetNaN_c.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/rtGetNaN_h.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/rt_nonfinite_c.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/rt_nonfinite_h.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+9	./../html/rtwtypes_h.html	/^<a name="9"><font color="#888888 "><i>    9   <\/i><\/font><\/a><font color="#117755"><I> *\/<\/i><\/font>$/;"	a
+90	./../html/rtGetInf_c.html	/^<a name="90"><font color="#888888 "><i>   90   <\/i><\/font><\/a>  <b>}<\/b> <font color="#112266"><b>else<\/b><\/font> <b>{<\/b>$/;"	a
+90	./../html/rtGetNaN_c.html	/^<a name="90"><font color="#888888 "><i>   90   <\/i><\/font><\/a>      nanF.wordL.wordLuint = 0x7FFFFFFFU;$/;"	a
+90	./../html/rt_nonfinite_c.html	/^<a name="90"><font color="#888888 "><i>   90   <\/i><\/font><\/a>$/;"	a
+90	./../html/rtwtypes_h.html	/^<a name="90"><font color="#888888 "><i>   90   <\/i><\/font><\/a>  <a href="#type_int16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int16_T');" target="_self"><font color="#1122aa">int16_T<\/font><\/a> im;$/;"	a
+91	./../html/rtGetInf_c.html	/^<a name="91"><font color="#888888 "><i>   91   <\/i><\/font><\/a>    <a href="rtwtypes_h.html#type_uint16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint16_T');" target="_self"><font color="#1122aa">uint16_T<\/font><\/a> one = 1U;$/;"	a
+91	./../html/rtGetNaN_c.html	/^<a name="91"><font color="#888888 "><i>   91   <\/i><\/font><\/a>      <font color="#112266"><b>break<\/b><\/font>;$/;"	a
+91	./../html/rt_nonfinite_c.html	/^<a name="91"><font color="#888888 "><i>   91   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>else<\/b><\/font>$/;"	a
+91	./../html/rtwtypes_h.html	/^<a name="91"><font color="#888888 "><i>   91   <\/i><\/font><\/a><b>}<\/b> <a name="type_cint16_T">cint16_T<\/a>;$/;"	a
+92	./../html/rtGetInf_c.html	/^<a name="92"><font color="#888888 "><i>   92   <\/i><\/font><\/a>    <font color="#112266"><b>enum<\/b><\/font> <b>{<\/b>$/;"	a
+92	./../html/rtGetNaN_c.html	/^<a name="92"><font color="#888888 "><i>   92   <\/i><\/font><\/a>    <b>}<\/b>$/;"	a
+92	./../html/rt_nonfinite_c.html	/^<a name="92"><font color="#888888 "><i>   92   <\/i><\/font><\/a>$/;"	a
+92	./../html/rtwtypes_h.html	/^<a name="92"><font color="#888888 "><i>   92   <\/i><\/font><\/a>$/;"	a
+93	./../html/rtGetInf_c.html	/^<a name="93"><font color="#888888 "><i>   93   <\/i><\/font><\/a>      LittleEndian,$/;"	a
+93	./../html/rtGetNaN_c.html	/^<a name="93"><font color="#888888 "><i>   93   <\/i><\/font><\/a>  <b>}<\/b>$/;"	a
+93	./../html/rt_nonfinite_c.html	/^<a name="93"><font color="#888888 "><i>   93   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> (value!=value)? 1U:0U;$/;"	a
+93	./../html/rtwtypes_h.html	/^<a name="93"><font color="#888888 "><i>   93   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+94	./../html/rtGetInf_c.html	/^<a name="94"><font color="#888888 "><i>   94   <\/i><\/font><\/a>      BigEndian$/;"	a
+94	./../html/rtGetNaN_c.html	/^<a name="94"><font color="#888888 "><i>   94   <\/i><\/font><\/a>$/;"	a
+94	./../html/rt_nonfinite_c.html	/^<a name="94"><font color="#888888 "><i>   94   <\/i><\/font><\/a>$/;"	a
+94	./../html/rtwtypes_h.html	/^<a name="94"><font color="#888888 "><i>   94   <\/i><\/font><\/a>  <a href="#type_uint16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint16_T');" target="_self"><font color="#1122aa">uint16_T<\/font><\/a> re;$/;"	a
+95	./../html/rtGetInf_c.html	/^<a name="95"><font color="#888888 "><i>   95   <\/i><\/font><\/a>    <b>}<\/b> machByteOrder = (*((<a href="rtwtypes_h.html#type_uint8_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint8_T');" target="_self"><font color="#1122aa">uint8_T<\/font><\/a> *) &amp;one) == 1U) ? LittleEndian : BigEndian;$/;"	a
+95	./../html/rtGetNaN_c.html	/^<a name="95"><font color="#888888 "><i>   95   <\/i><\/font><\/a>  <font color="#112266"><b>return<\/b><\/font> nanF.wordL.wordLreal;$/;"	a
+95	./../html/rt_nonfinite_c.html	/^<a name="95"><font color="#888888 "><i>   95   <\/i><\/font><\/a><font color="#992211">#<\/font><font color="#992211"><b>endif<\/b><\/font>$/;"	a
+95	./../html/rtwtypes_h.html	/^<a name="95"><font color="#888888 "><i>   95   <\/i><\/font><\/a>  <a href="#type_uint16_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_uint16_T');" target="_self"><font color="#1122aa">uint16_T<\/font><\/a> im;$/;"	a
+96	./../html/rtGetInf_c.html	/^<a name="96"><font color="#888888 "><i>   96   <\/i><\/font><\/a>    <font color="#112266"><b>switch<\/b><\/font> (machByteOrder) <b>{<\/b>$/;"	a
+96	./../html/rtGetNaN_c.html	/^<a name="96"><font color="#888888 "><i>   96   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+96	./../html/rt_nonfinite_c.html	/^<a name="96"><font color="#888888 "><i>   96   <\/i><\/font><\/a>$/;"	a
+96	./../html/rtwtypes_h.html	/^<a name="96"><font color="#888888 "><i>   96   <\/i><\/font><\/a><b>}<\/b> <a name="type_cuint16_T">cuint16_T<\/a>;$/;"	a
+97	./../html/rtGetInf_c.html	/^<a name="97"><font color="#888888 "><i>   97   <\/i><\/font><\/a>     <font color="#112266"><b>case<\/b><\/font> LittleEndian:$/;"	a
+97	./../html/rtGetNaN_c.html	/^<a name="97"><font color="#888888 "><i>   97   <\/i><\/font><\/a>$/;"	a
+97	./../html/rt_nonfinite_c.html	/^<a name="97"><font color="#888888 "><i>   97   <\/i><\/font><\/a><b>}<\/b>$/;"	a
+97	./../html/rtwtypes_h.html	/^<a name="97"><font color="#888888 "><i>   97   <\/i><\/font><\/a>$/;"	a
+98	./../html/rtGetInf_c.html	/^<a name="98"><font color="#888888 "><i>   98   <\/i><\/font><\/a>      <b>{<\/b>$/;"	a
+98	./../html/rtGetNaN_c.html	/^<a name="98"><font color="#888888 "><i>   98   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+98	./../html/rt_nonfinite_c.html	/^<a name="98"><font color="#888888 "><i>   98   <\/i><\/font><\/a>$/;"	a
+98	./../html/rtwtypes_h.html	/^<a name="98"><font color="#888888 "><i>   98   <\/i><\/font><\/a><font color="#112266"><b>typedef<\/b><\/font> <font color="#112266"><b>struct<\/b><\/font> <b>{<\/b>$/;"	a
+99	./../html/rtGetInf_c.html	/^<a name="99"><font color="#888888 "><i>   99   <\/i><\/font><\/a>        <font color="#112266"><b>union<\/b><\/font> <b>{<\/b>$/;"	a
+99	./../html/rtGetNaN_c.html	/^<a name="99"><font color="#888888 "><i>   99   <\/i><\/font><\/a><font color="#117755"><I> * File trailer for rtGetNaN.c<\/i><\/font>$/;"	a
+99	./../html/rt_nonfinite_c.html	/^<a name="99"><font color="#888888 "><i>   99   <\/i><\/font><\/a><font color="#117755"><i>\/*<\/i><\/font>$/;"	a
+99	./../html/rtwtypes_h.html	/^<a name="99"><font color="#888888 "><i>   99   <\/i><\/font><\/a>  <a href="#type_int32_T" onclick="if (top) if (top.docHiliteMe) top.docHiliteMe(window, 'type_int32_T');" target="_self"><font color="#1122aa">int32_T<\/font><\/a> re;$/;"	a
+ALL_OBJS	./../multiplication_rtw.mk	/^ALL_OBJS = $(OBJS)$/;"	m
+ALL_SRCS	./../multiplication_rtw.mk	/^ALL_SRCS = $(SRCS)$/;"	m
+ANSI_OPTS	./../multiplication_rtw.mk	/^ANSI_OPTS                 = -ansi -pedantic -Wno-long-long -fwrapv$/;"	m
+AR	./../multiplication_rtw.mk	/^AR = ar$/;"	m
+ARCH	./../multiplication_rtw.mk	/^ARCH                      = glnxa64$/;"	m
+ARDEBUG	./../multiplication_rtw.mk	/^ARDEBUG             =$/;"	m
+ARFLAGS	./../multiplication_rtw.mk	/^ARFLAGS              = ruvs$/;"	m
+BUILD_TYPE	./../multiplication_rtw.mk	/^BUILD_TYPE = "Static Library"$/;"	m
+BigEndianIEEEDouble	./../rt_nonfinite.h	/^} BigEndianIEEEDouble;$/;"	t	typeref:struct:__anon1
+CC	./../multiplication_rtw.mk	/^CC = gcc$/;"	m
+CDEBUG	./../multiplication_rtw.mk	/^CDEBUG              = -g$/;"	m
+CFLAGS	./../multiplication_rtw.mk	/^CFLAGS               = -c $(ANSI_OPTS) -fPIC \\$/;"	m
+CFLAGS_BASIC	./../multiplication_rtw.mk	/^CFLAGS_BASIC = $(DEFINES) $(INCLUDES)$/;"	m
+COMPUTER	./../multiplication_rtw.mk	/^COMPUTER                  = GLNXA64$/;"	m
+CPP	./../multiplication_rtw.mk	/^CPP = g++$/;"	m
+CPPDEBUG	./../multiplication_rtw.mk	/^CPPDEBUG            = -g$/;"	m
+CPPFLAGS	./../multiplication_rtw.mk	/^CPPFLAGS             = -c $(CPP_ANSI_OPTS) -fPIC \\$/;"	m
+CPPFLAGS_BASIC	./../multiplication_rtw.mk	/^CPPFLAGS_BASIC = $(DEFINES) $(INCLUDES)$/;"	m
+CPPLDDEBUG	./../multiplication_rtw.mk	/^CPPLDDEBUG          = -g$/;"	m
+CPP_ANSI_OPTS	./../multiplication_rtw.mk	/^CPP_ANSI_OPTS             = -std=c++98 -pedantic -Wno-long-long -fwrapv$/;"	m
+CPP_EXT	./../multiplication_rtw.mk	/^CPP_EXT             = .cpp$/;"	m
+CPP_LD	./../multiplication_rtw.mk	/^CPP_LD = g++$/;"	m
+CPP_LDFLAGS	./../multiplication_rtw.mk	/^CPP_LDFLAGS          = -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)"$/;"	m
+CPP_OUTPUT_FLAG	./../multiplication_rtw.mk	/^CPP_OUTPUT_FLAG     = -o$/;"	m
+CPP_SHAREDLIB_LDFLAGS	./../multiplication_rtw.mk	/^CPP_SHAREDLIB_LDFLAGS  = -shared -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)" -Wl,--no-undefined$/;"	m
+CPP_WARN_FLAGS	./../multiplication_rtw.mk	/^CPP_WARN_FLAGS     = -Wall -W -Wwrite-strings -Winline -Wpointer-arith -Wcast-align$/;"	m
+CPP_WARN_FLAGS_MAX	./../multiplication_rtw.mk	/^CPP_WARN_FLAGS_MAX = $(CPP_WARN_FLAGS) -Wcast-qual -Wshadow$/;"	m
+CREAL_T	./../rtwtypes.h	61;"	d
+C_EXT	./../multiplication_rtw.mk	/^C_EXT               = .c$/;"	m
+C_OUTPUT_FLAG	./../multiplication_rtw.mk	/^C_OUTPUT_FLAG       = -o$/;"	m
+DEFINES	./../multiplication_rtw.mk	/^DEFINES = $(DEFINES_STANDARD)$/;"	m
+DEFINES_STANDARD	./../multiplication_rtw.mk	/^DEFINES_STANDARD = -DMODEL=multiplication -DHAVESTDIO -DUSE_RTMODEL -DUNIX$/;"	m
+DOWNLOAD	./../multiplication_rtw.mk	/^DOWNLOAD =$/;"	m
+DOWNLOAD_FLAGS	./../multiplication_rtw.mk	/^DOWNLOAD_FLAGS       =$/;"	m
+ECHO	./../multiplication_rtw.mk	/^ECHO                = @echo$/;"	m
+EXECUTE	./../multiplication_rtw.mk	/^EXECUTE = $(PRODUCT)$/;"	m
+EXECUTE_FLAGS	./../multiplication_rtw.mk	/^EXECUTE_FLAGS        =$/;"	m
+EXE_EXT	./../multiplication_rtw.mk	/^EXE_EXT             =$/;"	m
+HPP_EXT	./../multiplication_rtw.mk	/^HPP_EXT             = .hpp$/;"	m
+H_EXT	./../multiplication_rtw.mk	/^H_EXT               = .h$/;"	m
+IEEESingle	./../rt_nonfinite.h	/^} IEEESingle;$/;"	t	typeref:struct:__anon5
+INCLUDES	./../multiplication_rtw.mk	/^INCLUDES = $(INCLUDES_BUILDINFO)$/;"	m
+INCLUDES_BUILDINFO	./../multiplication_rtw.mk	/^INCLUDES_BUILDINFO = -I$(START_DIR) -I$(START_DIR)\/codegen\/lib\/multiplication -I$(MATLAB_ROOT)\/extern\/include -I$(MATLAB_ROOT)\/simulink\/include -I$(MATLAB_ROOT)\/rtw\/c\/src -I$(MATLAB_ROOT)\/rtw\/c\/src\/ext_mode\/common -I$(MATLAB_ROOT)\/rtw\/c\/ert$/;"	m
+LD	./../multiplication_rtw.mk	/^LD = gcc$/;"	m
+LDDEBUG	./../multiplication_rtw.mk	/^LDDEBUG             = -g$/;"	m
+LDFLAGS	./../multiplication_rtw.mk	/^LDFLAGS              = -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)"$/;"	m
+LIBS	./../multiplication_rtw.mk	/^LIBS = $/;"	m
+LittleEndianIEEEDouble	./../rt_nonfinite.h	/^} LittleEndianIEEEDouble;$/;"	t	typeref:struct:__anon3
+MAKE	./../multiplication_rtw.mk	/^MAKE = $(MAKE_PATH)\/gmake$/;"	m
+MAKEFILE	./../multiplication_rtw.mk	/^MAKEFILE                  = multiplication_rtw.mk$/;"	m
+MAKE_EXT	./../multiplication_rtw.mk	/^MAKE_EXT            = .mk$/;"	m
+MAKE_FLAGS	./../multiplication_rtw.mk	/^MAKE_FLAGS           = -f $(MAKEFILE)$/;"	m
+MAKE_PATH	./../multiplication_rtw.mk	/^MAKE_PATH = %MATLAB%\/bin\/glnxa64$/;"	m
+MASTER_ANCHOR_DIR	./../multiplication_rtw.mk	/^MASTER_ANCHOR_DIR         = $/;"	m
+MATLAB_ARCH_BIN	./../multiplication_rtw.mk	/^MATLAB_ARCH_BIN           = \/home\/vipinsoni\/MATLAB\/bin\/glnxa64$/;"	m
+MATLAB_BIN	./../multiplication_rtw.mk	/^MATLAB_BIN                = \/home\/vipinsoni\/MATLAB\/bin$/;"	m
+MATLAB_ROOT	./../multiplication_rtw.mk	/^MATLAB_ROOT               = \/home\/vipinsoni\/MATLAB$/;"	m
+MAX_int16_T	./../rtwtypes.h	127;"	d
+MAX_int32_T	./../rtwtypes.h	131;"	d
+MAX_int64_T	./../rtwtypes.h	135;"	d
+MAX_int8_T	./../rtwtypes.h	123;"	d
+MAX_uint16_T	./../rtwtypes.h	129;"	d
+MAX_uint32_T	./../rtwtypes.h	133;"	d
+MAX_uint64_T	./../rtwtypes.h	137;"	d
+MAX_uint8_T	./../rtwtypes.h	125;"	d
+MEX	./../multiplication_rtw.mk	/^MEX = $(MEX_PATH)\/mex$/;"	m
+MEX_CFLAGS	./../multiplication_rtw.mk	/^MEX_CFLAGS           = -MATLAB_ARCH=$(ARCH) $(INCLUDES) \\$/;"	m
+MEX_DEBUG	./../multiplication_rtw.mk	/^MEX_DEBUG           = -g$/;"	m
+MEX_EXT	./../multiplication_rtw.mk	/^MEX_EXT             = .mexa64$/;"	m
+MEX_LDFLAGS	./../multiplication_rtw.mk	/^MEX_LDFLAGS          = LDFLAGS=='$$LDFLAGS'$/;"	m
+MEX_PATH	./../multiplication_rtw.mk	/^MEX_PATH = $(MATLAB_BIN)$/;"	m
+MIN_int16_T	./../rtwtypes.h	128;"	d
+MIN_int32_T	./../rtwtypes.h	132;"	d
+MIN_int64_T	./../rtwtypes.h	136;"	d
+MIN_int8_T	./../rtwtypes.h	124;"	d
+MIN_uint16_T	./../rtwtypes.h	130;"	d
+MIN_uint32_T	./../rtwtypes.h	134;"	d
+MIN_uint64_T	./../rtwtypes.h	138;"	d
+MIN_uint8_T	./../rtwtypes.h	126;"	d
+MV	./../multiplication_rtw.mk	/^MV                  = @mv$/;"	m
+NumBitsPerChar	./../rtGetInf.c	16;"	d	file:
+NumBitsPerChar	./../rtGetNaN.c	16;"	d	file:
+OBJS	./../multiplication_rtw.mk	/^OBJS = multiplication_initialize.o multiplication_terminate.o multiplication.o rt_nonfinite.o rtGetNaN.o rtGetInf.o$/;"	m
+OBJ_EXT	./../multiplication_rtw.mk	/^OBJ_EXT             = .o$/;"	m
+OUTPUT_FLAG	./../multiplication_rtw.mk	/^OUTPUT_FLAG         = -o$/;"	m
+PREBUILT_OBJS	./../multiplication_rtw.mk	/^PREBUILT_OBJS = $/;"	m
+PRODUCT	./../multiplication_rtw.mk	/^PRODUCT = $(RELATIVE_PATH_TO_ANCHOR)\/multiplication.a$/;"	m
+PRODUCT_NAME	./../multiplication_rtw.mk	/^PRODUCT_NAME              = multiplication$/;"	m
+PRODUCT_TYPE	./../multiplication_rtw.mk	/^PRODUCT_TYPE = "static-library"$/;"	m
+RELATIVE_PATH_TO_ANCHOR	./../multiplication_rtw.mk	/^RELATIVE_PATH_TO_ANCHOR   = .$/;"	m
+RM	./../multiplication_rtw.mk	/^RM                  = @rm -f$/;"	m
+RTW_BOOK	./../html/rtwshrink.js	/^function RTW_BOOK()$/;"	c
+RTW_PAGE	./../html/rtwshrink.js	/^function RTW_PAGE()$/;"	c
+RTW_STRUCT	./../html/rtwshrink.js	/^function RTW_STRUCT(prop, value) {$/;"	c
+RUN	./../multiplication_rtw.mk	/^RUN                 =$/;"	m
+SHAREDLIB_EXT	./../multiplication_rtw.mk	/^SHAREDLIB_EXT       = .so$/;"	m
+SHAREDLIB_LDFLAGS	./../multiplication_rtw.mk	/^SHAREDLIB_LDFLAGS    = -shared -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)" -Wl,--no-undefined$/;"	m
+SRCS	./../multiplication_rtw.mk	/^SRCS = $(START_DIR)\/codegen\/lib\/multiplication\/multiplication_initialize.c $(START_DIR)\/codegen\/lib\/multiplication\/multiplication_terminate.c $(START_DIR)\/codegen\/lib\/multiplication\/multiplication.c $(START_DIR)\/codegen\/lib\/multiplication\/rt_nonfinite.c $(START_DIR)\/codegen\/lib\/multiplication\/rtGetNaN.c $(START_DIR)\/codegen\/lib\/multiplication\/rtGetInf.c$/;"	m
+START_DIR	./../multiplication_rtw.mk	/^START_DIR                 = \/home\/vipinsoni\/Desktop\/MTP2\/c_coder_matlab$/;"	m
+STATICLIB_EXT	./../multiplication_rtw.mk	/^STATICLIB_EXT       = .a$/;"	m
+STATICLIB_OUTPUT_FLAG	./../multiplication_rtw.mk	/^STATICLIB_OUTPUT_FLAG =$/;"	m
+SYSTEM_LIBS	./../multiplication_rtw.mk	/^SYSTEM_LIBS =  -lm$/;"	m
+TMW_NAME_LENGTH_MAX	./../rtwtypes.h	156;"	d
+TOOLCHAIN_INCS	./../multiplication_rtw.mk	/^TOOLCHAIN_INCS = $/;"	m
+TOOLCHAIN_LIBS	./../multiplication_rtw.mk	/^TOOLCHAIN_LIBS = $/;"	m
+TOOLCHAIN_SRCS	./../multiplication_rtw.mk	/^TOOLCHAIN_SRCS = $/;"	m
+WARN_FLAGS	./../multiplication_rtw.mk	/^WARN_FLAGS         = -Wall -W -Wwrite-strings -Winline -Wstrict-prototypes -Wnested-externs -Wpointer-arith -Wcast-align$/;"	m
+WARN_FLAGS_MAX	./../multiplication_rtw.mk	/^WARN_FLAGS_MAX     = $(WARN_FLAGS) -Wcast-qual -Wshadow$/;"	m
+__MAIN_H__	./../examples/main.h	36;"	d
+__MULTIPLICATION_H__	./../multiplication.h	12;"	d
+__MULTIPLICATION_INITIALIZE_H__	./../multiplication_initialize.h	12;"	d
+__MULTIPLICATION_TERMINATE_H__	./../multiplication_terminate.h	12;"	d
+__MULTIPLICATION_TYPES_H__	./../multiplication_types.h	12;"	d
+__RTGETINF_H__	./../rtGetInf.h	12;"	d
+__RTGETNAN_H__	./../rtGetNaN.h	12;"	d
+__RTWTYPES_H__	./../rtwtypes.h	12;"	d
+__RT_NONFINITE_H__	./../rt_nonfinite.h	12;"	d
+__TMWTYPES__	./../rtwtypes.h	14;"	d
+___CODER_MULTIPLICATION_API_H__	./../interface/_coder_multiplication_api.h	12;"	d
+___CODER_MULTIPLICATION_INFO_H__	./../interface/_coder_multiplication_info.h	12;"	d
+___CODER_MULTIPLICATION_MEX_H__	./../interface/_coder_multiplication_mex.h	12;"	d
+addItem	./../html/rtwshrink.js	/^    this.addItem = function(id, value) {$/;"	m	class:RTW_PAGE
+addPage	./../html/rtwshrink.js	/^    this.addPage = function(file) {        $/;"	m	class:RTW_BOOK
+addToPage	./../html/rtwshrink.js	/^function addToPage(docObj, Obj, prop) {$/;"	f
+argInit_int32_T	./../examples/main.c	/^static int argInit_int32_T(void)$/;"	f	file:
+b_emlrt_marshallIn	./../interface/_coder_multiplication_api.c	/^static int32_T b_emlrt_marshallIn(const emlrtStack *sp, const mxArray *u, const$/;"	f	file:
+boolean_T	./../rtwtypes.h	/^typedef unsigned char boolean_T;$/;"	t
+byte_T	./../rtwtypes.h	/^typedef char_T byte_T;$/;"	t
+c_emlrt_marshallIn	./../interface/_coder_multiplication_api.c	/^static int32_T c_emlrt_marshallIn(const emlrtStack *sp, const mxArray *src,$/;"	f	file:
+char_T	./../rtwtypes.h	/^typedef char char_T;$/;"	t
+cint16_T	./../rtwtypes.h	/^} cint16_T;$/;"	t	typeref:struct:__anon12
+cint32_T	./../rtwtypes.h	/^} cint32_T;$/;"	t	typeref:struct:__anon14
+cint64_T	./../rtwtypes.h	/^} cint64_T;$/;"	t	typeref:struct:__anon16
+cint8_T	./../rtwtypes.h	/^} cint8_T;$/;"	t	typeref:struct:__anon10
+creal32_T	./../rtwtypes.h	/^} creal32_T;$/;"	t	typeref:struct:__anon7
+creal64_T	./../rtwtypes.h	/^} creal64_T;$/;"	t	typeref:struct:__anon8
+creal_T	./../rtwtypes.h	/^} creal_T;$/;"	t	typeref:struct:__anon9
+cuint16_T	./../rtwtypes.h	/^} cuint16_T;$/;"	t	typeref:struct:__anon13
+cuint32_T	./../rtwtypes.h	/^} cuint32_T;$/;"	t	typeref:struct:__anon15
+cuint64_T	./../rtwtypes.h	/^} cuint64_T;$/;"	t	typeref:struct:__anon17
+cuint8_T	./../rtwtypes.h	/^} cuint8_T;$/;"	t	typeref:struct:__anon11
+emlrtContextGlobal	./../interface/_coder_multiplication_api.c	/^emlrtContext emlrtContextGlobal = { true, false, 131419U, NULL, "multiplication",$/;"	v
+emlrtMexFcnProperties	./../interface/_coder_multiplication_info.c	/^mxArray *emlrtMexFcnProperties(void)$/;"	f
+emlrtMexFcnResolvedFunctionsInfo	./../interface/_coder_multiplication_info.c	/^const mxArray *emlrtMexFcnResolvedFunctionsInfo(void)$/;"	f
+emlrtRootTLSGlobal	./../interface/_coder_multiplication_api.c	/^emlrtCTX emlrtRootTLSGlobal = NULL;$/;"	v
+emlrt_marshallIn	./../interface/_coder_multiplication_api.c	/^static int32_T emlrt_marshallIn(const emlrtStack *sp, const mxArray *a, const$/;"	f	file:
+emlrt_marshallOut	./../interface/_coder_multiplication_api.c	/^static const mxArray *emlrt_marshallOut(const int32_T u)$/;"	f	file:
+false	./../rtwtypes.h	143;"	d
+getItem	./../html/rtwshrink.js	/^    this.getItem = function(id) {$/;"	m	class:RTW_PAGE
+getItems	./../html/rtwshrink.js	/^    this.getItems = function() {$/;"	m	class:RTW_PAGE
+getPage	./../html/rtwshrink.js	/^    this.getPage = function(file) {$/;"	m	class:RTW_BOOK
+hasItem	./../html/rtwshrink.js	/^    this.hasItem = function(id) {        $/;"	m	class:RTW_PAGE
+hasPage	./../html/rtwshrink.js	/^    this.hasPage = function(file) {$/;"	m	class:RTW_BOOK
+im	./../rtwtypes.h	/^  int16_T im;$/;"	m	struct:__anon12
+im	./../rtwtypes.h	/^  int32_T im;$/;"	m	struct:__anon14
+im	./../rtwtypes.h	/^  int64_T im;$/;"	m	struct:__anon16
+im	./../rtwtypes.h	/^  int8_T im;$/;"	m	struct:__anon10
+im	./../rtwtypes.h	/^  real32_T im;$/;"	m	struct:__anon7
+im	./../rtwtypes.h	/^  real64_T im;$/;"	m	struct:__anon8
+im	./../rtwtypes.h	/^  real_T im;$/;"	m	struct:__anon9
+im	./../rtwtypes.h	/^  uint16_T im;$/;"	m	struct:__anon13
+im	./../rtwtypes.h	/^  uint32_T im;$/;"	m	struct:__anon15
+im	./../rtwtypes.h	/^  uint64_T im;$/;"	m	struct:__anon17
+im	./../rtwtypes.h	/^  uint8_T im;$/;"	m	struct:__anon11
+int16_T	./../rtwtypes.h	/^typedef short int16_T;$/;"	t
+int32_T	./../rtwtypes.h	/^typedef int int32_T;$/;"	t
+int64_T	./../rtwtypes.h	/^typedef long int64_T;$/;"	t
+int8_T	./../rtwtypes.h	/^typedef signed char int8_T;$/;"	t
+int_T	./../rtwtypes.h	/^typedef int int_T;$/;"	t
+main	./../examples/main.c	/^int main(int argc, const char * const argv[])$/;"	f
+main_multiplication	./../examples/main.c	/^static void main_multiplication(void)$/;"	f	file:
+mexFunction	./../interface/_coder_multiplication_mex.c	/^void mexFunction(int32_T nlhs, mxArray *plhs[], int32_T nrhs, const mxArray$/;"	f
+mexFunctionCreateRootTLS	./../interface/_coder_multiplication_mex.c	/^emlrtCTX mexFunctionCreateRootTLS(void)$/;"	f
+multiplication	./../multiplication.c	/^int multiplication(int a, int b)$/;"	f
+multiplication_api	./../interface/_coder_multiplication_api.c	/^void multiplication_api(const mxArray * const prhs[2], const mxArray *plhs[1])$/;"	f
+multiplication_atexit	./../interface/_coder_multiplication_api.c	/^void multiplication_atexit(void)$/;"	f
+multiplication_initialize	./../interface/_coder_multiplication_api.c	/^void multiplication_initialize(void)$/;"	f
+multiplication_initialize	./../multiplication_initialize.c	/^void multiplication_initialize(void)$/;"	f
+multiplication_mexFunction	./../interface/_coder_multiplication_mex.c	/^static void multiplication_mexFunction(int32_T nlhs, mxArray *plhs[1], int32_T$/;"	f	file:
+multiplication_terminate	./../interface/_coder_multiplication_api.c	/^void multiplication_terminate(void)$/;"	f
+multiplication_terminate	./../multiplication_terminate.c	/^void multiplication_terminate(void)$/;"	f
+re	./../rtwtypes.h	/^  int16_T re;$/;"	m	struct:__anon12
+re	./../rtwtypes.h	/^  int32_T re;$/;"	m	struct:__anon14
+re	./../rtwtypes.h	/^  int64_T re;$/;"	m	struct:__anon16
+re	./../rtwtypes.h	/^  int8_T re;$/;"	m	struct:__anon10
+re	./../rtwtypes.h	/^  real32_T re;$/;"	m	struct:__anon7
+re	./../rtwtypes.h	/^  real64_T re;$/;"	m	struct:__anon8
+re	./../rtwtypes.h	/^  real_T re;$/;"	m	struct:__anon9
+re	./../rtwtypes.h	/^  uint16_T re;$/;"	m	struct:__anon13
+re	./../rtwtypes.h	/^  uint32_T re;$/;"	m	struct:__anon15
+re	./../rtwtypes.h	/^  uint64_T re;$/;"	m	struct:__anon17
+re	./../rtwtypes.h	/^  uint8_T re;$/;"	m	struct:__anon11
+real32_T	./../rtwtypes.h	/^typedef float real32_T;$/;"	t
+real64_T	./../rtwtypes.h	/^typedef double real64_T;$/;"	t
+real_T	./../rtwtypes.h	/^typedef double real_T;$/;"	t
+removeItem	./../html/rtwshrink.js	/^    this.removeItem = function(id) {$/;"	m	class:RTW_PAGE
+removePage	./../html/rtwshrink.js	/^    this.removePage = function(file)$/;"	m	class:RTW_BOOK
+restoreState	./../html/rtwshrink.js	/^function restoreState(docObj) {$/;"	f
+rtGetInf	./../rtGetInf.c	/^real_T rtGetInf(void)$/;"	f
+rtGetInfF	./../rtGetInf.c	/^real32_T rtGetInfF(void)$/;"	f
+rtGetMinusInf	./../rtGetInf.c	/^real_T rtGetMinusInf(void)$/;"	f
+rtGetMinusInfF	./../rtGetInf.c	/^real32_T rtGetMinusInfF(void)$/;"	f
+rtGetNaN	./../rtGetNaN.c	/^real_T rtGetNaN(void)$/;"	f
+rtGetNaNF	./../rtGetNaN.c	/^real32_T rtGetNaNF(void)$/;"	f
+rtInf	./../rt_nonfinite.c	/^real_T rtInf;$/;"	v
+rtInfF	./../rt_nonfinite.c	/^real32_T rtInfF;$/;"	v
+rtIsInf	./../rt_nonfinite.c	/^boolean_T rtIsInf(real_T value)$/;"	f
+rtIsInfF	./../rt_nonfinite.c	/^boolean_T rtIsInfF(real32_T value)$/;"	f
+rtIsNaN	./../rt_nonfinite.c	/^boolean_T rtIsNaN(real_T value)$/;"	f
+rtIsNaNF	./../rt_nonfinite.c	/^boolean_T rtIsNaNF(real32_T value)$/;"	f
+rtMinusInf	./../rt_nonfinite.c	/^real_T rtMinusInf;$/;"	v
+rtMinusInfF	./../rt_nonfinite.c	/^real32_T rtMinusInfF;$/;"	v
+rtNaN	./../rt_nonfinite.c	/^real_T rtNaN;$/;"	v
+rtNaNF	./../rt_nonfinite.c	/^real32_T rtNaNF;$/;"	v
+rt_InitInfAndNaN	./../rt_nonfinite.c	/^void rt_InitInfAndNaN(size_t realSize)$/;"	f
+rtwSwitchView	./../html/rtwshrink.js	/^function rtwSwitchView(doc, obj1, obj2) {$/;"	f
+rtwTableExpand	./../html/rtwshrink.js	/^function rtwTableExpand(doc, controlObj, id) $/;"	f
+rtwTableShrink	./../html/rtwshrink.js	/^function rtwTableShrink(doc, obj, id, isSymbol){$/;"	f
+time_T	./../rtwtypes.h	/^typedef double time_T;$/;"	t
+true	./../rtwtypes.h	147;"	d
+uint16_T	./../rtwtypes.h	/^typedef unsigned short uint16_T;$/;"	t
+uint32_T	./../rtwtypes.h	/^typedef unsigned int uint32_T;$/;"	t
+uint64_T	./../rtwtypes.h	/^typedef unsigned long uint64_T;$/;"	t
+uint8_T	./../rtwtypes.h	/^typedef unsigned char uint8_T;$/;"	t
+uint_T	./../rtwtypes.h	/^typedef unsigned int uint_T;$/;"	t
+ulong_T	./../rtwtypes.h	/^typedef unsigned long ulong_T;$/;"	t
+ulonglong_T	./../rtwtypes.h	/^typedef unsigned long long ulonglong_T;$/;"	t
+wordH	./../rt_nonfinite.h	/^    uint32_T wordH;$/;"	m	struct:__anon1::__anon2
+wordH	./../rt_nonfinite.h	/^    uint32_T wordH;$/;"	m	struct:__anon3::__anon4
+wordL	./../rt_nonfinite.h	/^    uint32_T wordL;$/;"	m	struct:__anon1::__anon2
+wordL	./../rt_nonfinite.h	/^    uint32_T wordL;$/;"	m	struct:__anon3::__anon4
+wordL	./../rt_nonfinite.h	/^  } wordL;$/;"	m	struct:__anon5	typeref:union:__anon5::__anon6
+wordLreal	./../rt_nonfinite.h	/^    real32_T wordLreal;$/;"	m	union:__anon5::__anon6
+wordLuint	./../rt_nonfinite.h	/^    uint32_T wordLuint;$/;"	m	union:__anon5::__anon6
+words	./../rt_nonfinite.h	/^  } words;$/;"	m	struct:__anon1	typeref:struct:__anon1::__anon2
+words	./../rt_nonfinite.h	/^  } words;$/;"	m	struct:__anon3	typeref:struct:__anon3::__anon4
