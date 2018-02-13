@@ -5,11 +5,10 @@
  * File: multiplication.c
  *
  * MATLAB Coder version            : 3.0
- * C/C++ source code generated on  : 13-Feb-2018 14:45:26
+ * C/C++ source code generated on  : 13-Feb-2018 16:21:05
  */
 
 /* Include Files */
-#include "rt_nonfinite.h"
 #include "multiplication.h"
 
 /* Function Definitions */

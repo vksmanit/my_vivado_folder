@@ -5,7 +5,7 @@
  * File: multiplication_initialize.h
  *
  * MATLAB Coder version            : 3.0
- * C/C++ source code generated on  : 13-Feb-2018 14:45:26
+ * C/C++ source code generated on  : 13-Feb-2018 16:21:05
  */
 
 #ifndef __MULTIPLICATION_INITIALIZE_H__

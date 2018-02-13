@@ -2,7 +2,7 @@
 ## Makefile generated for MATLAB file/project 'multiplication'. 
 ## 
 ## Makefile     : multiplication_rtw.mk
-## Generated on : Tue Feb 13 14:45:30 2018
+## Generated on : Tue Feb 13 16:21:08 2018
 ## MATLAB Coder version: 3.0 (R2015b)
 ## 
 ## Build Info:
@@ -189,7 +189,7 @@ DEFINES = $(DEFINES_STANDARD)
 ## SOURCE FILES
 ###########################################################################
 
-SRCS = $(START_DIR)/codegen/lib/multiplication/multiplication_initialize.c $(START_DIR)/codegen/lib/multiplication/multiplication_terminate.c $(START_DIR)/codegen/lib/multiplication/multiplication.c $(START_DIR)/codegen/lib/multiplication/rt_nonfinite.c $(START_DIR)/codegen/lib/multiplication/rtGetNaN.c $(START_DIR)/codegen/lib/multiplication/rtGetInf.c
+SRCS = $(START_DIR)/codegen/lib/multiplication/multiplication_initialize.c $(START_DIR)/codegen/lib/multiplication/multiplication_terminate.c $(START_DIR)/codegen/lib/multiplication/multiplication.c
 
 ALL_SRCS = $(SRCS)
 
@@ -197,7 +197,7 @@ ALL_SRCS = $(SRCS)
 ## OBJECTS
 ###########################################################################
 
-OBJS = multiplication_initialize.o multiplication_terminate.o multiplication.o rt_nonfinite.o rtGetNaN.o rtGetInf.o
+OBJS = multiplication_initialize.o multiplication_terminate.o multiplication.o
 
 ALL_OBJS = $(OBJS)
 
