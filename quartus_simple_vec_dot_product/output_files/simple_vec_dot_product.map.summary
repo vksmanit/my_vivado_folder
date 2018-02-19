@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Feb 19 16:52:58 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : simple_vec_dot_product
+Top-level Entity Name : simple_vec_dot_product
+Family : Cyclone IV E
+Total logic elements : 325
+    Total combinational functions : 176
+    Dedicated logic registers : 214
+Total registers : 214
+Total pins : 112
+Total virtual pins : 0
+Total memory bits : 192
+Embedded Multiplier 9-bit elements : 8
+Total PLLs : 0

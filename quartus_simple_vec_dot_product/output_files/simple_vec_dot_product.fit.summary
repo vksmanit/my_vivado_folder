@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Feb 19 16:53:17 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : simple_vec_dot_product
+Top-level Entity Name : simple_vec_dot_product
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 215 / 22,320 ( < 1 % )
+    Total combinational functions : 176 / 22,320 ( < 1 % )
+    Dedicated logic registers : 150 / 22,320 ( < 1 % )
+Total registers : 150
+Total pins : 112 / 154 ( 73 % )
+Total virtual pins : 0
+Total memory bits : 192 / 608,256 ( < 1 % )
+Embedded Multiplier 9-bit elements : 8 / 132 ( 6 % )
+Total PLLs : 0 / 4 ( 0 % )
