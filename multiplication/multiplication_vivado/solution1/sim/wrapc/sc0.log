@@ -1,0 +1,71 @@
+   Build using "/opt/Xilinx/Vivado_HLS/2016.1/lnx64/tools/gcc/bin/g++"
+   Compiling apatb_multiplication.cpp
+   Compiling (apcc) multiplication.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:27 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/19851518501567591853
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) multiplication_initialize.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:28 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/20351518501568615545
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) multiplication_tb.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:29 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_tb.c:25:9: warning: implicitly declaring library function 'printf' with type 'int (const char *, ...)'
+        printf ("result is good");
+        ^
+/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_tb.c:25:9: note: please include the header <stdio.h> or explicitly provide a declaration for 'printf'
+1 warning generated.
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/20971518501569546451
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) multiplication_terminate.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:30 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/21451518501570565870
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) rtGetInf.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:31 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/22051518501571464527
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) rtGetNaN.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:32 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/22691518501572431879
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) rt_nonfinite.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:33 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/23511518501573438970
+INFO: [APCC 202-1] APCC is done.
+   Generating cosim.tv.exe

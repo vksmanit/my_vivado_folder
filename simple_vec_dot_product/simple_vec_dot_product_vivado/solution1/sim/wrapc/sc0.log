@@ -1,0 +1,39 @@
+   Build using "/opt/Xilinx/Vivado_HLS/2016.1/lnx64/tools/gcc/bin/g++"
+   Compiling apatb_simple_vec_dot_product.cpp
+   Compiling (apcc) simple_vec_dot_product.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:19:05 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/211001519019345783510
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) simple_vec_dot_product_initialize.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:19:06 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/211481519019346688351
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) simple_vec_dot_product_tb.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:19:07 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/211961519019347558539
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) simple_vec_dot_product_terminate.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:19:08 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/212441519019348469394
+INFO: [APCC 202-1] APCC is done.
+   Generating cosim.tv.exe

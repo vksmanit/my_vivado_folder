@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="rtwtypes.h" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/rtwtypes.h"/>
+    <originFiles name="multiplication_types.h" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_types.h"/>
+    <originFiles name="multiplication_terminate.h" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_terminate.h"/>
+    <originFiles name="multiplication_terminate.c" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_terminate.c"/>
+    <originFiles name="multiplication_rtw.mk" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_rtw.mk"/>
+    <originFiles name="multiplication_initialize.h" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_initialize.h"/>
+    <originFiles name="multiplication_initialize.c" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_initialize.c"/>
+    <originFiles name="multiplication.h" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication.h"/>
+    <originFiles name="multiplication.c" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication.c"/>
+    <originFiles name="codeInfo.mat" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/codeInfo.mat"/>
+    <originFiles name="buildInfo.mat" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/buildInfo.mat"/>
+    <originFiles name="tags" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/tags"/>
+    <originFiles name="rtw_proj.tmw" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/rtw_proj.tmw"/>
+    <originFiles name="rt_nonfinite.h" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/rt_nonfinite.h"/>
+    <originFiles name="rt_nonfinite.c" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/rt_nonfinite.c"/>
+    <originFiles name="rtGetNaN.h" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/rtGetNaN.h"/>
+    <originFiles name="rtGetNaN.c" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/rtGetNaN.c"/>
+    <originFiles name="rtGetInf.h" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/rtGetInf.h"/>
+    <originFiles name="rtGetInf.c" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/rtGetInf.c"/>
+    <originFiles name="multiplication_ref.rsp" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_ref.rsp"/>
+  </source>
+  <testbench>
+    <originFiles name="multiplication_tb.c" path="/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_tb.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

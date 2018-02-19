@@ -24,7 +24,7 @@ int main(){
     if (retval == 1) 
         printf ("result is good");
     else 
-        print ("result is bad");
+        printf ("result is bad");
     
     return 0;
 }

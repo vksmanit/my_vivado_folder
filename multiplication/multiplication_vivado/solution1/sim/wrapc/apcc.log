@@ -1,0 +1,8 @@
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:33 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/23511518501573438970
+INFO: [APCC 202-1] APCC is done.

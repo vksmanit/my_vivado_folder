@@ -1,0 +1,102 @@
+# do cosim.modelsim.scr
+# 
+#     set fl [open ".exit.err" w]
+#     puts $fl "Elaboration errors in executing modelsim simulator"
+#     close $fl
+#     quit
+# 
+# /clibs
+# lin64
+# 1
+# /clibs/questa/10.3c/lin64/lib
+# Model Technology ModelSim LE vmap 10.3c Lib Mapping Utility 2014.09 Sep 20 2014
+# vmap -modelsim_quiet work work 
+# Copying /opt/quartus/modelsim_ase/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied /opt/quartus/modelsim_ase/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 11:29:36 on Feb 13,2018
+# vcom -work work AESL_sim_pkg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package NUMERIC_STD
+# -- Compiling package AESL_sim_components
+# -- Compiling package body AESL_sim_components
+# -- Loading package AESL_sim_components
+# End time: 11:29:37 on Feb 13,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 11:29:37 on Feb 13,2018
+# vcom -work work multiplication.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity multiplication
+# -- Compiling architecture behav of multiplication
+# End time: 11:29:37 on Feb 13,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 11:29:37 on Feb 13,2018
+# vcom -work work multiplication.autotb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Compiling entity apatb_multiplication_top
+# -- Compiling architecture behav of apatb_multiplication_top
+# ** Warning: multiplication.autotb.vhd(78): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(79): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(80): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(81): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(82): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(84): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(99): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(101): (vcom-1236) Shared variables must be of a protected type.
+# End time: 11:29:37 on Feb 13,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 8
+# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 11:29:37 on Feb 13,2018
+# vcom -work work multiplication_mul_32s_32s_64_6.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity multiplication_mul_32s_32s_64_6_MulnS_0
+# -- Compiling architecture behav of multiplication_mul_32s_32s_64_6_MulnS_0
+# -- Compiling entity multiplication_mul_32s_32s_64_6
+# -- Compiling architecture arch of multiplication_mul_32s_32s_64_6
+# End time: 11:29:37 on Feb 13,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -c -do "cosim.modelsim.scr" 
+# Start time: 11:29:37 on Feb 13,2018
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.apatb_multiplication_top(behav)
+# Loading work.multiplication(behav)
+# Loading work.multiplication_mul_32s_32s_64_6(arch)
+# Loading work.multiplication_mul_32s_32s_64_6_mulns_0(behav)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# It appears vopt was not run with -debugdb option on this design.
+# Advanced Causality and Schematic debug features will not be available.
+# Variable Constant Generic SpecParam Memory Assertion Cover Endpoint ScVariable CellInternal ImmediateAssert VHDLFile
+# 1
+# 1
+# ** Note: simulation done!
+#    Time: 245 ns  Iteration: 1  Instance: /apatb_multiplication_top
+# ** Failure: NORMAL EXIT (note: failure is to force the simulator to stop)
+#    Time: 245 ns  Iteration: 1  Process: /apatb_multiplication_top/generate_sim_done_proc File: multiplication.autotb.vhd
+# Break in Process generate_sim_done_proc at multiplication.autotb.vhd line 641
+# End time: 11:29:38 on Feb 13,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0

@@ -1,0 +1,128 @@
+<profile>
+
+<section name = "Vivado HLS Report for 'multiplication'" level="0">
+<item name = "Date">Tue Feb 13 11:24:08 2018
+</item>
+<item name = "Version">2016.1 (Build 1538259 on Fri Apr 08 16:12:49 MDT 2016)</item>
+<item name = "Project">multiplication_vivado</item>
+<item name = "Solution">solution1</item>
+<item name = "Product family">virtex6</item>
+<item name = "Target device">xc6vlx240tff1156-1</item>
+</section>
+
+<section name = "Performance Estimates" level="0">
+<item name = "Timing (ns)">
+<section name = "" level="1">
+<item name = "Target clock period (ns)">10.00</item>
+<item name = "Clock uncertainty (ns)">1.25</item>
+<item name = "Estimated clock period (ns)">7.81</item>
+</section>
+</item>
+<item name = "Latency (clock cycles)">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="6">, min, max, min, max, Type</keys>
+<column name="">6, 6, 7, 7, none</column>
+</table>
+</item>
+<item name = "Detail">
+<section name = "" level="1">
+<item name = "Instance"><table name="" hasTotal="0">
+<keys size="7">Instance, Module, min, max, min, max, Type</keys>
+</table>
+</item>
+<item name = "Loop"><table name="" hasTotal="0">
+<keys size="8">Loop Name, min, max, Latency, achieved, target, Count, Pipelined</keys>
+</table>
+</item>
+</section>
+</item>
+</section>
+</item>
+</section>
+
+<section name = "Utilization Estimates" level="0">
+<item name = "Summary"><table name="" hasTotal="1">
+<keys size="5">Name, BRAM_18K, DSP48E, FF, LUT</keys>
+<column name="DSP">-, -, -, -</column>
+<column name="Expression">-, -, 0, 99</column>
+<column name="FIFO">-, -, -, -</column>
+<column name="Instance">-, 4, 0, 0</column>
+<column name="Memory">-, -, -, -</column>
+<column name="Multiplexer">-, -, -, 2</column>
+<column name="Register">-, -, 72, -</column>
+<specialColumn name="Available">832, 768, 301440, 150720</specialColumn>
+<specialColumn name="Utilization (%)">0, ~0, ~0, ~0</specialColumn>
+</table>
+</item>
+<item name = "Detail">
+<section name = "" level="1">
+<item name = "Instance"><table name="" hasTotal="1">
+<keys size="6">Instance, Module, BRAM_18K, DSP48E, FF, LUT</keys>
+<column name="multiplication_mul_32s_32s_64_6_U1">multiplication_mul_32s_32s_64_6, 0, 4, 0, 0</column>
+</table>
+</item>
+<item name = "DSP48"><table name="" hasTotal="0">
+<keys size="3">Instance, Module, Expression</keys>
+</table>
+</item>
+<item name = "Memory"><table name="" hasTotal="1">
+<keys size="9">Memory, Module, BRAM_18K, FF, LUT, Words, Bits, Banks, W*Bits*Banks</keys>
+</table>
+</item>
+<item name = "FIFO"><table name="" hasTotal="1">
+<keys size="7">Name, BRAM_18K, FF, LUT, Depth, Bits, Size:D*B</keys>
+</table>
+</item>
+<item name = "Expression"><table name="" hasTotal="1">
+<keys size="7">Variable Name, Operation, DSP48E, FF, LUT, Bitwidth P0, Bitwidth P1</keys>
+<column name="icmp_fu_64_p2">icmp, 0, 0, 11, 33, 1</column>
+<column name="tmp_4_fu_70_p2">icmp, 0, 0, 22, 64, 33</column>
+<column name="tmp_2_fu_85_p2">or, 0, 0, 1, 1, 1</column>
+<column name="ap_return">select, 0, 0, 32, 1, 32</column>
+<column name="phitmp_fu_78_p3">select, 0, 0, 33, 1, 31</column>
+</table>
+</item>
+<item name = "Multiplexer"><table name="" hasTotal="1">
+<keys size="5">Name, LUT, Input Size, Bits, Total Bits</keys>
+<column name="ap_NS_fsm">2, 8, 1, 8</column>
+</table>
+</item>
+<item name = "Register"><table name="" hasTotal="1">
+<keys size="5">Name, FF, LUT, Bits, Const Bits</keys>
+<column name="ap_CS_fsm">7, 0, 7, 0</column>
+<column name="i0_reg_108">64, 0, 64, 0</column>
+<column name="icmp_reg_114">1, 0, 1, 0</column>
+</table>
+</item>
+</section>
+</item>
+</section>
+
+<section name = "Interface" level="0">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="6">RTL Ports, Dir, Bits, Protocol, Source Object, C Type</keys>
+<column name="ap_clk">in, 1, ap_ctrl_hs, multiplication, return value</column>
+<column name="ap_rst">in, 1, ap_ctrl_hs, multiplication, return value</column>
+<column name="ap_start">in, 1, ap_ctrl_hs, multiplication, return value</column>
+<column name="ap_done">out, 1, ap_ctrl_hs, multiplication, return value</column>
+<column name="ap_idle">out, 1, ap_ctrl_hs, multiplication, return value</column>
+<column name="ap_ready">out, 1, ap_ctrl_hs, multiplication, return value</column>
+<column name="ap_return">out, 32, ap_ctrl_hs, multiplication, return value</column>
+<column name="a">in, 32, ap_none, a, scalar</column>
+<column name="b">in, 32, ap_none, b, scalar</column>
+</table>
+</item>
+</section>
+
+<section name = "Critical Path" level="0">
+<item name = "Max Delay">7.81</item>
+<item name = "Critical Path Table"><table name="Critical Path Table" hasTotal="0">
+<keys size="15">Name, Operator, Delay, Accumulated Delay, Store Source, Resource, Core, Interface, Type, Port, Array, Scope, Pointer, Callee, Phi Node</keys>
+<column name="'i0', multiplication.c:24">mul, 6.13, 6.13, -, -, -, -, -, -, -, -, -, -, -</column>
+<column name="'tmp_3', multiplication.c:25">partselect, 0.00, 6.13, -, -, -, -, -, -, -, -, -, -, -</column>
+<column name="'icmp', multiplication.c:25">icmp, 1.68, 7.81, -, -, -, -, -, -, -, -, -, -, -</column>
+</table>
+</item>
+</section>
+</profile>

@@ -1,0 +1,327 @@
+@I [HLS-0] Workspace /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1 opened at Mon Feb 19 11:19:00 IST 2018
+@I [HLS-100] Command "config_clock -quiet -name default -period 10 -default=false "
+@I [SYN-201] Setting up clock 'default' with a period of 10ns.
+@I [HLS-100] Command 'config_clock' returned 0; elapsed 0.000128Total elapsed time: 0.292 sec.
+@I [HLS-100] Command "open_platform DefaultPlatform "
+@I [HLS-100] Command 'open_platform' returned 0; elapsed 3.8e-05Total elapsed time: 0.293 sec.
+@I [HLS-100] Command "import_lib /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/virtex6/virtex6 "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/xilinx.lib "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/xilinx_interface.lib "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/plb46.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000297Total elapsed time: 0.294 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/fsl.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000145Total elapsed time: 0.294 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/axi4.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000209Total elapsed time: 0.294 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/maxi.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000177Total elapsed time: 0.294 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/saxilite.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000125Total elapsed time: 0.295 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001753Total elapsed time: 0.295 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/dsp48.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000129Total elapsed time: 0.295 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/xfir.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 9.5e-05Total elapsed time: 0.295 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/dds_compiler.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 8.6e-05Total elapsed time: 0.296 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/xfft.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 8.5e-05Total elapsed time: 0.296 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.005126Total elapsed time: 0.298 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/xilinx_old.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000724Total elapsed time: 0.300 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/xilinx.hlp "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/target_info.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000129Total elapsed time: 0.303 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/xilinx_interface.hlp "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/maxi.hlp "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000128Total elapsed time: 0.303 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/saxilite.hlp "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.0001Total elapsed time: 0.304 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000563Total elapsed time: 0.304 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/dsp48.hlp "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.00059Total elapsed time: 0.305 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.002715Total elapsed time: 0.305 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/virtex6/dsp48e1.hlp "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 8.7e-05Total elapsed time: 0.306 sec.
+@I [HLS-100] Command "get_default_platform "
+@I [HLS-100] Command 'get_default_platform' returned 0; elapsed 6e-06Total elapsed time: 0.306 sec.
+@I [HLS-100] Command "config_chip_info -quiet -resource  {SLICE 37680} {LUT 150720} {FF 301440} {DSP48E 768} {BRAM 832}  "
+@I [HLS-100] Command 'config_chip_info' returned 0; elapsed 1.6e-05Total elapsed time: 0.306 sec.
+@I [HLS-100] Command "config_chip_info -quiet -speed medium "
+@I [HLS-100] Command 'config_chip_info' returned 0; elapsed 5e-06Total elapsed time: 0.306 sec.
+@I [HLS-100] Command 'import_lib' returned 0; elapsed 0.014873Total elapsed time: 0.308 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/virtex6/virtex6.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/virtex.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/xilinx.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/plb46.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001117Total elapsed time: 0.310 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/fsl.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.00041Total elapsed time: 0.310 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/axi4.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001948Total elapsed time: 0.312 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/nativeAXI4.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/saxilite.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.003597Total elapsed time: 0.316 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/maxi.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.007614Total elapsed time: 0.324 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.0116Total elapsed time: 0.324 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/scripts/xilinxcoregen.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.009519Total elapsed time: 0.334 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/XilEDKCoreGen.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.007784Total elapsed time: 0.342 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/xfft.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.120937Total elapsed time: 0.463 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/util.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000182Total elapsed time: 0.463 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/xfir.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000672Total elapsed time: 0.464 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/dds_compiler.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.003281Total elapsed time: 0.467 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.159185Total elapsed time: 0.468 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/dsp48.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.00013Total elapsed time: 0.469 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.161608Total elapsed time: 0.470 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.16184Total elapsed time: 0.470 sec.
+@I [HLS-100] Command "open_platform DefaultPlatform "
+@I [HLS-100] Command 'open_platform' returned 0; elapsed 7e-06Total elapsed time: 0.470 sec.
+@I [HLS-100] Command "import_lib /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/virtex6/virtex6_fpv6 "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/xilinx_fpv6_old.lib "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/xilinx_fpv6.lib "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001125Total elapsed time: 0.472 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.002783Total elapsed time: 0.473 sec.
+@I [HLS-100] Command 'import_lib' returned 0; elapsed 0.011383Total elapsed time: 0.482 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/virtex6/virtex6_fpv6.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/xilinx_fpv6.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001513Total elapsed time: 0.483 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001752Total elapsed time: 0.483 sec.
+@I [HLS-100] Command "set_part xc6vlx240tff1156-1 "
+@W [HLS-40] This current release of Vivado HLS is the last one supporting the following device families including any of their associated derivatives: Virtex-6, Virtex-5, Virtex-4, Spartan-6 and Spartan-3. These families will still be supported in the future but will require this current version of Vivado HLS or a previous one.
+@I [HLS-100] Command "add_library xilinx/virtex6/virtex6:xc6vlx240t:ff1156:-1 "
+@I [HLS-100] Command "get_default_platform "
+@I [HLS-100] Command 'get_default_platform' returned 0; elapsed 5e-06Total elapsed time: 0.487 sec.
+@I [HLS-100] Command "get_default_platform "
+@I [HLS-100] Command 'get_default_platform' returned 0; elapsed 4e-06Total elapsed time: 0.488 sec.
+@I [HLS-100] Command "config_chip_info -quiet -resource  {SLICE 37680} {LUT 150720} {FF 301440} {DSP48E 768} {BRAM 832}  "
+@I [HLS-100] Command 'config_chip_info' returned 0; elapsed 1.3e-05Total elapsed time: 0.488 sec.
+@I [HLS-100] Command "config_chip_info -quiet -speed slow "
+@I [HLS-100] Command 'config_chip_info' returned 0; elapsed 6e-06Total elapsed time: 0.488 sec.
+@I [HLS-100] Command 'add_library' returned 0; elapsed 0.002547Total elapsed time: 0.489 sec.
+@I [HLS-100] Command "add_library xilinx/virtex6/virtex6_fpv6 "
+@I [HLS-100] Command "get_default_platform "
+@I [HLS-100] Command 'get_default_platform' returned 0; elapsed 4e-06Total elapsed time: 0.489 sec.
+@I [HLS-100] Command 'add_library' returned 0; elapsed 0.001365Total elapsed time: 0.490 sec.
+@I [HLS-10] Setting target device to 'xc6vlx240tff1156-1'
+@I [HLS-100] Command 'set_part' returned 0; elapsed 0.006557Total elapsed time: 0.491 sec.
+@I [HLS-100] Command "get_default_platform "
+@I [HLS-100] Command 'get_default_platform' returned 0; elapsed 3e-06Total elapsed time: 0.491 sec.
+@I [HLS-100] Command "config_chip_info -quiet -resource  {SLICE 37680} {LUT 150720} {FF 301440} {DSP48E 768} {BRAM 832}  "
+@I [HLS-100] Command 'config_chip_info' returned 0; elapsed 8e-06Total elapsed time: 0.491 sec.
+@I [HLS-100] Command "config_chip_info -quiet -speed slow "
+@I [HLS-100] Command 'config_chip_info' returned 0; elapsed 6e-06Total elapsed time: 0.491 sec.
+@I [HLS-100] Command 'open_solution' returned 0; elapsed 0.204852Total elapsed time: 0.492 sec.
+@I [HLS-100] Command "cosim_design -rtl vhdl -tool modelsim "
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/global.setting.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000167Total elapsed time: 0.493 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/global.setting.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000194Total elapsed time: 0.500 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/global.setting.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000199Total elapsed time: 0.512 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/generic/autopilot/common.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/generic/autopilot/APCoreGen.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000587Total elapsed time: 0.514 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001233Total elapsed time: 0.514 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/generic/autopilot/op.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000309Total elapsed time: 0.515 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/generic/autopilot/op_simcore.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000933Total elapsed time: 0.516 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/generic/autopilot/interface.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 8.2e-05Total elapsed time: 0.516 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/global.setting.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000156Total elapsed time: 0.516 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/virtex6/virtex6.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/virtex.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/xilinx.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/plb46.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001176Total elapsed time: 0.518 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/fsl.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000448Total elapsed time: 0.519 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/axi4.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.002067Total elapsed time: 0.521 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/nativeAXI4.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/saxilite.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.003646Total elapsed time: 0.525 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/maxi.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.007627Total elapsed time: 0.533 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.01162Total elapsed time: 0.533 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/scripts/xilinxcoregen.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.011736Total elapsed time: 0.545 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/interface/XilEDKCoreGen.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.008038Total elapsed time: 0.553 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/xfft.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.110315Total elapsed time: 0.664 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/util.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000186Total elapsed time: 0.664 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/xfir.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000693Total elapsed time: 0.665 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/ip/dds_compiler.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.003466Total elapsed time: 0.668 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.151401Total elapsed time: 0.668 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/dsp48.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000139Total elapsed time: 0.670 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.153816Total elapsed time: 0.671 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.154019Total elapsed time: 0.671 sec.
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/virtex6/virtex6_fpv6.gen "
+@I [HLS-100] Command "source /opt/Xilinx/Vivado_HLS/2016.1/common/technology/xilinx/common/xilinx_fpv6.gen "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001608Total elapsed time: 0.673 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.001815Total elapsed time: 0.673 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/global.setting.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000156Total elapsed time: 0.673 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.rtl_wrap.cfg.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000183Total elapsed time: 0.674 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000151Total elapsed time: 0.674 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_tb.c "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 4.8e-05Total elapsed time: 0.683 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/buildInfo.mat "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.8e-05Total elapsed time: 0.683 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/codeInfo.mat "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.7e-05Total elapsed time: 0.683 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/rtw_proj.tmw "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.5e-05Total elapsed time: 0.683 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/rtwtypes.h "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.6e-05Total elapsed time: 0.684 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.a "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.6e-05Total elapsed time: 0.684 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.c "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.5e-05Total elapsed time: 0.684 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.h "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.5e-05Total elapsed time: 0.684 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.o "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.7e-05Total elapsed time: 0.684 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_initialize.c "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.6e-05Total elapsed time: 0.684 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_initialize.h "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.5e-05Total elapsed time: 0.685 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_initialize.o "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.5e-05Total elapsed time: 0.685 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_ref.rsp "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.5e-05Total elapsed time: 0.685 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_rtw.mk "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.8e-05Total elapsed time: 0.685 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_terminate.c "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 3.4e-05Total elapsed time: 0.685 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_terminate.h "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.6e-05Total elapsed time: 0.685 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_terminate.o "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.6e-05Total elapsed time: 0.686 sec.
+@I [HLS-100] Command "is_encrypted /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_types.h "
+@I [HLS-100] Command 'is_encrypted' returned 0; elapsed 2.5e-05Total elapsed time: 0.686 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000148Total elapsed time: 0.686 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000142Total elapsed time: 0.687 sec.
+@I [COSIM-47] Using Modelsim for RTL simulation.
+@I [COSIM-14] Instrumenting C test bench ...
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.rtl_wrap.cfg.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000185Total elapsed time: 0.694 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.rtl_wrap.cfg.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000181Total elapsed time: 0.695 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.rtl_wrap.cfg.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000186Total elapsed time: 0.696 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000149Total elapsed time: 0.696 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000143Total elapsed time: 0.696 sec.
+@I [HLS-0] Marker-Pragma convertor: /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/./sim/autowrap/testbench/simple_vec_dot_product_tb.c_pre.c /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/./sim/autowrap/testbench/simple_vec_dot_product_tb.c_pre.c.line.c ./sim/autowrap/testbench/line.tmp 1
+@I [HLS-0] Marker-Pragma convertor: ./sim/autowrap/testbench/simple_vec_dot_product_tb.c_pre.c.tb.c.line ./sim/autowrap/testbench/simple_vec_dot_product_tb.c_pre.c.tb.c ./sim/autowrap/testbench/line.tmp 0
+@I [HLS-0] Marker-Pragma convertor: /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/./sim/autowrap/testbench/simple_vec_dot_product.c_pre.c /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/./sim/autowrap/testbench/simple_vec_dot_product.c_pre.c.line.c ./sim/autowrap/testbench/line.tmp 1
+@I [HLS-0] Marker-Pragma convertor: ./sim/autowrap/testbench/simple_vec_dot_product.c_pre.c.tb.c.line ./sim/autowrap/testbench/simple_vec_dot_product.c_pre.c.tb.c ./sim/autowrap/testbench/line.tmp 0
+@I [HLS-0] Marker-Pragma convertor: /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/./sim/autowrap/testbench/simple_vec_dot_product_initialize.c_pre.c /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/./sim/autowrap/testbench/simple_vec_dot_product_initialize.c_pre.c.line.c ./sim/autowrap/testbench/line.tmp 1
+@I [HLS-0] Marker-Pragma convertor: ./sim/autowrap/testbench/simple_vec_dot_product_initialize.c_pre.c.tb.c.line ./sim/autowrap/testbench/simple_vec_dot_product_initialize.c_pre.c.tb.c ./sim/autowrap/testbench/line.tmp 0
+@I [HLS-0] Marker-Pragma convertor: /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/./sim/autowrap/testbench/simple_vec_dot_product_terminate.c_pre.c /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/./sim/autowrap/testbench/simple_vec_dot_product_terminate.c_pre.c.line.c ./sim/autowrap/testbench/line.tmp 1
+@I [HLS-0] Marker-Pragma convertor: ./sim/autowrap/testbench/simple_vec_dot_product_terminate.c_pre.c.tb.c.line ./sim/autowrap/testbench/simple_vec_dot_product_terminate.c_pre.c.tb.c ./sim/autowrap/testbench/line.tmp 0
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.rtl_wrap.cfg.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000209Total elapsed time: 2.997 sec.
+@I [HLS-100] Command "source .run_sim.tcl "
+@I [COSIM-302] Starting C TB testing ... 
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.005825Total elapsed time: 8.691 sec.
+@I [COSIM-333] Generating C post check test bench ...
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.rtl_wrap.cfg.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000206Total elapsed time: 8.698 sec.
+@I [COSIM-12] Generating RTL test bench ...
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000163Total elapsed time: 8.702 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000162Total elapsed time: 8.703 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000146Total elapsed time: 8.704 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000141Total elapsed time: 8.704 sec.
+@I [HLS-100] Command "source ../tv/cdatafile/ref.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 7.3e-05Total elapsed time: 8.705 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000157Total elapsed time: 8.705 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000144Total elapsed time: 8.705 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000143Total elapsed time: 8.705 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000145Total elapsed time: 8.706 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000155Total elapsed time: 8.707 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.00016Total elapsed time: 8.711 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000158Total elapsed time: 8.715 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000154Total elapsed time: 8.733 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000148Total elapsed time: 8.733 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000152Total elapsed time: 8.733 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000174Total elapsed time: 8.759 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.00015Total elapsed time: 8.759 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000157Total elapsed time: 8.760 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000147Total elapsed time: 8.760 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000142Total elapsed time: 8.761 sec.
+@I [HLS-100] Command "source ../tv/cdatafile/ref.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 6.7e-05Total elapsed time: 8.761 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000151Total elapsed time: 8.762 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000141Total elapsed time: 8.762 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000142Total elapsed time: 8.762 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000144Total elapsed time: 8.762 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000143Total elapsed time: 8.763 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.00016Total elapsed time: 8.767 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000147Total elapsed time: 8.770 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.00015Total elapsed time: 8.787 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000143Total elapsed time: 8.787 sec.
+@I [HLS-100] Command "source /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/.autopilot/db/simple_vec_dot_product.tbgen.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000143Total elapsed time: 8.787 sec.
+@I [HLS-100] Command "source .run_sim.tcl "
+@I [HLS-100] Command "source check_sim.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000138Total elapsed time: 8.845 sec.
+@I [HLS-100] Command "source .sim.status.tcl "
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.000136Total elapsed time: 8.846 sec.
+@I [COSIM-322] Starting VHDL simulation. 
+@I [COSIM-15] Starting Modelsim ...
+@I [COSIM-316] Starting C post checking ...
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.022233Total elapsed time: 11.687 sec.
+@I [COSIM-1000] *** C/RTL co-simulation finished: PASS ***
+@I [HLS-100] Command 'cosim_design' returned 0; elapsed 0.783993Total elapsed time: 11.700 sec.
+@I [HLS-100] Command 'ap_source' returned 0; elapsed 0.991571Total elapsed time: 11.701 sec.
+@I [HLS-100] Command "cleanup_all "
+@I [HLS-100] Command 'cleanup_all' returned 0; elapsed 0.000319Total elapsed time: 11.701 sec.

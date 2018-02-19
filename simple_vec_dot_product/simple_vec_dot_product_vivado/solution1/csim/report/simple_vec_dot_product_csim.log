@@ -1,0 +1,14 @@
+   Compiling(apcc) ../../../../simple_vec_dot_product_tb.c in debug mode
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:17:49 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/csim/build'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/207091519019269104813
+INFO: [APCC 202-1] APCC is done.
+   Generating csim.exe
+18
+28
+40
+45
+result are good 
+INFO: [SIM 1] CSim done with 0 errors.

@@ -1,0 +1,189 @@
+@I [SIM-47] Using Modelsim for RTL simulation.
+@I [SIM-14] Instrumenting C test bench ...
+   Build using "/opt/Xilinx/Vivado_HLS/2016.1/lnx64/tools/gcc/bin/g++"
+   Compiling apatb_multiplication.cpp
+   Compiling (apcc) multiplication.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:27 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/19851518501567591853
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) multiplication_initialize.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:28 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/20351518501568615545
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) multiplication_tb.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:29 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_tb.c:25:9: warning: implicitly declaring library function 'printf' with type 'int (const char *, ...)'
+        printf ("result is good");
+        ^
+/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_tb.c:25:9: note: please include the header <stdio.h> or explicitly provide a declaration for 'printf'
+1 warning generated.
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/20971518501569546451
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) multiplication_terminate.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:30 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/21451518501570565870
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) rtGetInf.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:31 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/22051518501571464527
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) rtGetNaN.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:32 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/22691518501572431879
+INFO: [APCC 202-1] APCC is done.
+   Compiling (apcc) rt_nonfinite.c_pre.c.tb.c
+INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 13 11:29:33 IST 2018
+INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/multiplication/multiplication_vivado/solution1/sim/wrapc'
+clang: warning: argument unused during compilation: '-fno-builtin-isinf'
+clang: warning: argument unused during compilation: '-fno-builtin-isnan'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/23511518501573438970
+INFO: [APCC 202-1] APCC is done.
+   Generating cosim.tv.exe
+@I [SIM-302] Starting C TB testing ... 
+@I [SIM-333] Generating C post check test bench ...
+@I [SIM-12] Generating RTL test bench ...
+@I [SIM-322] Starting VHDL simulation. 
+@I [SIM-15] Starting Modelsim ...
+@I [SIM-316] Starting C post checking ...
+result is bad
+Reading pref.tcl
+
+# 10.3c
+
+# do cosim.modelsim.scr
+# 
+#     set fl [open ".exit.err" w]
+#     puts $fl "Elaboration errors in executing modelsim simulator"
+#     close $fl
+#     quit
+# 
+# /clibs
+# lin64
+# 1
+# /clibs/questa/10.3c/lin64/lib
+WARNING: There is no IP libs for this version of ModelSim. If you may use cosim with IP, please make sure the IP libs have been pre-compiled.
+# Model Technology ModelSim LE vmap 10.3c Lib Mapping Utility 2014.09 Sep 20 2014
+# vmap -modelsim_quiet work work 
+# Copying /opt/quartus/modelsim_ase/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied /opt/quartus/modelsim_ase/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 11:29:36 on Feb 13,2018
+# vcom -work work AESL_sim_pkg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package NUMERIC_STD
+# -- Compiling package AESL_sim_components
+# -- Compiling package body AESL_sim_components
+# -- Loading package AESL_sim_components
+# End time: 11:29:37 on Feb 13,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 11:29:37 on Feb 13,2018
+# vcom -work work multiplication.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity multiplication
+# -- Compiling architecture behav of multiplication
+# End time: 11:29:37 on Feb 13,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 11:29:37 on Feb 13,2018
+# vcom -work work multiplication.autotb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Compiling entity apatb_multiplication_top
+# -- Compiling architecture behav of apatb_multiplication_top
+# ** Warning: multiplication.autotb.vhd(78): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(79): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(80): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(81): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(82): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(84): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(99): (vcom-1236) Shared variables must be of a protected type.
+# ** Warning: multiplication.autotb.vhd(101): (vcom-1236) Shared variables must be of a protected type.
+# End time: 11:29:37 on Feb 13,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 8
+# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 11:29:37 on Feb 13,2018
+# vcom -work work multiplication_mul_32s_32s_64_6.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity multiplication_mul_32s_32s_64_6_MulnS_0
+# -- Compiling architecture behav of multiplication_mul_32s_32s_64_6_MulnS_0
+# -- Compiling entity multiplication_mul_32s_32s_64_6
+# -- Compiling architecture arch of multiplication_mul_32s_32s_64_6
+# End time: 11:29:37 on Feb 13,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -c -do "cosim.modelsim.scr" 
+# Start time: 11:29:37 on Feb 13,2018
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.apatb_multiplication_top(behav)
+# Loading work.multiplication(behav)
+# Loading work.multiplication_mul_32s_32s_64_6(arch)
+# Loading work.multiplication_mul_32s_32s_64_6_mulns_0(behav)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# It appears vopt was not run with -debugdb option on this design.
+# Advanced Causality and Schematic debug features will not be available.
+# Variable Constant Generic SpecParam Memory Assertion Cover Endpoint ScVariable CellInternal ImmediateAssert VHDLFile
+# 1
+# 1
+# ** Note: simulation done!
+#    Time: 245 ns  Iteration: 1  Instance: /apatb_multiplication_top
+# ** Failure: NORMAL EXIT (note: failure is to force the simulator to stop)
+#    Time: 245 ns  Iteration: 1  Process: /apatb_multiplication_top/generate_sim_done_proc File: multiplication.autotb.vhd
+# Break in Process generate_sim_done_proc at multiplication.autotb.vhd line 641
+# End time: 11:29:38 on Feb 13,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+result is bad
+@I [SIM-1000] *** C/RTL co-simulation finished: PASS ***

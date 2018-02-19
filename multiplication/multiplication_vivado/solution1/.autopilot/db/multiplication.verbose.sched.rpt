@@ -1,0 +1,197 @@
+
+
+================================================================
+== Vivado HLS Report for 'multiplication'
+================================================================
+* Date:           Tue Feb 13 11:24:08 2018
+
+* Version:        2016.1 (Build 1538259 on Fri Apr 08 16:12:49 MDT 2016)
+* Project:        multiplication_vivado
+* Solution:       solution1
+* Product family: virtex6
+* Target device:  xc6vlx240tff1156-1
+
+
+================================================================
+== Performance Estimates
+================================================================
++ Timing (ns): 
+    * Summary: 
+    +--------+-------+----------+------------+
+    |  Clock | Target| Estimated| Uncertainty|
+    +--------+-------+----------+------------+
+    |ap_clk  |  10.00|      7.81|        1.25|
+    +--------+-------+----------+------------+
+
++ Latency (clock cycles): 
+    * Summary: 
+    +-----+-----+-----+-----+---------+
+    |  Latency  |  Interval | Pipeline|
+    | min | max | min | max |   Type  |
+    +-----+-----+-----+-----+---------+
+    |    6|    6|    7|    7|   none  |
+    +-----+-----+-----+-----+---------+
+
+    + Detail: 
+        * Instance: 
+        N/A
+
+        * Loop: 
+        N/A
+
+============================================================
++ Verbose Summary: Synthesis Manager
+============================================================
+InlineROM: 1
+ExposeGlobal: 0
+============================================================
++ Verbose Summary: CDFG Model
+============================================================
+IsTopModel: 1
+ResetActiveHigh: 1
+IsCombinational: 0
+IsDatapathOnly: 0
+HasWiredReturn: 1
+HasMFsm: 0
+HasVarLatency: 1
+IsPipeline: 0
+IsRtlPipelined: 0
+IsInstanceOverlapped: 0
+IsDontTouch: 0
+HasImplIP: 0
+IsGatedGlobalClock: 0
+
+
+============================================================
++ Verbose Summary: Schedule
+============================================================
+* Number of FSM states: 7
+* Pipeline: 0
+* Dataflow Pipeline: 0
+
+* FSM state transitions: 
+1 --> 
+	2  / true
+2 --> 
+	3  / true
+3 --> 
+	4  / true
+4 --> 
+	5  / true
+5 --> 
+	6  / true
+6 --> 
+	7  / true
+7 --> 
+* FSM state operations: 
+
+ <State 1>: 6.13ns
+ST_1: b_read [1/1] 0.00ns
+_ifconv:4  %b_read = call i32 @_ssdm_op_Read.ap_auto.i32(i32 %b) nounwind
+
+ST_1: a_read [1/1] 0.00ns
+_ifconv:5  %a_read = call i32 @_ssdm_op_Read.ap_auto.i32(i32 %a) nounwind
+
+ST_1: tmp [1/1] 0.00ns
+_ifconv:6  %tmp = sext i32 %a_read to i64
+
+ST_1: tmp_1 [1/1] 0.00ns
+_ifconv:7  %tmp_1 = sext i32 %b_read to i64
+
+ST_1: i0 [6/6] 6.13ns
+_ifconv:8  %i0 = mul nsw i64 %tmp, %tmp_1
+
+
+ <State 2>: 6.13ns
+ST_2: i0 [5/6] 6.13ns
+_ifconv:8  %i0 = mul nsw i64 %tmp, %tmp_1
+
+
+ <State 3>: 6.13ns
+ST_3: i0 [4/6] 6.13ns
+_ifconv:8  %i0 = mul nsw i64 %tmp, %tmp_1
+
+
+ <State 4>: 6.13ns
+ST_4: i0 [3/6] 6.13ns
+_ifconv:8  %i0 = mul nsw i64 %tmp, %tmp_1
+
+
+ <State 5>: 6.13ns
+ST_5: i0 [2/6] 6.13ns
+_ifconv:8  %i0 = mul nsw i64 %tmp, %tmp_1
+
+
+ <State 6>: 7.81ns
+ST_6: i0 [1/6] 6.13ns
+_ifconv:8  %i0 = mul nsw i64 %tmp, %tmp_1
+
+ST_6: tmp_3 [1/1] 0.00ns
+_ifconv:9  %tmp_3 = call i33 @_ssdm_op_PartSelect.i33.i64.i32.i32(i64 %i0, i32 31, i32 63)
+
+ST_6: icmp [1/1] 1.68ns
+_ifconv:10  %icmp = icmp sgt i33 %tmp_3, 0
+
+
+ <State 7>: 2.77ns
+ST_7: stg_20 [1/1] 0.00ns
+_ifconv:0  call void (...)* @_ssdm_op_SpecBitsMap(i32 %a) nounwind, !map !56
+
+ST_7: stg_21 [1/1] 0.00ns
+_ifconv:1  call void (...)* @_ssdm_op_SpecBitsMap(i32 %b) nounwind, !map !62
+
+ST_7: stg_22 [1/1] 0.00ns
+_ifconv:2  call void (...)* @_ssdm_op_SpecBitsMap(i32 0) nounwind, !map !66
+
+ST_7: stg_23 [1/1] 0.00ns
+_ifconv:3  call void (...)* @_ssdm_op_SpecTopModule([15 x i8]* @multiplication_str) nounwind
+
+ST_7: tmp_4 [1/1] 1.88ns
+_ifconv:11  %tmp_4 = icmp slt i64 %i0, -2147483648
+
+ST_7: tmp_5 [1/1] 0.00ns (grouped into LUT with out node i0_1)
+_ifconv:12  %tmp_5 = trunc i64 %i0 to i32
+
+ST_7: phitmp [1/1] 0.00ns (grouped into LUT with out node i0_1)
+_ifconv:13  %phitmp = select i1 %icmp, i32 2147483647, i32 -2147483648
+
+ST_7: tmp_2 [1/1] 0.00ns (grouped into LUT with out node i0_1)
+_ifconv:14  %tmp_2 = or i1 %icmp, %tmp_4
+
+ST_7: i0_1 [1/1] 0.89ns (out node of the LUT)
+_ifconv:15  %i0_1 = select i1 %tmp_2, i32 %phitmp, i32 %tmp_5
+
+ST_7: stg_29 [1/1] 0.00ns
+_ifconv:16  ret i32 %i0_1
+
+
+
+============================================================
++ Verbose Summary: Timing violations
+============================================================
+Target clock period: 10ns, clock uncertainty: 1.25ns.
+
+ No timing violations. 
+
+
+============================================================
++ Verbose Summary: Binding
+============================================================
+N/A
+* FSMD analyzer results:
+  - Output states:
+ - Input state : 
+  - Chain level:
+	State 1
+	State 2
+	State 3
+	State 4
+	State 5
+	State 6
+	State 7
+
+
+============================================================
++ Verbose Summary: Datapath Resource usage 
+============================================================
+N/A
