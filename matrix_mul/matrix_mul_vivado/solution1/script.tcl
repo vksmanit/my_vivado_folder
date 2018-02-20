@@ -4,6 +4,7 @@
 ## Copyright (C) 1986-2016 Xilinx, Inc. All Rights Reserved.
 ############################################################
 open_project matrix_mul_vivado
+set_top matrix_mul
 add_files buildInfo.mat
 add_files codeInfo.mat
 add_files matrix_mul.a
@@ -21,11 +22,12 @@ add_files matrix_mul_terminate.o
 add_files matrix_mul_types.h
 add_files rtw_proj.tmw
 add_files rtwtypes.h
+add_files -tb matrix_mul_tb.c
 open_solution "solution1"
 set_part {xc6vlx240tff1156-1} -tool vivado
 create_clock -period 10 -name default
 #source "./matrix_mul_vivado/solution1/directives.tcl"
-#csim_design
+csim_design
 csynth_design
-#cosim_design
+cosim_design -trace_level all -rtl vhdl -tool modelsim
 export_design -format ip_catalog

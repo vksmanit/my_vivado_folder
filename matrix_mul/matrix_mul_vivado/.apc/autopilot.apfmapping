@@ -19,5 +19,7 @@
     <originFiles name="codeInfo.mat" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/codeInfo.mat"/>
     <originFiles name="buildInfo.mat" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/buildInfo.mat"/>
   </source>
-  <testbench/>
+  <testbench>
+    <originFiles name="matrix_mul_tb.c" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_tb.c"/>
+  </testbench>
 </autopilotfilemapping:AutoPilotFileMapping>

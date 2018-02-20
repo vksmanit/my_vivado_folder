@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdfg:DBCdfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cdfg="http://www.autoesl.com/DBCdfg" timeStamp="1519098692000">
+  <ports id="1" name="a" type="PortType" originalName="a" coreName="RAM" bitwidth="64" iftype="IfTypeRegister" arraysize="4">
+    <dataOutputObjs>load</dataOutputObjs>
+  </ports>
+  <ports id="2" name="b" type="PortType" originalName="b" coreName="RAM" bitwidth="64" iftype="IfTypeRegister" arraysize="4">
+    <dataOutputObjs>load</dataOutputObjs>
+  </ports>
+  <ports id="3" name="out_r" type="PortType" originalName="out" coreName="RAM" bitwidth="64" direction="DirOut" iftype="IfTypeRegister" arraysize="4"/>
+  <edges id="51" edge_type="CtrlEdge" source_obj="//@blocks.1" sink_obj="//@blocks.0/@node_objs.0"/>
+  <edges id="54" edge_type="CtrlEdge" source_obj="//@blocks.0" sink_obj="//@blocks.1/@node_objs.0"/>
+  <edges id="55" source_obj="//@blocks.1/@node_objs.2" sink_obj="//@blocks.1/@node_objs.0"/>
+  <edges id="56" edge_type="CtrlEdge" source_obj="//@blocks.2" sink_obj="//@blocks.1/@node_objs.0"/>
+  <edges id="57" source_obj="//@blocks.1/@node_objs.0" sink_obj="//@blocks.1/@node_objs.1"/>
+  <edges id="60" source_obj="//@blocks.1/@node_objs.0" sink_obj="//@blocks.1/@node_objs.2"/>
+  <edges id="63" source_obj="//@blocks.1/@node_objs.1" sink_obj="//@blocks.1/@node_objs.3"/>
+  <edges id="64" edge_type="CtrlEdge" source_obj="//@blocks.2" sink_obj="//@blocks.1/@node_objs.3"/>
+  <edges id="65" edge_type="CtrlEdge" source_obj="//@blocks.6" sink_obj="//@blocks.1/@node_objs.3"/>
+  <edges id="67" edge_type="CtrlEdge" source_obj="//@blocks.1" sink_obj="//@blocks.2/@node_objs.0"/>
+  <edges id="68" source_obj="//@blocks.2/@node_objs.2" sink_obj="//@blocks.2/@node_objs.0"/>
+  <edges id="69" edge_type="CtrlEdge" source_obj="//@blocks.4" sink_obj="//@blocks.2/@node_objs.0"/>
+  <edges id="70" source_obj="//@blocks.2/@node_objs.0" sink_obj="//@blocks.2/@node_objs.1"/>
+  <edges id="72" source_obj="//@blocks.2/@node_objs.0" sink_obj="//@blocks.2/@node_objs.2"/>
+  <edges id="74" source_obj="//@blocks.2/@node_objs.1" sink_obj="//@blocks.2/@node_objs.3"/>
+  <edges id="75" edge_type="CtrlEdge" source_obj="//@blocks.3" sink_obj="//@blocks.2/@node_objs.3"/>
+  <edges id="76" edge_type="CtrlEdge" source_obj="//@blocks.1" sink_obj="//@blocks.2/@node_objs.3"/>
+  <edges id="77" source_obj="//@blocks.2/@node_objs.0" sink_obj="//@blocks.3/@node_objs.0"/>
+  <edges id="79" source_obj="//@blocks.1/@node_objs.0" sink_obj="//@blocks.3/@node_objs.1"/>
+  <edges id="80" source_obj="//@blocks.3/@node_objs.0" sink_obj="//@blocks.3/@node_objs.1"/>
+  <edges id="86" edge_type="CtrlEdge" source_obj="//@blocks.4" sink_obj="//@blocks.3/@node_objs.2"/>
+  <edges id="89" edge_type="CtrlEdge" source_obj="//@blocks.3" sink_obj="//@blocks.4/@node_objs.0"/>
+  <edges id="90" source_obj="//@blocks.5/@node_objs.6" sink_obj="//@blocks.4/@node_objs.0"/>
+  <edges id="91" edge_type="CtrlEdge" source_obj="//@blocks.5" sink_obj="//@blocks.4/@node_objs.0"/>
+  <edges id="93" edge_type="CtrlEdge" source_obj="//@blocks.3" sink_obj="//@blocks.4/@node_objs.1"/>
+  <edges id="94" source_obj="//@blocks.4/@node_objs.4" sink_obj="//@blocks.4/@node_objs.1"/>
+  <edges id="95" edge_type="CtrlEdge" source_obj="//@blocks.5" sink_obj="//@blocks.4/@node_objs.1"/>
+  <edges id="96" source_obj="//@blocks.4/@node_objs.0" sink_obj="//@blocks.4/@node_objs.2"/>
+  <edges id="98" source_obj="//@blocks.4/@node_objs.1" sink_obj="//@blocks.4/@node_objs.3"/>
+  <edges id="100" source_obj="//@blocks.4/@node_objs.1" sink_obj="//@blocks.4/@node_objs.4"/>
+  <edges id="102" source_obj="//@blocks.4/@node_objs.3" sink_obj="//@blocks.4/@node_objs.5"/>
+  <edges id="103" edge_type="CtrlEdge" source_obj="//@blocks.5" sink_obj="//@blocks.4/@node_objs.5"/>
+  <edges id="104" edge_type="CtrlEdge" source_obj="//@blocks.2" sink_obj="//@blocks.4/@node_objs.5"/>
+  <edges id="105" source_obj="//@blocks.4/@node_objs.1" sink_obj="//@blocks.5/@node_objs.0"/>
+  <edges id="107" source_obj="//@blocks.1/@node_objs.0" sink_obj="//@blocks.5/@node_objs.1"/>
+  <edges id="108" source_obj="//@blocks.5/@node_objs.0" sink_obj="//@blocks.5/@node_objs.1"/>
+  <edges id="114" source_obj="//@blocks.3/@node_objs.0" sink_obj="//@blocks.5/@node_objs.3"/>
+  <edges id="115" source_obj="//@blocks.4/@node_objs.1" sink_obj="//@blocks.5/@node_objs.3"/>
+  <edges id="121" source_obj="//@blocks.5/@node_objs.2" sink_obj="//@blocks.5/@node_objs.5"/>
+  <edges id="122" source_obj="//@blocks.5/@node_objs.4" sink_obj="//@blocks.5/@node_objs.5"/>
+  <edges id="123" source_obj="//@blocks.4/@node_objs.0" sink_obj="//@blocks.5/@node_objs.6"/>
+  <edges id="124" source_obj="//@blocks.5/@node_objs.5" sink_obj="//@blocks.5/@node_objs.6"/>
+  <edges id="125" edge_type="CtrlEdge" source_obj="//@blocks.4" sink_obj="//@blocks.5/@node_objs.7"/>
+  <edges id="151" edge_type="CtrlEdge" source_obj="//@blocks.0" sink_obj="//@blocks.1"/>
+  <edges id="152" edge_type="CtrlEdge" source_obj="//@blocks.1" sink_obj="//@blocks.6"/>
+  <edges id="153" edge_type="CtrlEdge" source_obj="//@blocks.1" sink_obj="//@blocks.2"/>
+  <edges id="154" edge_type="CtrlEdge" source_obj="//@blocks.2" sink_obj="//@blocks.1"/>
+  <edges id="155" edge_type="CtrlEdge" source_obj="//@blocks.2" sink_obj="//@blocks.3"/>
+  <edges id="156" edge_type="CtrlEdge" source_obj="//@blocks.3" sink_obj="//@blocks.4"/>
+  <edges id="157" edge_type="CtrlEdge" source_obj="//@blocks.4" sink_obj="//@blocks.2"/>
+  <edges id="158" edge_type="CtrlEdge" source_obj="//@blocks.4" sink_obj="//@blocks.5"/>
+  <edges id="159" edge_type="CtrlEdge" source_obj="//@blocks.5" sink_obj="//@blocks.4"/>
+  <edges id="-1" source_obj="//@blocks.3/@node_objs.1" sink_obj="//@blocks.4/@node_objs.2"/>
+  <edges id="-1" source_obj="//@blocks.5/@node_objs.1" sink_obj="//@blocks.5/@node_objs.2"/>
+  <edges id="-1" source_obj="//@ports.0" sink_obj="//@blocks.5/@node_objs.2"/>
+  <edges id="-1" source_obj="//@blocks.5/@node_objs.3" sink_obj="//@blocks.5/@node_objs.4"/>
+  <edges id="-1" source_obj="//@ports.1" sink_obj="//@blocks.5/@node_objs.4"/>
+  <blocks id="9" name="block_9" type="BlockType">
+    <controlOutputObjs>phi</controlOutputObjs>
+    <controlOutputObjs>.loopexit</controlOutputObjs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="8" name="node_8" lineNumber="24" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" opcode="br">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="24" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <controlInputObjs>.loopexit</controlInputObjs>
+    </node_objs>
+    <fileValidLineNumbers fileName="matrix_mul.c">
+      <validLinenumbers>24</validLinenumbers>
+    </fileValidLineNumbers>
+  </blocks>
+  <blocks id="15" name=".loopexit" type="BlockType">
+    <controlInputObjs>block_9</controlInputObjs>
+    <controlInputObjs>.preheader</controlInputObjs>
+    <controlOutputObjs>br</controlOutputObjs>
+    <controlOutputObjs>phi</controlOutputObjs>
+    <controlOutputObjs>br</controlOutputObjs>
+    <controlOutputObjs>block_50</controlOutputObjs>
+    <controlOutputObjs>.preheader</controlOutputObjs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="10" name="i0" originalName="i0" bitwidth="2" opcode="phi" nodeLabel="1">
+      <dataInputObjs>add</dataInputObjs>
+      <dataOutputObjs>icmp</dataOutputObjs>
+      <dataOutputObjs>add</dataOutputObjs>
+      <dataOutputObjs>add</dataOutputObjs>
+      <dataOutputObjs>add</dataOutputObjs>
+      <controlInputObjs>block_9</controlInputObjs>
+      <controlInputObjs>.preheader</controlInputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="11" name="exitcond2" lineNumber="24" fileName="matrix_mul.c" fileDirectory=".." rtlName="exitcond2_fu_117_p2" contextFuncName="matrix_mul" bitwidth="1" opcode="icmp" nodeLabel="1">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="24" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataOutputObjs>br</dataOutputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="13" name="i0_1" lineNumber="24" originalName="i0" fileName="matrix_mul.c" fileDirectory=".." rtlName="i0_1_fu_123_p2" contextFuncName="matrix_mul" bitwidth="2" opcode="add" nodeLabel="1">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="24" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataOutputObjs>phi</dataOutputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="14" name="node_14" lineNumber="24" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" opcode="br" nodeLabel="1">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="24" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>icmp</dataInputObjs>
+      <controlInputObjs>.preheader</controlInputObjs>
+      <controlInputObjs>block_50</controlInputObjs>
+    </node_objs>
+    <fileValidLineNumbers fileName="matrix_mul.c">
+      <validLinenumbers>24</validLinenumbers>
+    </fileValidLineNumbers>
+  </blocks>
+  <blocks id="21" name=".preheader" type="BlockType">
+    <controlInputObjs>.loopexit</controlInputObjs>
+    <controlInputObjs>block_35</controlInputObjs>
+    <controlOutputObjs>phi</controlOutputObjs>
+    <controlOutputObjs>br</controlOutputObjs>
+    <controlOutputObjs>br</controlOutputObjs>
+    <controlOutputObjs>.loopexit</controlOutputObjs>
+    <controlOutputObjs>block_27</controlOutputObjs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="16" name="i1" originalName="i1" bitwidth="2" opcode="phi" nodeLabel="2">
+      <dataInputObjs>add</dataInputObjs>
+      <dataOutputObjs>icmp</dataOutputObjs>
+      <dataOutputObjs>add</dataOutputObjs>
+      <dataOutputObjs>shl</dataOutputObjs>
+      <controlInputObjs>.loopexit</controlInputObjs>
+      <controlInputObjs>block_35</controlInputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="17" name="exitcond1" lineNumber="25" fileName="matrix_mul.c" fileDirectory=".." rtlName="exitcond1_fu_129_p2" contextFuncName="matrix_mul" bitwidth="1" opcode="icmp" nodeLabel="2">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="25" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataOutputObjs>br</dataOutputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="19" name="i1_1" lineNumber="25" originalName="i1" fileName="matrix_mul.c" fileDirectory=".." rtlName="i1_1_fu_135_p2" contextFuncName="matrix_mul" bitwidth="2" opcode="add" nodeLabel="2">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="25" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataOutputObjs>phi</dataOutputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="20" name="node_20" lineNumber="25" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" opcode="br" nodeLabel="2">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="25" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>icmp</dataInputObjs>
+      <controlInputObjs>block_27</controlInputObjs>
+      <controlInputObjs>.loopexit</controlInputObjs>
+    </node_objs>
+    <fileValidLineNumbers fileName="matrix_mul.c">
+      <validLinenumbers>25</validLinenumbers>
+    </fileValidLineNumbers>
+  </blocks>
+  <blocks id="27" name="block_27" type="BlockType">
+    <controlInputObjs>.preheader</controlInputObjs>
+    <controlOutputObjs>br</controlOutputObjs>
+    <controlOutputObjs>phi</controlOutputObjs>
+    <controlOutputObjs>phi</controlOutputObjs>
+    <controlOutputObjs>block_35</controlOutputObjs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="22" name="tmp" lineNumber="26" fileName="matrix_mul.c" fileDirectory=".." rtlName="tmp_fu_141_p2" contextFuncName="matrix_mul" bitwidth="2" opcode="shl" nodeLabel="2">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="26" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataOutputObjs>add</dataOutputObjs>
+      <dataOutputObjs>add</dataOutputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="23" name="tmp_1" lineNumber="26" fileName="matrix_mul.c" fileDirectory=".." rtlName="tmp_1_fu_147_p2" contextFuncName="matrix_mul" bitwidth="2" opcode="add" nodeLabel="2">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="26" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataInputObjs>shl</dataInputObjs>
+      <dataOutputObjs>store</dataOutputObjs>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="26" name="node_26" lineNumber="27" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" opcode="br" nodeLabel="2">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="27" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <controlInputObjs>block_35</controlInputObjs>
+    </node_objs>
+    <fileValidLineNumbers fileName="matrix_mul.c">
+      <validLinenumbers>26</validLinenumbers>
+      <validLinenumbers>27</validLinenumbers>
+    </fileValidLineNumbers>
+  </blocks>
+  <blocks id="35" name="block_35" type="BlockType">
+    <controlInputObjs>block_27</controlInputObjs>
+    <controlInputObjs>block_48</controlInputObjs>
+    <controlOutputObjs>phi</controlOutputObjs>
+    <controlOutputObjs>br</controlOutputObjs>
+    <controlOutputObjs>br</controlOutputObjs>
+    <controlOutputObjs>.preheader</controlOutputObjs>
+    <controlOutputObjs>block_48</controlOutputObjs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="28" name="storemerge" lineNumber="28" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" bitwidth="64" opcode="phi" nodeLabel="3">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="28" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>dadd</dataInputObjs>
+      <dataOutputObjs>store</dataOutputObjs>
+      <dataOutputObjs>dadd</dataOutputObjs>
+      <controlInputObjs>block_27</controlInputObjs>
+      <controlInputObjs>block_48</controlInputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="29" name="i2" originalName="i2" bitwidth="2" opcode="phi" nodeLabel="3">
+      <dataInputObjs>add</dataInputObjs>
+      <dataOutputObjs>icmp</dataOutputObjs>
+      <dataOutputObjs>add</dataOutputObjs>
+      <dataOutputObjs>shl</dataOutputObjs>
+      <dataOutputObjs>add</dataOutputObjs>
+      <controlInputObjs>block_27</controlInputObjs>
+      <controlInputObjs>block_48</controlInputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="30" name="node_30" lineNumber="28" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" opcode="store" nodeLabel="3">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="28" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataInputObjs>add</dataInputObjs>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="31" name="exitcond" lineNumber="27" fileName="matrix_mul.c" fileDirectory=".." rtlName="exitcond_fu_158_p2" contextFuncName="matrix_mul" bitwidth="1" opcode="icmp" nodeLabel="3">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="27" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataOutputObjs>br</dataOutputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="33" name="i2_1" lineNumber="27" originalName="i2" fileName="matrix_mul.c" fileDirectory=".." rtlName="i2_1_fu_164_p2" contextFuncName="matrix_mul" bitwidth="2" opcode="add" nodeLabel="3">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="27" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataOutputObjs>phi</dataOutputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="34" name="node_34" lineNumber="27" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" opcode="br" nodeLabel="3">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="27" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>icmp</dataInputObjs>
+      <controlInputObjs>block_48</controlInputObjs>
+      <controlInputObjs>.preheader</controlInputObjs>
+    </node_objs>
+    <fileValidLineNumbers fileName="matrix_mul.c">
+      <validLinenumbers>28</validLinenumbers>
+      <validLinenumbers>27</validLinenumbers>
+    </fileValidLineNumbers>
+  </blocks>
+  <blocks id="48" name="block_48" type="BlockType">
+    <controlInputObjs>block_35</controlInputObjs>
+    <controlOutputObjs>phi</controlOutputObjs>
+    <controlOutputObjs>phi</controlOutputObjs>
+    <controlOutputObjs>br</controlOutputObjs>
+    <controlOutputObjs>block_35</controlOutputObjs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="36" name="tmp_3" lineNumber="28" fileName="matrix_mul.c" fileDirectory=".." rtlName="tmp_3_fu_170_p2" contextFuncName="matrix_mul" bitwidth="2" opcode="shl" nodeLabel="3">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="28" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataOutputObjs>add</dataOutputObjs>
+      <constName>empty</constName>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="37" name="tmp_6" lineNumber="28" fileName="matrix_mul.c" fileDirectory=".." rtlName="tmp_6_fu_176_p2" contextFuncName="matrix_mul" bitwidth="2" opcode="add" nodeLabel="3">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="28" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataInputObjs>shl</dataInputObjs>
+      <dataOutputObjs>load</dataOutputObjs>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="40" name="a_load" lineNumber="28" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" bitwidth="64" opcode="load" nodeLabel="3" nodeLatency="1">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="28" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>add</dataInputObjs>
+      <dataInputObjs>a</dataInputObjs>
+      <dataOutputObjs>dmul</dataOutputObjs>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="41" name="tmp_8" lineNumber="28" fileName="matrix_mul.c" fileDirectory=".." rtlName="tmp_8_fu_187_p2" contextFuncName="matrix_mul" bitwidth="2" opcode="add" nodeLabel="3">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="28" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>shl</dataInputObjs>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataOutputObjs>load</dataOutputObjs>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="44" name="b_load" lineNumber="28" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" bitwidth="64" opcode="load" nodeLabel="3" nodeLatency="1">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="28" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>add</dataInputObjs>
+      <dataInputObjs>b</dataInputObjs>
+      <dataOutputObjs>dmul</dataOutputObjs>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="45" name="tmp_s" lineNumber="28" fileName="matrix_mul.c" fileDirectory=".." rtlName="matrix_mul_dmul_64ns_64ns_64_6_max_dsp_U2" contextFuncName="matrix_mul" bitwidth="64" opcode="dmul" nodeLabel="5" nodeLatency="5">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="28" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>load</dataInputObjs>
+      <dataInputObjs>load</dataInputObjs>
+      <dataOutputObjs>dadd</dataOutputObjs>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="46" name="tmp_4" lineNumber="28" fileName="matrix_mul.c" fileDirectory=".." rtlName="matrix_mul_dadd_64ns_64ns_64_5_full_dsp_U1" contextFuncName="matrix_mul" bitwidth="64" opcode="dadd" nodeLabel="11" nodeLatency="4">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="28" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <dataInputObjs>phi</dataInputObjs>
+      <dataInputObjs>dmul</dataInputObjs>
+      <dataOutputObjs>phi</dataOutputObjs>
+    </node_objs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="47" name="node_47" lineNumber="27" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" opcode="br" nodeLabel="15">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="27" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+      <controlInputObjs>block_35</controlInputObjs>
+    </node_objs>
+    <fileValidLineNumbers fileName="matrix_mul.c">
+      <validLinenumbers>28</validLinenumbers>
+      <validLinenumbers>27</validLinenumbers>
+    </fileValidLineNumbers>
+  </blocks>
+  <blocks id="50" name="block_50" type="BlockType">
+    <controlInputObjs>.loopexit</controlInputObjs>
+    <controlOutputObjs>br</controlOutputObjs>
+    <node_objs xsi:type="cdfg:CdfgNode" id="49" name="node_49" lineNumber="32" fileName="matrix_mul.c" fileDirectory=".." contextFuncName="matrix_mul" opcode="ret" nodeLabel="1">
+      <inlineStackInfo fileName="matrix_mul.c" linenumber="32" fileDirectory="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul" functionName="matrix_mul"/>
+    </node_objs>
+    <fileValidLineNumbers fileName="matrix_mul.c">
+      <validLinenumbers>32</validLinenumbers>
+    </fileValidLineNumbers>
+  </blocks>
+  <ScheduleInfo time="0"/>
+  <ScheduleInfo time="1"/>
+  <ScheduleInfo time="2"/>
+  <ScheduleInfo time="3"/>
+  <ScheduleInfo time="4"/>
+  <ScheduleInfo time="5"/>
+  <ScheduleInfo time="6"/>
+  <ScheduleInfo time="7"/>
+  <ScheduleInfo time="8"/>
+  <ScheduleInfo time="9"/>
+  <ScheduleInfo time="10"/>
+  <ScheduleInfo time="11"/>
+  <ScheduleInfo time="12"/>
+  <ScheduleInfo time="13"/>
+  <ScheduleInfo time="14"/>
+  <ScheduleInfo time="15"/>
+  <regnodes realName="b_addr_reg_236">
+    <nodeIds>43</nodeIds>
+  </regnodes>
+  <regnodes realName="storemerge_reg_84">
+    <nodeIds>28</nodeIds>
+  </regnodes>
+  <regnodes realName="out_addr_reg_218">
+    <nodeIds>25</nodeIds>
+  </regnodes>
+  <regnodes realName="a_addr_reg_231">
+    <nodeIds>39</nodeIds>
+  </regnodes>
+  <regnodes realName="tmp_4_reg_256">
+    <nodeIds>46</nodeIds>
+  </regnodes>
+  <regnodes realName="i1_1_reg_208">
+    <nodeIds>19</nodeIds>
+  </regnodes>
+  <regnodes realName="i2_1_reg_226">
+    <nodeIds>33</nodeIds>
+  </regnodes>
+  <regnodes realName="a_load_reg_241">
+    <nodeIds>40</nodeIds>
+  </regnodes>
+  <regnodes realName="tmp_s_reg_251">
+    <nodeIds>45</nodeIds>
+  </regnodes>
+  <regnodes realName="b_load_reg_246">
+    <nodeIds>44</nodeIds>
+  </regnodes>
+  <regnodes realName="i2_reg_97">
+    <nodeIds>29</nodeIds>
+  </regnodes>
+  <regnodes realName="tmp_reg_213">
+    <nodeIds>22</nodeIds>
+  </regnodes>
+  <regnodes realName="i1_reg_73">
+    <nodeIds>16</nodeIds>
+  </regnodes>
+  <regnodes realName="i0_1_reg_200">
+    <nodeIds>13</nodeIds>
+  </regnodes>
+  <regnodes realName="i0_reg_61">
+    <nodeIds>10</nodeIds>
+  </regnodes>
+  <expressionNodes realName="tmp_1_fu_147">
+    <nodeIds>23</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="exitcond1_fu_129">
+    <nodeIds>17</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="i0_phi_fu_65">
+    <nodeIds>10</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="i0_1_fu_123">
+    <nodeIds>13</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="storemerge_phi_fu_88">
+    <nodeIds>28</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="exitcond_fu_158">
+    <nodeIds>31</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="i1_phi_fu_77">
+    <nodeIds>16</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="a_addr_gep_fu_37">
+    <nodeIds>39</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="tmp_7_fu_182">
+    <nodeIds>38</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="tmp_9_fu_192">
+    <nodeIds>42</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="exitcond2_fu_117">
+    <nodeIds>11</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="out_addr_gep_fu_26">
+    <nodeIds>25</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="tmp_8_fu_187">
+    <nodeIds>41</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="tmp_2_fu_153">
+    <nodeIds>24</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="tmp_fu_141">
+    <nodeIds>22</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="tmp_6_fu_176">
+    <nodeIds>37</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="tmp_3_fu_170">
+    <nodeIds>36</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="b_addr_gep_fu_49">
+    <nodeIds>43</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="i2_phi_fu_101">
+    <nodeIds>29</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="i2_1_fu_164">
+    <nodeIds>33</nodeIds>
+  </expressionNodes>
+  <expressionNodes realName="i1_1_fu_135">
+    <nodeIds>19</nodeIds>
+  </expressionNodes>
+  <moduleNodes realName="grp_fu_108">
+    <nodeIds>46</nodeIds>
+  </moduleNodes>
+  <moduleNodes realName="grp_fu_113">
+    <nodeIds>45</nodeIds>
+  </moduleNodes>
+  <memoryPorts dataString="a">
+    <nodeIds>40</nodeIds>
+  </memoryPorts>
+  <memoryPorts dataString="b">
+    <nodeIds>44</nodeIds>
+  </memoryPorts>
+  <memoryPorts dataString="out_r">
+    <nodeIds>30</nodeIds>
+  </memoryPorts>
+  <ioPorts name="a(p0)">
+    <contents name="load">
+      <nodeIds>40</nodeIds>
+    </contents>
+  </ioPorts>
+  <ioPorts name="b(p0)">
+    <contents name="load">
+      <nodeIds>44</nodeIds>
+    </contents>
+  </ioPorts>
+  <ioPorts name="out_r(p0)">
+    <contents name="store">
+      <nodeIds>30</nodeIds>
+    </contents>
+  </ioPorts>
+  <fsm>
+    <states id="1">
+      <operations id="4" stage="1" latency="1"/>
+      <operations id="5" stage="1" latency="1"/>
+      <operations id="6" stage="1" latency="1"/>
+      <operations id="7" stage="1" latency="1"/>
+      <operations id="8" stage="1" latency="1"/>
+    </states>
+    <states id="2">
+      <operations id="10" stage="1" latency="1"/>
+      <operations id="11" stage="1" latency="1"/>
+      <operations id="12" stage="1" latency="1"/>
+      <operations id="13" stage="1" latency="1"/>
+      <operations id="14" stage="1" latency="1"/>
+      <operations id="49" stage="1" latency="1"/>
+    </states>
+    <states id="3">
+      <operations id="16" stage="1" latency="1"/>
+      <operations id="17" stage="1" latency="1"/>
+      <operations id="18" stage="1" latency="1"/>
+      <operations id="19" stage="1" latency="1"/>
+      <operations id="20" stage="1" latency="1"/>
+      <operations id="22" stage="1" latency="1"/>
+      <operations id="23" stage="1" latency="1"/>
+      <operations id="24" stage="1" latency="1"/>
+      <operations id="25" stage="1" latency="1"/>
+      <operations id="26" stage="1" latency="1"/>
+    </states>
+    <states id="4">
+      <operations id="28" stage="1" latency="1"/>
+      <operations id="29" stage="1" latency="1"/>
+      <operations id="30" stage="1" latency="1"/>
+      <operations id="31" stage="1" latency="1"/>
+      <operations id="32" stage="1" latency="1"/>
+      <operations id="33" stage="1" latency="1"/>
+      <operations id="34" stage="1" latency="1"/>
+      <operations id="36" stage="1" latency="1"/>
+      <operations id="37" stage="1" latency="1"/>
+      <operations id="38" stage="1" latency="1"/>
+      <operations id="39" stage="1" latency="1"/>
+      <operations id="40" stage="2" latency="2"/>
+      <operations id="41" stage="1" latency="1"/>
+      <operations id="42" stage="1" latency="1"/>
+      <operations id="43" stage="1" latency="1"/>
+      <operations id="44" stage="2" latency="2"/>
+    </states>
+    <states id="5">
+      <operations id="40" stage="1" latency="2"/>
+      <operations id="44" stage="1" latency="2"/>
+    </states>
+    <states id="6">
+      <operations id="45" stage="6" latency="6"/>
+    </states>
+    <states id="7">
+      <operations id="45" stage="5" latency="6"/>
+    </states>
+    <states id="8">
+      <operations id="45" stage="4" latency="6"/>
+    </states>
+    <states id="9">
+      <operations id="45" stage="3" latency="6"/>
+    </states>
+    <states id="10">
+      <operations id="45" stage="2" latency="6"/>
+    </states>
+    <states id="11">
+      <operations id="45" stage="1" latency="6"/>
+    </states>
+    <states id="12">
+      <operations id="46" stage="5" latency="5"/>
+    </states>
+    <states id="13">
+      <operations id="46" stage="4" latency="5"/>
+    </states>
+    <states id="14">
+      <operations id="46" stage="3" latency="5"/>
+    </states>
+    <states id="15">
+      <operations id="46" stage="2" latency="5"/>
+    </states>
+    <states id="16">
+      <operations id="46" stage="1" latency="5"/>
+      <operations id="47" stage="1" latency="1"/>
+    </states>
+    <transitions inState="1" outState="2">
+      <condition id="23"/>
+    </transitions>
+    <transitions inState="2" outState="3">
+      <condition id="25"/>
+    </transitions>
+    <transitions inState="3" outState="2">
+      <condition id="27"/>
+    </transitions>
+    <transitions inState="3" outState="4">
+      <condition id="29"/>
+    </transitions>
+    <transitions inState="4" outState="3">
+      <condition id="31"/>
+    </transitions>
+    <transitions inState="4" outState="5">
+      <condition id="32"/>
+    </transitions>
+    <transitions inState="5" outState="6">
+      <condition id="34"/>
+    </transitions>
+    <transitions inState="6" outState="7">
+      <condition id="35"/>
+    </transitions>
+    <transitions inState="7" outState="8">
+      <condition id="36"/>
+    </transitions>
+    <transitions inState="8" outState="9">
+      <condition id="37"/>
+    </transitions>
+    <transitions inState="9" outState="10">
+      <condition id="38"/>
+    </transitions>
+    <transitions inState="10" outState="11">
+      <condition id="39"/>
+    </transitions>
+    <transitions inState="11" outState="12">
+      <condition id="40"/>
+    </transitions>
+    <transitions inState="12" outState="13">
+      <condition id="41"/>
+    </transitions>
+    <transitions inState="13" outState="14">
+      <condition id="42"/>
+    </transitions>
+    <transitions inState="14" outState="15">
+      <condition id="43"/>
+    </transitions>
+    <transitions inState="15" outState="16">
+      <condition id="44"/>
+    </transitions>
+    <transitions inState="16" outState="4">
+      <condition id="46"/>
+    </transitions>
+  </fsm>
+  <CFGRegionsRoot>
+    <cfgRegions mId="1" mTag="matrix_mul" mII="-1" mDepth="-1" mMinTripCount="-1" mMaxTripCount="-1" mMinLatency="117" mMaxLatency="-1">
+      <subRegions>2</subRegions>
+      <subRegions>3</subRegions>
+      <subRegions>8</subRegions>
+      <mDfPipe/>
+    </cfgRegions>
+    <cfgRegions mId="2" mTag="Entry" mII="-1" mDepth="-1" mMinTripCount="-1" mMaxTripCount="-1" mMaxLatency="-1">
+      <basicBlocks>9</basicBlocks>
+      <mDfPipe/>
+    </cfgRegions>
+    <cfgRegions mId="3" mTag="Loop 1" mII="-1" mDepth="-1" mMinTripCount="2" mMaxTripCount="2" mMinLatency="116" mMaxLatency="-1" mType="1">
+      <subRegions>4</subRegions>
+      <subRegions>5</subRegions>
+      <mDfPipe/>
+    </cfgRegions>
+    <cfgRegions mId="4" mTag="Region 1" mII="-1" mDepth="-1" mMinTripCount="-1" mMaxTripCount="-1" mMaxLatency="-1">
+      <basicBlocks>15</basicBlocks>
+      <mDfPipe/>
+    </cfgRegions>
+    <cfgRegions mId="5" mTag="Loop 1.1" mII="-1" mDepth="-1" mMinTripCount="2" mMaxTripCount="2" mMinLatency="56" mMaxLatency="-1" mType="1">
+      <subRegions>6</subRegions>
+      <subRegions>7</subRegions>
+      <mDfPipe/>
+    </cfgRegions>
+    <cfgRegions mId="6" mTag="Region 2" mII="-1" mDepth="-1" mMinTripCount="-1" mMaxTripCount="-1" mMaxLatency="-1">
+      <basicBlocks>21</basicBlocks>
+      <basicBlocks>27</basicBlocks>
+      <mDfPipe/>
+    </cfgRegions>
+    <cfgRegions mId="7" mTag="Loop 1.1.1" mII="-1" mDepth="-1" mMinTripCount="2" mMaxTripCount="2" mMinLatency="26" mMaxLatency="-1" mType="1">
+      <basicBlocks>35</basicBlocks>
+      <basicBlocks>48</basicBlocks>
+      <mDfPipe/>
+    </cfgRegions>
+    <cfgRegions mId="8" mTag="Return" mII="-1" mDepth="-1" mMinTripCount="-1" mMaxTripCount="-1" mMaxLatency="-1">
+      <basicBlocks>50</basicBlocks>
+      <mDfPipe/>
+    </cfgRegions>
+  </CFGRegionsRoot>
+</cdfg:DBCdfg>

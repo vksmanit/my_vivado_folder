@@ -1,0 +1,3 @@
+matrix_mul_dadd_64ns_64ns_64_5_full_dsp
+matrix_mul_dmul_64ns_64ns_64_6_max_dsp
+matrix_mul

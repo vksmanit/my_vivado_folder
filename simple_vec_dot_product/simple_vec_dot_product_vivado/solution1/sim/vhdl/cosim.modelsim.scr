@@ -25,26 +25,11 @@ if 0 {
     vdel -all
 }
 
-set clibs_path /clibs
-if {[string match -nocase *windows* $tcl_platform(os)]} {
-    if {[string match *_64 [exec uname -m]]} {
-        set os "nt64"
-    } else {
-        set os "nt"
-    }
+if {[file exist [file join /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product modelsim.ini]]} {
+    vmap -c -modelsimini [file join /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product modelsim.ini]
 } else {
-    if {[string match *_64 [exec uname -m]]} {
-        set os "lin64"
-    } else {
-        set os "lin"
-    }
-}
-regexp {vsim (.*) Simulator} [vsim -version] matchstring modelsim_version
-set libpath [file join $clibs_path questa $modelsim_version $os lib]
-if {[file exist [file join $libpath modelsim.ini]]} {
-    vmap -c -modelsimini [file join $libpath modelsim.ini]
-} else {
-    puts "WARNING: There is no IP libs for this version of ModelSim. If you may use cosim with IP, please make sure the IP libs have been pre-compiled."
+    puts "ERROR: Please make sure the modelsim.ini is in the path /home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product."
+    exit -force
 }
 
 vlib work
@@ -58,9 +43,9 @@ vcom -work work "simple_vec_dot_product.autotb.vhd"
 vcom -work work "simple_vec_dot_product.vhd"
 vcom -work work "AESL_automem_out_r.vhd"
 
-vsim -t 10ps  -L work apatb_simple_vec_dot_product_top -suppress 6630
-#vsim -debugDB -t 10ps -voptargs="+acc"  -L work apatb_simple_vec_dot_product_top -suppress 6630
-#add wave -r /*
+vsim -debugDB -t 10ps -voptargs="+acc"  -L work apatb_simple_vec_dot_product_top -suppress 6630 -wlf simple_vec_dot_product.wlf
+set WildcardFilter [lsearch -not -all -inline $WildcardFilter Parameter]
+add wave -r /*
 set StdArithNoWarnings 1
 set NumericStdNoWarnings 1
 run -all

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
   <source>
-    <originFiles name="simple_vec_dot_product_types.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_types.h"/>
-    <originFiles name="simple_vec_dot_product_terminate.o" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_terminate.o"/>
-    <originFiles name="simple_vec_dot_product_terminate.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_terminate.h"/>
-    <originFiles name="simple_vec_dot_product_terminate.c" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_terminate.c"/>
-    <originFiles name="simple_vec_dot_product_rtw.mk" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_rtw.mk"/>
-    <originFiles name="simple_vec_dot_product_ref.rsp" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_ref.rsp"/>
-    <originFiles name="simple_vec_dot_product_initialize.o" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_initialize.o"/>
-    <originFiles name="simple_vec_dot_product_initialize.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_initialize.h"/>
-    <originFiles name="simple_vec_dot_product_initialize.c" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_initialize.c"/>
-    <originFiles name="simple_vec_dot_product.o" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.o"/>
-    <originFiles name="simple_vec_dot_product.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.h"/>
-    <originFiles name="simple_vec_dot_product.c" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.c"/>
-    <originFiles name="simple_vec_dot_product.a" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.a"/>
-    <originFiles name="rtwtypes.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/rtwtypes.h"/>
-    <originFiles name="rtw_proj.tmw" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/rtw_proj.tmw"/>
-    <originFiles name="codeInfo.mat" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/codeInfo.mat"/>
     <originFiles name="buildInfo.mat" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/buildInfo.mat"/>
+    <originFiles name="codeInfo.mat" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/codeInfo.mat"/>
+    <originFiles name="rtw_proj.tmw" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/rtw_proj.tmw"/>
+    <originFiles name="rtwtypes.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/rtwtypes.h"/>
+    <originFiles name="simple_vec_dot_product.a" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.a"/>
+    <originFiles name="simple_vec_dot_product.c" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.c"/>
+    <originFiles name="simple_vec_dot_product.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.h"/>
+    <originFiles name="simple_vec_dot_product.o" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product.o"/>
+    <originFiles name="simple_vec_dot_product_initialize.c" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_initialize.c"/>
+    <originFiles name="simple_vec_dot_product_initialize.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_initialize.h"/>
+    <originFiles name="simple_vec_dot_product_initialize.o" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_initialize.o"/>
+    <originFiles name="simple_vec_dot_product_ref.rsp" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_ref.rsp"/>
+    <originFiles name="simple_vec_dot_product_rtw.mk" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_rtw.mk"/>
+    <originFiles name="simple_vec_dot_product_terminate.c" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_terminate.c"/>
+    <originFiles name="simple_vec_dot_product_terminate.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_terminate.h"/>
+    <originFiles name="simple_vec_dot_product_terminate.o" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_terminate.o"/>
+    <originFiles name="simple_vec_dot_product_types.h" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_types.h"/>
   </source>
   <testbench>
     <originFiles name="simple_vec_dot_product_tb.c" path="/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_tb.c"/>

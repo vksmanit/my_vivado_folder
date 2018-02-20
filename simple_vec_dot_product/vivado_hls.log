@@ -1,5 +1,5 @@
 INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/vivado_hls'
-INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:19:00 IST 2018
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 20 09:44:22 IST 2018
 INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
 INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product'
 INFO: [HLS 200-10] Opening project '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado'.
@@ -13,39 +13,39 @@ INFO: [COSIM 212-14] Instrumenting C test bench ...
    Compiling apatb_simple_vec_dot_product.cpp
    Compiling (apcc) simple_vec_dot_product.c_pre.c.tb.c
 INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
-INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:19:05 IST 2018
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 20 09:44:28 IST 2018
 INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
 INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/sim/wrapc'
 clang: warning: argument unused during compilation: '-fno-builtin-isinf'
 clang: warning: argument unused during compilation: '-fno-builtin-isnan'
-INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/211001519019345783510
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/86671519100068268353
 INFO: [APCC 202-1] APCC is done.
    Compiling (apcc) simple_vec_dot_product_initialize.c_pre.c.tb.c
 INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
-INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:19:06 IST 2018
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 20 09:44:29 IST 2018
 INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
 INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/sim/wrapc'
 clang: warning: argument unused during compilation: '-fno-builtin-isinf'
 clang: warning: argument unused during compilation: '-fno-builtin-isnan'
-INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/211481519019346688351
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/87151519100069169314
 INFO: [APCC 202-1] APCC is done.
    Compiling (apcc) simple_vec_dot_product_tb.c_pre.c.tb.c
 INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
-INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:19:07 IST 2018
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 20 09:44:29 IST 2018
 INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
 INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/sim/wrapc'
 clang: warning: argument unused during compilation: '-fno-builtin-isinf'
 clang: warning: argument unused during compilation: '-fno-builtin-isnan'
-INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/211961519019347558539
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/87631519100070031555
 INFO: [APCC 202-1] APCC is done.
    Compiling (apcc) simple_vec_dot_product_terminate.c_pre.c.tb.c
 INFO: [HLS 200-10] Running '/opt/Xilinx/Vivado_HLS/2016.1/bin/unwrapped/lnx64.o/apcc'
-INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Mon Feb 19 11:19:08 IST 2018
+INFO: [HLS 200-10] For user 'vipinsoni' on host 'hpc16' (Linux_x86_64 version 3.13.0-53-generic) on Tue Feb 20 09:44:30 IST 2018
 INFO: [HLS 200-10] On os Ubuntu 14.04.4 LTS
 INFO: [HLS 200-10] In directory '/home/vipinsoni/MTP/my_vivado_folder/simple_vec_dot_product/simple_vec_dot_product_vivado/solution1/sim/wrapc'
 clang: warning: argument unused during compilation: '-fno-builtin-isinf'
 clang: warning: argument unused during compilation: '-fno-builtin-isnan'
-INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/212441519019348469394
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_vipinsoni/88111519100070937365
 INFO: [APCC 202-1] APCC is done.
    Generating cosim.tv.exe
 INFO: [COSIM 212-302] Starting C TB testing ... 
@@ -56,161 +56,4 @@ INFO: [COSIM 212-302] Starting C TB testing ...
 result are good 
 INFO: [COSIM 212-333] Generating C post check test bench ...
 INFO: [COSIM 212-12] Generating RTL test bench ...
-INFO: [COSIM 212-322] Starting VHDL simulation. 
-INFO: [COSIM 212-15] Starting Modelsim ...
-Reading pref.tcl
-
-# 10.3c
-
-# do cosim.modelsim.scr
-# 
-#     set fl [open ".exit.err" w]
-#     puts $fl "Elaboration errors in executing modelsim simulator"
-#     close $fl
-#     quit
-# 
-# /clibs
-# lin64
-# 1
-# /clibs/questa/10.3c/lin64/lib
-WARNING: There is no IP libs for this version of ModelSim. If you may use cosim with IP, please make sure the IP libs have been pre-compiled.
-# Model Technology ModelSim LE vmap 10.3c Lib Mapping Utility 2014.09 Sep 20 2014
-# vmap -modelsim_quiet work work 
-# Copying /opt/quartus/modelsim_ase/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
-# Modifying modelsim.ini
-# ** Warning: Copied /opt/quartus/modelsim_ase/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini.
-#          Updated modelsim.ini.
-# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
-# Start time: 11:19:10 on Feb 19,2018
-# vcom -work work AESL_sim_pkg.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package std_logic_arith
-# -- Loading package NUMERIC_STD
-# -- Compiling package AESL_sim_components
-# -- Compiling package body AESL_sim_components
-# -- Loading package AESL_sim_components
-# End time: 11:19:10 on Feb 19,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
-# Start time: 11:19:10 on Feb 19,2018
-# vcom -work work AESL_automem_b.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package std_logic_arith
-# -- Loading package STD_LOGIC_UNSIGNED
-# -- Loading package NUMERIC_STD
-# -- Loading package std_logic_textio
-# -- Compiling entity AESL_automem_b
-# -- Compiling architecture behav of AESL_automem_b
-# ** Warning: AESL_automem_b.vhd(46): (vcom-1236) Shared variables must be of a protected type.
-# End time: 11:19:10 on Feb 19,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 1
-# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
-# Start time: 11:19:10 on Feb 19,2018
-# vcom -work work simple_vec_dot_product_mul_32s_32s_64_6.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity simple_vec_dot_product_mul_32s_32s_64_6_MulnS_0
-# -- Compiling architecture behav of simple_vec_dot_product_mul_32s_32s_64_6_MulnS_0
-# -- Compiling entity simple_vec_dot_product_mul_32s_32s_64_6
-# -- Compiling architecture arch of simple_vec_dot_product_mul_32s_32s_64_6
-# End time: 11:19:10 on Feb 19,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
-# Start time: 11:19:10 on Feb 19,2018
-# vcom -work work AESL_automem_a.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package std_logic_arith
-# -- Loading package STD_LOGIC_UNSIGNED
-# -- Loading package NUMERIC_STD
-# -- Loading package std_logic_textio
-# -- Compiling entity AESL_automem_a
-# -- Compiling architecture behav of AESL_automem_a
-# ** Warning: AESL_automem_a.vhd(46): (vcom-1236) Shared variables must be of a protected type.
-# End time: 11:19:10 on Feb 19,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 1
-# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
-# Start time: 11:19:10 on Feb 19,2018
-# vcom -work work simple_vec_dot_product.autotb.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package std_logic_arith
-# -- Loading package STD_LOGIC_UNSIGNED
-# -- Loading package NUMERIC_STD
-# -- Loading package std_logic_textio
-# -- Compiling entity apatb_simple_vec_dot_product_top
-# -- Compiling architecture behav of apatb_simple_vec_dot_product_top
-# ** Warning: simple_vec_dot_product.autotb.vhd(87): (vcom-1236) Shared variables must be of a protected type.
-# ** Warning: simple_vec_dot_product.autotb.vhd(88): (vcom-1236) Shared variables must be of a protected type.
-# ** Warning: simple_vec_dot_product.autotb.vhd(89): (vcom-1236) Shared variables must be of a protected type.
-# ** Warning: simple_vec_dot_product.autotb.vhd(90): (vcom-1236) Shared variables must be of a protected type.
-# ** Warning: simple_vec_dot_product.autotb.vhd(91): (vcom-1236) Shared variables must be of a protected type.
-# ** Warning: simple_vec_dot_product.autotb.vhd(93): (vcom-1236) Shared variables must be of a protected type.
-# End time: 11:19:10 on Feb 19,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 6
-# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
-# Start time: 11:19:10 on Feb 19,2018
-# vcom -work work simple_vec_dot_product.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
-# -- Compiling entity simple_vec_dot_product
-# -- Compiling architecture behav of simple_vec_dot_product
-# End time: 11:19:10 on Feb 19,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
-# Start time: 11:19:10 on Feb 19,2018
-# vcom -work work AESL_automem_out_r.vhd 
-# -- Loading package STANDARD
-# -- Loading package TEXTIO
-# -- Loading package std_logic_1164
-# -- Loading package std_logic_arith
-# -- Loading package STD_LOGIC_UNSIGNED
-# -- Loading package NUMERIC_STD
-# -- Loading package std_logic_textio
-# -- Compiling entity AESL_automem_out_r
-# -- Compiling architecture behav of AESL_automem_out_r
-# ** Warning: AESL_automem_out_r.vhd(46): (vcom-1236) Shared variables must be of a protected type.
-# End time: 11:19:10 on Feb 19,2018, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 1
-# vsim -c -do "cosim.modelsim.scr" 
-# Start time: 11:19:10 on Feb 19,2018
-# Loading std.standard
-# Loading std.textio(body)
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.std_logic_arith(body)
-# Loading ieee.std_logic_unsigned(body)
-# Loading ieee.numeric_std(body)
-# Loading ieee.std_logic_textio(body)
-# Loading work.apatb_simple_vec_dot_product_top(behav)
-# Loading work.simple_vec_dot_product(behav)
-# Loading work.simple_vec_dot_product_mul_32s_32s_64_6(arch)
-# Loading work.simple_vec_dot_product_mul_32s_32s_64_6_mulns_0(behav)
-# Loading work.aesl_automem_a(behav)
-# Loading work.aesl_automem_b(behav)
-# Loading work.aesl_automem_out_r(behav)
-# 1
-# 1
-# ** Note: simulation done!
-#    Time: 515 ns  Iteration: 1  Instance: /apatb_simple_vec_dot_product_top
-# ** Failure: NORMAL EXIT (note: failure is to force the simulator to stop)
-#    Time: 515 ns  Iteration: 1  Process: /apatb_simple_vec_dot_product_top/generate_sim_done_proc File: simple_vec_dot_product.autotb.vhd
-# Break in Process generate_sim_done_proc at simple_vec_dot_product.autotb.vhd line 682
-# End time: 11:19:11 on Feb 19,2018, Elapsed time: 0:00:01
-# Errors: 0, Warnings: 0
-INFO: [COSIM 212-316] Starting C post checking ...
-18
-28
-40
-45
-result are good 
-INFO: [COSIM 212-1000] *** C/RTL co-simulation finished: PASS ***
+INFO: [COSIM 212-1] *** C/RTL co-simulation file generate finished: PASS ***

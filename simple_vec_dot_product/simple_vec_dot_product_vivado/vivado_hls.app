@@ -1,10 +1,5 @@
 <project xmlns="com.autoesl.autopilot.project" name="simple_vec_dot_product_vivado" top="simple_vec_dot_product">
-    <includePaths/>
-    <libraryPaths/>
-    <Simulation>
-        <SimFlow name="csim" csimMode="0" lastCsimMode="0"/>
-    </Simulation>
-    <files xmlns="">
+    <files>
         <file name="../../simple_vec_dot_product_tb.c" sc="0" tb="1" cflags=" "/>
         <file name="buildInfo.mat" sc="0" tb="false" cflags=""/>
         <file name="codeInfo.mat" sc="0" tb="false" cflags=""/>
@@ -24,6 +19,11 @@
         <file name="simple_vec_dot_product_terminate.o" sc="0" tb="false" cflags=""/>
         <file name="simple_vec_dot_product_types.h" sc="0" tb="false" cflags=""/>
     </files>
+    <includePaths/>
+    <libraryPaths/>
+    <Simulation>
+        <SimFlow name="csim" csimMode="0" lastCsimMode="0"/>
+    </Simulation>
     <solutions xmlns="">
         <solution name="solution1" status="active"/>
     </solutions>

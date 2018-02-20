@@ -3,13 +3,14 @@
 
 int main()
 {
-    int a[4] = {2,3,4,5};
-    int b[4] = {4,5,6,7};
-    int c_expected[4]= {26,31,46,55};
+    double a[4] = {2,3,4,5};
+    double b[4] = {4,5,6,7};
+    //double c_expected[4]= {26,31,46,55};
+    double c_expected[4]= {28,37,40,53};
     
-    int c[4];
-    int a_actual[4], b_actual[4];
-    int c_actual[4];
+    double c[4];
+    double a_actual[4], b_actual[4];
+    double c_actual[4];
 
     int retval = 0, i ;
 
@@ -23,7 +24,7 @@ int main()
     
      
     for(i=0;i<4;i++)
-        printf ("%d \t",c_actual[i]);
+        printf ("%f \t",c_actual[i]);
 
     
     for(i=0;i<4;i++)
@@ -37,9 +38,9 @@ int main()
 
     // print result 
     if (retval == 0)
-        printf("good \n ");
+        printf("Result is Good !!\n ");
     else
-        printf("Mismatch\n");
+        printf("Mismatch !! \n");
 
     return retval;
 

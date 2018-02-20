@@ -1,0 +1,155 @@
+<profile>
+
+<section name = "Vivado HLS Report for 'matrix_mul'" level="0">
+<item name = "Date">Tue Feb 20 09:21:32 2018
+</item>
+<item name = "Version">2016.1 (Build 1538259 on Fri Apr 08 16:12:49 MDT 2016)</item>
+<item name = "Project">matrix_mul_vivado</item>
+<item name = "Solution">solution1</item>
+<item name = "Product family">virtex6</item>
+<item name = "Target device">xc6vlx240tff1156-1</item>
+</section>
+
+<section name = "Performance Estimates" level="0">
+<item name = "Timing (ns)">
+<section name = "" level="1">
+<item name = "Target clock period (ns)">10.00</item>
+<item name = "Clock uncertainty (ns)">1.25</item>
+<item name = "Estimated clock period (ns)">7.57</item>
+</section>
+</item>
+<item name = "Latency (clock cycles)">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="6">, min, max, min, max, Type</keys>
+<column name="">117, 117, 118, 118, none</column>
+</table>
+</item>
+<item name = "Detail">
+<section name = "" level="1">
+<item name = "Instance"><table name="" hasTotal="0">
+<keys size="7">Instance, Module, min, max, min, max, Type</keys>
+</table>
+</item>
+<item name = "Loop"><table name="" hasTotal="0">
+<keys size="8">Loop Name, min, max, Latency, achieved, target, Count, Pipelined</keys>
+<column name="- Loop 1">116, 116, 58, -, -, 2, no</column>
+<column name=" + Loop 1.1">56, 56, 28, -, -, 2, no</column>
+<column name="  ++ Loop 1.1.1">26, 26, 13, -, -, 2, no</column>
+</table>
+</item>
+</section>
+</item>
+</section>
+</item>
+</section>
+
+<section name = "Utilization Estimates" level="0">
+<item name = "Summary"><table name="" hasTotal="1">
+<keys size="5">Name, BRAM_18K, DSP48E, FF, LUT</keys>
+<column name="DSP">-, -, -, -</column>
+<column name="Expression">-, -, 0, 18</column>
+<column name="FIFO">-, -, -, -</column>
+<column name="Instance">-, 14, 763, 1014</column>
+<column name="Memory">-, -, -, -</column>
+<column name="Multiplexer">-, -, -, 85</column>
+<column name="Register">-, -, 287, -</column>
+<specialColumn name="Available">832, 768, 301440, 150720</specialColumn>
+<specialColumn name="Utilization (%)">0, 1, ~0, ~0</specialColumn>
+</table>
+</item>
+<item name = "Detail">
+<section name = "" level="1">
+<item name = "Instance"><table name="" hasTotal="1">
+<keys size="6">Instance, Module, BRAM_18K, DSP48E, FF, LUT</keys>
+<column name="matrix_mul_dadd_64ns_64ns_64_5_full_dsp_U1">matrix_mul_dadd_64ns_64ns_64_5_full_dsp, 0, 3, 446, 797</column>
+<column name="matrix_mul_dmul_64ns_64ns_64_6_max_dsp_U2">matrix_mul_dmul_64ns_64ns_64_6_max_dsp, 0, 11, 317, 217</column>
+</table>
+</item>
+<item name = "DSP48"><table name="" hasTotal="0">
+<keys size="3">Instance, Module, Expression</keys>
+</table>
+</item>
+<item name = "Memory"><table name="" hasTotal="1">
+<keys size="9">Memory, Module, BRAM_18K, FF, LUT, Words, Bits, Banks, W*Bits*Banks</keys>
+</table>
+</item>
+<item name = "FIFO"><table name="" hasTotal="1">
+<keys size="7">Name, BRAM_18K, FF, LUT, Depth, Bits, Size:D*B</keys>
+</table>
+</item>
+<item name = "Expression"><table name="" hasTotal="1">
+<keys size="7">Variable Name, Operation, DSP48E, FF, LUT, Bitwidth P0, Bitwidth P1</keys>
+<column name="i0_1_fu_123_p2">+, 0, 0, 2, 2, 1</column>
+<column name="i1_1_fu_135_p2">+, 0, 0, 2, 2, 1</column>
+<column name="i2_1_fu_164_p2">+, 0, 0, 2, 2, 1</column>
+<column name="tmp_1_fu_147_p2">+, 0, 0, 2, 2, 2</column>
+<column name="tmp_6_fu_176_p2">+, 0, 0, 2, 2, 2</column>
+<column name="tmp_8_fu_187_p2">+, 0, 0, 2, 2, 2</column>
+<column name="exitcond1_fu_129_p2">icmp, 0, 0, 2, 2, 3</column>
+<column name="exitcond2_fu_117_p2">icmp, 0, 0, 2, 2, 3</column>
+<column name="exitcond_fu_158_p2">icmp, 0, 0, 2, 2, 3</column>
+</table>
+</item>
+<item name = "Multiplexer"><table name="" hasTotal="1">
+<keys size="5">Name, LUT, Input Size, Bits, Total Bits</keys>
+<column name="ap_NS_fsm">15, 17, 1, 17</column>
+<column name="i0_reg_61">2, 2, 2, 4</column>
+<column name="i1_reg_73">2, 2, 2, 4</column>
+<column name="i2_reg_97">2, 2, 2, 4</column>
+<column name="storemerge_reg_84">64, 2, 64, 128</column>
+</table>
+</item>
+<item name = "Register"><table name="" hasTotal="1">
+<keys size="5">Name, FF, LUT, Bits, Const Bits</keys>
+<column name="a_load_reg_241">64, 0, 64, 0</column>
+<column name="ap_CS_fsm">16, 0, 16, 0</column>
+<column name="b_load_reg_246">64, 0, 64, 0</column>
+<column name="i0_1_reg_200">2, 0, 2, 0</column>
+<column name="i0_reg_61">2, 0, 2, 0</column>
+<column name="i1_1_reg_208">2, 0, 2, 0</column>
+<column name="i1_reg_73">2, 0, 2, 0</column>
+<column name="i2_1_reg_226">2, 0, 2, 0</column>
+<column name="i2_reg_97">2, 0, 2, 0</column>
+<column name="out_addr_reg_218">2, 0, 2, 0</column>
+<column name="storemerge_reg_84">64, 0, 64, 0</column>
+<column name="tmp_reg_213">1, 0, 2, 1</column>
+<column name="tmp_s_reg_251">64, 0, 64, 0</column>
+</table>
+</item>
+</section>
+</item>
+</section>
+
+<section name = "Interface" level="0">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="6">RTL Ports, Dir, Bits, Protocol, Source Object, C Type</keys>
+<column name="ap_clk">in, 1, ap_ctrl_hs, matrix_mul, return value</column>
+<column name="ap_rst">in, 1, ap_ctrl_hs, matrix_mul, return value</column>
+<column name="ap_start">in, 1, ap_ctrl_hs, matrix_mul, return value</column>
+<column name="ap_done">out, 1, ap_ctrl_hs, matrix_mul, return value</column>
+<column name="ap_idle">out, 1, ap_ctrl_hs, matrix_mul, return value</column>
+<column name="ap_ready">out, 1, ap_ctrl_hs, matrix_mul, return value</column>
+<column name="a_address0">out, 2, ap_memory, a, array</column>
+<column name="a_ce0">out, 1, ap_memory, a, array</column>
+<column name="a_q0">in, 64, ap_memory, a, array</column>
+<column name="b_address0">out, 2, ap_memory, b, array</column>
+<column name="b_ce0">out, 1, ap_memory, b, array</column>
+<column name="b_q0">in, 64, ap_memory, b, array</column>
+<column name="out_r_address0">out, 2, ap_memory, out_r, array</column>
+<column name="out_r_ce0">out, 1, ap_memory, out_r, array</column>
+<column name="out_r_we0">out, 1, ap_memory, out_r, array</column>
+<column name="out_r_d0">out, 64, ap_memory, out_r, array</column>
+</table>
+</item>
+</section>
+
+<section name = "Critical Path" level="0">
+<item name = "Max Delay">7.57</item>
+<item name = "Critical Path Table"><table name="Critical Path Table" hasTotal="0">
+<keys size="15">Name, Operator, Delay, Accumulated Delay, Store Source, Resource, Core, Interface, Type, Port, Array, Scope, Pointer, Callee, Phi Node</keys>
+<column name="'tmp_s', matrix_mul.c:28">dmul, 7.57, 7.57, -, -, -, -, -, -, -, -, -, -, -</column>
+</table>
+</item>
+</section>
+</profile>
