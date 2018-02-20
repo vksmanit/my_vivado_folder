@@ -15,7 +15,7 @@
 #include "matrix_mul_types.h"
 
 /* Function Declarations */
-extern void matrix_mul(const double a[4], const double b[4], double out[4]);
+extern void matrix_mul(double a[4], double b[4], double out[4]);
 
 #endif
 

@@ -16,7 +16,7 @@
  *                double out[4]
  * Return Type  : void
  */
-void matrix_mul(const double a[4], const double b[4], double out[4])
+void matrix_mul(double a[4], double b[4], double out[4])
 {
   int i0;
   int i1;
