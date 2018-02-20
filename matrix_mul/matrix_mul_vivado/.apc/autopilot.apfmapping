@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="rtwtypes.h" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/rtwtypes.h"/>
+    <originFiles name="rtw_proj.tmw" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/rtw_proj.tmw"/>
+    <originFiles name="matrix_mul_types.h" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_types.h"/>
+    <originFiles name="matrix_mul_terminate.o" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_terminate.o"/>
+    <originFiles name="matrix_mul_terminate.h" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_terminate.h"/>
+    <originFiles name="matrix_mul_terminate.c" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_terminate.c"/>
+    <originFiles name="matrix_mul_rtw.mk" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_rtw.mk"/>
+    <originFiles name="matrix_mul_ref.rsp" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_ref.rsp"/>
+    <originFiles name="matrix_mul_initialize.o" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_initialize.o"/>
+    <originFiles name="matrix_mul_initialize.h" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_initialize.h"/>
+    <originFiles name="matrix_mul_initialize.c" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul_initialize.c"/>
+    <originFiles name="matrix_mul.o" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul.o"/>
+    <originFiles name="matrix_mul.h" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul.h"/>
+    <originFiles name="matrix_mul.c" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul.c"/>
+    <originFiles name="matrix_mul.a" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/matrix_mul.a"/>
+    <originFiles name="codeInfo.mat" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/codeInfo.mat"/>
+    <originFiles name="buildInfo.mat" path="/home/vipinsoni/MTP/my_vivado_folder/matrix_mul/buildInfo.mat"/>
+  </source>
+  <testbench/>
+</autopilotfilemapping:AutoPilotFileMapping>
